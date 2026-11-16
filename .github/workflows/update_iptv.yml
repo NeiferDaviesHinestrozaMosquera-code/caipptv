@@ -1,0 +1,42 @@
+name: Actualizar Canales CXTv IPTV
+
+on:
+  schedule:
+    # Se ejecuta todos los lunes a las 05:00 UTC automáticamente
+    - cron: '0 5 * * 1'
+  workflow_dispatch: # Permite ejecutarlo manualmente con 1 clic desde GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-channels:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Descargar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependencias
+        run: |
+          pip install requests beautifulsoup4
+
+      - name: Escanear canales desde CXTv
+        run: |
+          python cxtv_scraper.py
+
+      - name: Generar listas M3U / M3U8
+        run: |
+          python generate_m3u.py
+
+      - name: Guardar y subir cambios al repositorio
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add cxtv_channels.json *.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: Canales actualizados [skip ci]" && git push)

@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CXTv Player - Smart TV Caixun & Web</title>
+  <link rel="icon" href="https://www.cxtvenvivo.com/assets/img/ui/logo-header.webp" type="image/webp">
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+  <style>
+    :root {
+      --bg-dark: #0f1015;
+      --bg-card: #181920;
+      --bg-card-hover: #262835;
+      --primary: #e50914;
+      --accent: #00d2ff;
+      --text: #ffffff;
+      --text-muted: #8e92a0;
+      --border: #2b2e3c;
+    }
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+    body {
+      background: var(--bg-dark);
+      color: var(--text);
+      display: flex;
+      height: 100vh;
+      overflow: hidden;
+    }
+    /* SIDEBAR */
+    #sidebar {
+      width: 360px;
+      min-width: 300px;
+      height: 100%;
+      background: var(--bg-card);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      z-index: 10;
+    }
+    .header {
+      padding: 16px;
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .header img {
+      height: 32px;
+    }
+    .header h1 {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: #fff;
+    }
+    .header span {
+      background: var(--primary);
+      font-size: 0.65rem;
+      padding: 2px 6px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      font-weight: 700;
+    }
+    .filters {
+      padding: 12px 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      border-bottom: 1px solid var(--border);
+    }
+    .search-box input {
+      width: 100%;
+      padding: 10px 14px;
+      background: #0b0c10;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      color: #fff;
+      font-size: 0.9rem;
+      outline: none;
+    }
+    .search-box input:focus {
+      border-color: var(--accent);
+    }
+    .filter-pills {
+      display: flex;
+      gap: 8px;
+      overflow-x: auto;
+      padding-bottom: 4px;
+    }
+    .filter-pills::-webkit-scrollbar {
+      height: 4px;
+    }
+    .filter-pills::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 4px;
+    }
+    .pill {
+      background: #11131a;
+      padding: 6px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+      cursor: pointer;
+      white-space: nowrap;
+      border: 1px solid var(--border);
+      transition: all 0.2s;
+    }
+    .pill.active, .pill:hover {
+      background: var(--primary);
+      color: #fff;
+      border-color: var(--primary);
+    }
+    #channel-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    #channel-list::-webkit-scrollbar {
+      width: 6px;
+    }
+    #channel-list::-webkit-scrollbar-thumb {
+      background: var(--border);
+      border-radius: 4px;
+    }
+    .channel-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      padding: 10px 12px;
+      border-radius: 8px;
+      cursor: pointer;
+      background: rgba(255, 255, 255, 0.02);
+      border: 1px solid transparent;
+      transition: all 0.2s;
+    }
+    .channel-item:hover, .channel-item:focus {
+      background: var(--bg-card-hover);
+      border-color: var(--accent);
+      transform: translateX(3px);
+    }
+    .channel-item.active {
+      background: rgba(229, 9, 20, 0.15);
+      border-color: var(--primary);
+    }
+    .channel-item img {
+      width: 44px;
+      height: 44px;
+      object-fit: contain;
+      background: #000;
+      border-radius: 6px;
+      padding: 2px;
+      border: 1px solid var(--border);
+    }
+    .channel-info {
+      flex: 1;
+      overflow: hidden;
+    }
+    .channel-name {
+      font-size: 0.92rem;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+    .channel-meta {
+      font-size: 0.75rem;
+      color: var(--text-muted);
+      margin-top: 2px;
+      display: flex;
+      gap: 6px;
+    }
+    .badge-country {
+      color: var(--accent);
+    }
+    /* MAIN PLAYER */
+    #main-content {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+      background: #000;
+      position: relative;
+    }
+    #player-container {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #000;
+    }
+    video, iframe {
+      width: 100%;
+      height: 100%;
+      object-fit: contain;
+      outline: none;
+    }
+    #top-bar {
+      padding: 12px 20px;
+      background: rgba(15, 16, 21, 0.85);
+      backdrop-filter: blur(8px);
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--border);
+    }
+    .current-title {
+      font-size: 1.1rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .live-indicator {
+      display: inline-block;
+      width: 8px;
+      height: 8px;
+      background: #00ff66;
+      border-radius: 50%;
+      box-shadow: 0 0 8px #00ff66;
+    }
+    .controls {
+      display: flex;
+      gap: 10px;
+    }
+    .btn {
+      background: #20222c;
+      color: #fff;
+      border: 1px solid var(--border);
+      padding: 8px 14px;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 0.85rem;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn:hover {
+      background: var(--bg-card-hover);
+      border-color: var(--accent);
+    }
+    .btn-primary {
+      background: var(--primary);
+      border-color: var(--primary);
+    }
+    .btn-primary:hover {
+      background: #b80710;
+    }
+    #status-overlay {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      text-align: center;
+      pointer-events: none;
+      display: none;
+    }
+    #status-overlay.show {
+      display: block;
+    }
+    .spinner {
+      border: 4px solid rgba(255, 255, 255, 0.1);
+      border-top: 4px solid var(--accent);
+      border-radius: 50%;
+      width: 44px;
+      height: 44px;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 12px;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+    /* SMART TV REMOTE GUIDE */
+    .tv-hint {
+      position: absolute;
+      bottom: 12px;
+      right: 16px;
+      background: rgba(0,0,0,0.7);
+      padding: 6px 12px;
+      border-radius: 6px;
+      font-size: 0.75rem;
+      color: #888;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- SIDEBAR CANALES -->
+  <aside id="sidebar">
+    <div class="header">
+      <img src="https://www.cxtvenvivo.com/assets/img/ui/logo-header.webp" alt="CXTv Logo">
+      <h1>CXTv IPTV</h1>
+      <span>WHALE OS</span>
+    </div>
+
+    <div class="filters">
+      <div class="search-box">
+        <input type="text" id="search-input" placeholder="🔍 Buscar canal..." autocomplete="off">
+      </div>
+      <div class="filter-pills" id="country-pills">
+        <div class="pill active" data-filter="all">Todos</div>
+        <div class="pill" data-filter="Colombia">🇨🇴 Colombia</div>
+        <div class="pill" data-filter="México">🇲🇽 México</div>
+        <div class="pill" data-filter="Argentina">🇦🇷 Argentina</div>
+        <div class="pill" data-filter="España">🇪🇸 España</div>
+        <div class="pill" data-filter="Estados Unidos">🇺🇸 USA</div>
+      </div>
+    </div>
+
+    <div id="channel-list">
+      <div style="text-align:center; padding:30px; color:#888;">Cargando canales...</div>
+    </div>
+  </aside>
+
+  <!-- CONTENIDO PRINCIPAL / PLAYER -->
+  <main id="main-content">
+    <div id="top-bar">
+      <div class="current-title">
+        <span class="live-indicator"></span>
+        <span id="playing-name">Selecciona un canal para comenzar</span>
+      </div>
+      <div class="controls">
+        <button class="btn" id="btn-reload" title="Recargar señal">🔄 Recargar</button>
+        <button class="btn" id="btn-fullscreen" title="Pantalla completa">⛶ Pantalla Completa</button>
+      </div>
+    </div>
+
+    <div id="player-container">
+      <video id="video-player" controls autoplay playsinline></video>
+      <iframe id="iframe-player" style="display:none;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      
+      <div id="status-overlay">
+        <div class="spinner"></div>
+        <div id="status-text">Cargando transmisión en vivo...</div>
+      </div>
+
+      <div class="tv-hint">
+        💡 En TV Caixun: Usa flechas Arriba/Abajo para cambiar canal, Enter para ver, F para pantalla completa.
+      </div>
+    </div>
+  </main>
+
+  <script>
+    let allChannels = [];
+    let currentFilter = 'all';
+    let currentChannel = null;
+    let hls = null;
+
+    const videoEl = document.getElementById('video-player');
+    const iframeEl = document.getElementById('iframe-player');
+    const listEl = document.getElementById('channel-list');
+    const searchInput = document.getElementById('search-input');
+    const playingName = document.getElementById('playing-name');
+    const statusOverlay = document.getElementById('status-overlay');
+    const statusText = document.getElementById('status-text');
+
+    // Cargar canales desde JSON local o backend
+    async function loadChannels() {
+      try {
+        const res = await fetch('../cxtv_channels.json');
+        allChannels = await res.json();
+        // Filtrar aquellos que tienen stream
+        allChannels = allChannels.filter(c => c.stream_url);
+        renderChannels();
+        if (allChannels.length > 0) {
+          // Play first Colombia channel or first available
+          const firstCol = allChannels.find(c => c.country === 'Colombia') || allChannels[0];
+          playChannel(firstCol);
+        }
+      } catch (e) {
+        console.error("Error al cargar canales:", e);
+        listEl.innerHTML = `<div style="padding:20px; color:#ff4d4d; text-align:center;">
+          Error al cargar los canales.<br><small>Asegúrate de que el archivo cxtv_channels.json exista o inicia el servidor local.</small>
+        </div>`;
+      }
+    }
+
+    function renderChannels() {
+      const query = searchInput.value.toLowerCase().trim();
+      let filtered = allChannels;
+
+      if (currentFilter !== 'all') {
+        filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentFilter.toLowerCase()));
+      }
+
+      if (query) {
+        filtered = filtered.filter(c => 
+          (c.name && c.name.toLowerCase().includes(query)) ||
+          (c.country && c.country.toLowerCase().includes(query)) ||
+          (c.categories && c.categories.some(cat => cat.toLowerCase().includes(query)))
+        );
+      }
+
+      listEl.innerHTML = '';
+      if (filtered.length === 0) {
+        listEl.innerHTML = '<div style="padding:20px; color:#888; text-align:center;">No se encontraron canales.</div>';
+        return;
+      }
+
+      filtered.forEach(ch => {
+        const item = document.createElement('div');
+        item.className = 'channel-item' + (currentChannel && currentChannel.id === ch.id ? ' active' : '');
+        item.tabIndex = 0; // Para navegación por mando a distancia
+
+        const defaultLogo = 'https://www.cxtvenvivo.com/assets/img/ui/logo-header.webp';
+        const logoUrl = ch.logo || defaultLogo;
+
+        const category = (ch.categories && ch.categories[0]) || 'TV';
+        const country = ch.country || 'Global';
+
+        item.innerHTML = `
+          <img src="${logoUrl}" onerror="this.src='${defaultLogo}'" alt="${ch.name}">
+          <div class="channel-info">
+            <div class="channel-name">${ch.name}</div>
+            <div class="channel-meta">
+              <span class="badge-country">${country}</span> • <span>${category}</span>
+            </div>
+          </div>
+        `;
+
+        item.addEventListener('click', () => playChannel(ch));
+        item.addEventListener('keydown', (ev) => {
+          if (ev.key === 'Enter') playChannel(ch);
+        });
+
+        listEl.appendChild(item);
+      });
+    }
+
+    function playChannel(ch) {
+      if (!ch || !ch.stream_url) return;
+      currentChannel = ch;
+      playingName.textContent = `${ch.name} (${ch.country || 'Internacional'})`;
+
+      // Update active highlight
+      document.querySelectorAll('.channel-item').forEach(el => el.classList.remove('active'));
+      const activeEl = Array.from(document.querySelectorAll('.channel-item')).find(el => el.textContent.includes(ch.name));
+      if (activeEl) activeEl.classList.add('active');
+
+      showStatus("Conectando con la señal en vivo...");
+
+      if (ch.stream_type === 'youtube' || ch.stream_type === 'iframe') {
+        // Reproducir vía iframe
+        if (hls) { hls.destroy(); hls = null; }
+        videoEl.pause();
+        videoEl.style.display = 'none';
+        iframeEl.style.display = 'block';
+        iframeEl.src = ch.stream_url;
+        hideStatus();
+      } else {
+        // Reproducir vía Video / HLS
+        iframeEl.src = '';
+        iframeEl.style.display = 'none';
+        videoEl.style.display = 'block';
+
+        if (Hls.isSupported()) {
+          if (hls) hls.destroy();
+          hls = new Hls({
+            enableWorker: true,
+            lowLatencyMode: true,
+            backBufferLength: 90
+          });
+          hls.loadSource(ch.stream_url);
+          hls.attachMedia(videoEl);
+          hls.on(Hls.Events.MANIFEST_PARSED, function () {
+            hideStatus();
+            videoEl.play().catch(e => console.log("Autoplay bloqueado:", e));
+          });
+          hls.on(Hls.Events.ERROR, function (event, data) {
+            if (data.fatal) {
+              switch (data.type) {
+                case Hls.ErrorTypes.NETWORK_ERROR:
+                  showStatus("Error de red al conectar señal. Reintentando...");
+                  hls.startLoad();
+                  break;
+                case Hls.ErrorTypes.MEDIA_ERROR:
+                  hls.recoverMediaError();
+                  break;
+                default:
+                  showStatus("La señal no pudo cargarse directamente. Reintenta otro canal.");
+                  hls.destroy();
+                  break;
+              }
+            }
+          });
+        } else if (videoEl.canPlayType('application/vnd.apple.mpegurl')) {
+          // Nativo en navegadores Smart TV / Safari
+          videoEl.src = ch.stream_url;
+          videoEl.addEventListener('loadedmetadata', function () {
+            hideStatus();
+            videoEl.play();
+          });
+        } else {
+          showStatus("Tu navegador no soporta reproducción HLS.");
+        }
+      }
+    }
+
+    function showStatus(text) {
+      statusText.textContent = text;
+      statusOverlay.classList.add('show');
+    }
+
+    function hideStatus() {
+      statusOverlay.classList.remove('show');
+    }
+
+    // Eventos
+    searchInput.addEventListener('input', renderChannels);
+
+    document.querySelectorAll('.filter-pills .pill').forEach(pill => {
+      pill.addEventListener('click', () => {
+        document.querySelectorAll('.filter-pills .pill').forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        currentFilter = pill.dataset.filter;
+        renderChannels();
+      });
+    });
+
+    document.getElementById('btn-fullscreen').addEventListener('click', () => {
+      const container = document.getElementById('player-container');
+      if (!document.fullscreenElement) {
+        container.requestFullscreen().catch(err => alert(`Error al entrar en pantalla completa: ${err.message}`));
+      } else {
+        document.exitFullscreen();
+      }
+    });
+
+    document.getElementById('btn-reload').addEventListener('click', () => {
+      if (currentChannel) playChannel(currentChannel);
+    });
+
+    // Teclado para control de TV
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'f' || e.key === 'F') {
+        document.getElementById('btn-fullscreen').click();
+      }
+    });
+
+    // Inicializar
+    loadChannels();
+  </script>
+</body>
+</html>
