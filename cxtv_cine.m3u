@@ -1,0 +1,554 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+# CXTv IPTV Playlist: Canales de Cine, Series y Telenovelas
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="1980-channel" tvg-name="1980 Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="🎬 Cine y Series",1980 Channel
+https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
+#EXTINF:-1 tvg-id="13-tv" tvg-name="13 TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f5d4a433a6402346d4390128d7a518.webp" group-title="🎬 Cine y Series",13 TV en directo
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="30a-tv-sci-fi" tvg-name="30A TV - Sci Fi & Spooky" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/141f7905c2cc17032ca30ab8962398ec.webp" group-title="🎬 Cine y Series",30A TV - Sci Fi & Spooky
+https://30a-tv.com/feeds/vidaa/scifi.m3u8
+#EXTINF:-1 tvg-id="abc-brasil" tvg-name="ABC Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e6b2a8234bf98dd9e50342cbe7631f9.webp" group-title="🎬 Cine y Series",ABC Brasil
+https://stmv1.srvstm.com/abc7891/abc7891/playlist.m3u8
+#EXTINF:-1 tvg-id="action-hollywood-movies" tvg-name="Action Hollywood Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e72a55131ffe44f85845456ed45a407d.webp" group-title="🎬 Cine y Series",Action Hollywood Movies
+https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/playlist/amg01076-lightning-actionhollywood-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="accion-mexicana" tvg-name="Acción Mexicana" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp" group-title="🎬 Cine y Series",Acción Mexicana
+https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="all-reality-we-tv" tvg-name="All Reality WE tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/27339fa7dc527fb5dbcb287491de97b9.webp" group-title="🎬 Cine y Series",All Reality WE tv
+https://amc-absolutereality-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="all-weddings" tvg-name="All Weddings" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77a2bd08b69d89f4447c5e1118e4e550.webp" group-title="🎬 Cine y Series",All Weddings
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="amc-en-espanol" tvg-name="AMC En Espanõl" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9e8efdd95d7a2876bfd278dd9ba63d.webp" group-title="🎬 Cine y Series",AMC En Espanõl
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="anime-tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="🎬 Cine y Series",Anime Tv
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="anger-management-channel" tvg-name="Anger Management Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/972ae52a155cb5cad734896ae74159aa.webp" group-title="🎬 Cine y Series",Anger Management Channel
+https://amg00353-lionsgatestudio-angermgmt-samsungau-o9jg9.amagi.tv/playlist/amg00353-lionsgatestudio-angermgmt-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="anitv" tvg-name="AniTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="🎬 Cine y Series",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="🎬 Cine y Series",Animax
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="antiques-road-trip" tvg-name="Antiques Road Trip" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fcca9a612da37f6538c113a44c08a6b.webp" group-title="🎬 Cine y Series",Antiques Road Trip
+https://aegis-cloudfront-1.tubi.video/b42ac280-5300-4db0-8a63-2ec2e52c5b5c/playlist.m3u8
+#EXTINF:-1 tvg-id="are-we-there-yet" tvg-name="Are We There Yet" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7224f65a8ddcbe97ad6876d8b45b6259.webp" group-title="🎬 Cine y Series",Are We There Yet
+https://aegis-cloudfront-1.tubi.video/453e03c1-3a9f-415c-9370-5c744b19a748/playlist.m3u8
+#EXTINF:-1 tvg-id="artflix" tvg-name="ARTFLIX" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3be7068761f25745be2b8ebb20a0f26d.webp" group-title="🎬 Cine y Series",ARTFLIX
+https://amogonetworx-artflix-3-es.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="awcchannel" tvg-name="AWTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/862465d1835288b2ae6d11f27507a791.webp" group-title="🎬 Cine y Series",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="baywatch" tvg-name="Baywatch" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/399116e07650d9f98ba49a2f334249af.webp" group-title="🎬 Cine y Series",Baywatch
+https://aegis-cloudfront-1.tubi.video/9d1cd886-32b9-41ce-a7de-3babb46506aa/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc-two" tvg-name="BBC Two" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/55eaed28a8af142d57400f8222ffe314.webp" group-title="🎬 Cine y Series",BBC Two
+https://adpnetworkhd-cmd.github.io/iptv/BBCTwo.m3u8
+#EXTINF:-1 tvg-id="bbc-three" tvg-name="BBC Three" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c68265415dabdb84a378741d5d1afbb.webp" group-title="🎬 Cine y Series",BBC Three
+https://streamer.nexyl.uk/39290a19-b8dd-43ea-b8dc-081c37790f24.m3u8
+#EXTINF:-1 tvg-id="blits-tv" tvg-name="BLITS TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/92c871be35b8395afbb31f8986691c2a.webp" group-title="🎬 Cine y Series",BLITS TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-id="biggest-loser" tvg-name="Biggest Loser" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96adca2d3410f4ef41325350b1fa82a4.webp" group-title="🎬 Cine y Series",Biggest Loser
+https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8
+#EXTINF:-1 tvg-id="bounce-xl" tvg-name="Bounce XL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08830c9b5e9e1a6d91dfa738aeb57a5f.webp" group-title="🎬 Cine y Series",Bounce XL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="bons-tempos" tvg-name="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="🎬 Cine y Series",Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="box-cinema" tvg-name="Box Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ba7ca59223bc09b6d05514f64924ae.webp" group-title="🎬 Cine y Series",Box Cinema
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
+#EXTINF:-1 tvg-id="canal-2-tv-nova-juarez" tvg-name="Canal 2 - Tv Nova Juarez" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6040bb525a1603dc1ff55b66f733864e.webp" group-title="🎬 Cine y Series",Canal 2 - Tv Nova Juarez
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-13-tele-series" tvg-name="Canal 13 Tele Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d229585ceb5e5f05774a74489ee51535.webp" group-title="🎬 Cine y Series",Canal 13 Tele Series
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="canal-29" tvg-name="Canal 29" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="🎬 Cine y Series",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-mas" tvg-name="Canal Mas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp" group-title="🎬 Cine y Series",Canal Mas
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+#EXTINF:-1 tvg-id="canal-plural" tvg-name="Canal Plural" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e68afbd19480c30a542d435905e767c.webp" group-title="🎬 Cine y Series",Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-clasicos" tvg-name="Canela Clásicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aac2f08ae5a1c77838cc33fa483754d9.webp" group-title="🎬 Cine y Series",Canela Clásicos
+https://amg00658-amg00658c9-canelatv-international-7219.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clasicosuslt-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-cinema" tvg-name="Canela Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efea896119450ed5bdc725f270cf31ec.webp" group-title="🎬 Cine y Series",Canela Cinema
+https://amg00658-amg00658c8-canelatv-international-7227.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cinemalt-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-seis-el-salvador" tvg-name="Canal Seis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b37dbf75dfdf5f5c5b4cb3f06c4e5a9b.webp" group-title="🎬 Cine y Series",Canal Seis
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="canela-tv-novelas-dramas" tvg-name="Canela TV Novelas y Dramas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4877cbe7d62c4778e2a805aef5aca466.webp" group-title="🎬 Cine y Series",Canela TV Novelas y Dramas
+https://amg00658-amg00658c99-canelatv-international-7218.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pasionlatina-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-narco-drama" tvg-name="Canela Narco-Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48985d9dc0fd0b1ecac21b18ff6f0077.webp" group-title="🎬 Cine y Series",Canela Narco-Drama
+https://amg00658-amg00658c13-canelatv-international-7229.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-narcodramaltus-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv" tvg-name="Canela TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="🎬 Cine y Series",Canela TV
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv-2" tvg-name="Canela TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a92c2108c2636d87761afe4902bfe3d4.webp" group-title="⚽ Deportes",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="canela-tv-novelas-legendarias" tvg-name="Canela Tv Novelas Legendarias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d0f9f44da201e5c7b904f4bc860f304.webp" group-title="🎬 Cine y Series",Canela Tv Novelas Legendarias
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="caravana-play" tvg-name="Caravana Play" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14bb184c151e53c2210b218fff80f69e.webp" group-title="🎬 Cine y Series",Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+#EXTINF:-1 tvg-id="rouge-tv" tvg-name="CARAC1 (Rouge TV)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41e6c86bda3b8692d9ea3bc24309f105.webp" group-title="🎬 Cine y Series",CARAC1 (Rouge TV)
+https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:-1 tvg-id="carol-burnett-show" tvg-name="Carol Burnett Show" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/682cb7be7a84e49185af7ba6ac9c21fa.webp" group-title="🎬 Cine y Series",Carol Burnett Show
+https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8
+#EXTINF:-1 tvg-id="carinosa-tv" tvg-name="Cariñosa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="🎬 Cine y Series",Cariñosa TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+#EXTINF:-1 tvg-id="cg-entertainment" tvg-name="CG Entertainment" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/316471f024725cfdcb571dcfb79466f4.webp" group-title="🎬 Cine y Series",CG Entertainment
+https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="celestial-tv" tvg-name="Celestial TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba9007531dcf585403c0d806bed538cf.webp" group-title="🎬 Cine y Series",Celestial TV
+https://kali1.everestcast.com:3371/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="charge" tvg-name="Charge!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/504af465ec35e0f9ae3f3ff58daba0e8.webp" group-title="🎬 Cine y Series",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index_1.m3u8
+#EXTINF:-1 tvg-id="channel-1" tvg-name="CHANNEL 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac834a189809106bcd9593bfa5269e47.webp" group-title="🎬 Cine y Series",CHANNEL 1
+https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
+#EXTINF:-1 tvg-id="choppertown" tvg-name="Choppertown" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b8e0e93ba25dbe88a9aab2f0c6f47df7.webp" group-title="🎬 Cine y Series",Choppertown
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-en-familia" tvg-name="Cine en Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/62116ba7c263708bbcdb7718f012522b.webp" group-title="🎬 Cine y Series",Cine en Familia
+https://amg00658-amg00658c78-canelatv-international-5651.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineenfamilialtta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-kids" tvg-name="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="🎬 Cine y Series",Cine Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-id="cine-brasil" tvg-name="Cine Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ecc606f1cc8b333cb29b972cc2209475.webp" group-title="🎬 Cine y Series",Cine Brasil
+https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="cindie-lite-espanol" tvg-name="Cindie Lite - Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25faaf3db0e171a0cee03bbc6d9981b0.webp" group-title="🎬 Cine y Series",Cindie Lite - Español
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="cine-nanar" tvg-name="Cine Nanar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f15ca618c6d255331d33f2119a502fc0.webp" group-title="🎬 Cine y Series",Cine Nanar
+https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="🎬 Cine y Series",Cine Friki en directo
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="cindie-lite" tvg-name="Cindie Lite" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42ad5ffc09cbd3ffd6139d6fcfa234f6.webp" group-title="🎬 Cine y Series",Cindie Lite
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="cine-feel-good-verdi-tv" tvg-name="Cine Feel Good Verdi TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ade3c4ee69d36ea61f7cdfd1b4f1695.webp" group-title="🎬 Cine y Series",Cine Feel Good Verdi TV en directo
+https://daiconnect.com/live/hls/tvup/tvfy-feelgood/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8
+#EXTINF:-1 tvg-id="cine-western" tvg-name="Cine Western" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/039e6c4f6df0056b13bc907e64b8b66b.webp" group-title="🎬 Cine y Series",Cine Western
+https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="cinevault-80s" tvg-name="Cinevault 80's" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/96879780f5c33998dfdc56e783bdd572.webp" group-title="🎬 Cine y Series",Cinevault 80's
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-romantico" tvg-name="Cine Romántico en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp" group-title="🎬 Cine y Series",Cine Romántico en directo
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b5b7475d2d3ed8591864fe64d34e499.webp" group-title="🎬 Cine y Series",Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
+#EXTINF:-1 tvg-id="cinepix-tv" tvg-name="CinePIX TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="🎬 Cine y Series",CinePIX TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-id="cines-verdi-tv" tvg-name="Cines Verdi TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8d01f0cd8d7603c06cae1e95f73a669.webp" group-title="🎬 Cine y Series",Cines Verdi TV en directo
+https://daiconnect.com/live/hls/tvup/futcineverdi/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
+#EXTINF:-1 tvg-id="cine-5-tv" tvg-name="CINE 5 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6fb6ebd490b2125320a59054b7a8c1a8.webp" group-title="🎬 Cine y Series",CINE 5 TV
+https://host.onlineradyotv.net:8081/cine5tv/index.m3u8
+#EXTINF:-1 tvg-id="cinevault-westerns" tvg-name="Cinevault Westerns" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/717730da1e8a6b6d5dd929caa8ced02a.webp" group-title="🎬 Cine y Series",Cinevault Westerns
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cine-ar" tvg-name="CINE.AR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1bb1c7e7f157b92df8d856ec607f5a7.webp" group-title="🎬 Cine y Series",CINE.AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="classique-tv" tvg-name="Classique TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f032a160e2b4cbb9de8f0080b845c9ca.webp" group-title="🎬 Cine y Series",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="cinevault-classics" tvg-name="Cinevault Classics" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbdeceaa4cb380258c49f6c42ca03adb.webp" group-title="🎬 Cine y Series",Cinevault Classics
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="classique-tv-series-1" tvg-name="Classique Tv Séries 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2facd9de3a888b8015197f7e7adfb318.webp" group-title="🎬 Cine y Series",Classique Tv Séries 1
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="clic" tvg-name="Clic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp" group-title="🎬 Cine y Series",Clic
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="color-vision-canal-9" tvg-name="Color Vision Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="🎬 Cine y Series",Color Vision Canal 9
+https://cdn0.360playvid.com/CHVIDIDmutt54f7grpfvykjy3e/hls/index.m3u8
+#EXTINF:-1 tvg-id="comet-tv" tvg-name="Comet TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3942f7ebae1ac5c7921afafa9ee927db.webp" group-title="🎬 Cine y Series",Comet TV
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:-1 tvg-id="cops-en-espanol" tvg-name="Cops en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/861f7be9e22e87c60bd864944229b831.webp" group-title="🎬 Cine y Series",Cops en Español
+https://rightsboosterltd-cops-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cosmos" tvg-name="Cosmos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a5b068f29df7cf0947454eb4ad95653.webp" group-title="🎬 Cine y Series",Cosmos
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cosmos.m3u8
+#EXTINF:-1 tvg-id="corazon" tvg-name="Corazón" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd558116e424f19f92ce5633e256e6c.webp" group-title="🎬 Cine y Series",Corazón
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 tvg-id="con-amor" tvg-name="Con Amor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ec15b25770b9ed7aceecfac2f3c13cd.webp" group-title="🎬 Cine y Series",Con Amor
+https://amg00658-amg00658c86-canelatv-international-5891.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonalappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="crime-e-investigacao" tvg-name="Crime e Investigação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2cdebe5a7f3e743571feecafe10aa023.webp" group-title="🎬 Cine y Series",Crime e Investigação
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889430
+#EXTINF:-1 tvg-id="deal-or-no-deal" tvg-name="Deal or No Deal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ac5d9892236f25e20aec331ba059c32.webp" group-title="🎬 Cine y Series",Deal or No Deal
+https://amg00627-banijaygroup-dealornodeal-samsungau-si7xg.amagi.tv/playlist/amg00627-banijaygroup-dealornodeal-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="discover-film" tvg-name="Discover Film" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71c0f738697bd4a28447b3187df8477.webp" group-title="🎬 Cine y Series",Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="distrito-tv" tvg-name="Distrito TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8a55262a4a49bd5a135035bc84a653c.webp" group-title="🎬 Cine y Series",Distrito TV en directo
+https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="dove-channel" tvg-name="Dove Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37f04d7a278b2362e52f0e06d1216bed.webp" group-title="🎬 Cine y Series",Dove Channel
+https://linear-896.frequency.stream/dist/xumo/896/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="el-rey-rebel" tvg-name="El Rey Rebel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/37c126022fd1427f5e48616b60de5f03.webp" group-title="🎬 Cine y Series",El Rey Rebel
+https://amg00375-fusemedia-elrey-ono-ryihg.amagi.tv/playlist/amg00375-fusemedia-elrey-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="el-conflicto-tv" tvg-name="El Conflicto TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bf035d42f5ba99763eefc425bab77389.webp" group-title="🎬 Cine y Series",El Conflicto TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3961
+#EXTINF:-1 tvg-id="emotion-l" tvg-name="Emotion L" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b79050218563a1814412d2e344d2737b.webp" group-title="🎬 Cine y Series",Emotion L
+https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="electric-now" tvg-name="Electric Now" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89edbbff34fa08f47de48f45d673d0da.webp" group-title="🎬 Cine y Series",Electric Now
+https://elec-en-xumo.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1 tvg-id="escuchame-radio-tv" tvg-name="Escuchame Radio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e49738a8073bf9b8d558abdeb0c17e76.webp" group-title="🎬 Cine y Series",Escuchame Radio Tv
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="fear-factor-usa" tvg-name="Fear Factor USA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/18dc84d24b1af14a148b4bcc9ffe2564.webp" group-title="🎬 Cine y Series",Fear Factor USA
+https://amg00627-banijaygroup-fearfactor-samsungau-9vdod.amagi.tv/playlist/amg00627-banijaygroup-fearfactor-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="film" tvg-name="Film & Co" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73063279241e10678c6f3c14eac8bcfc.webp" group-title="🎬 Cine y Series",Film & Co
+https://daiconnect.com/live/hls/tvup/tvfy-filmco/3a89a498229b9adc9cb8ed05535ab980/index.m3u8
+#EXTINF:-1 tvg-id="filmrise-dr-g-medical-examiner" tvg-name="Filmrise Dr.G. Medical Examiner" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f8c7ab762f85cee065f205bb0665ae8.webp" group-title="🎬 Cine y Series",Filmrise Dr.G. Medical Examiner
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008
+#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="Fiestas en Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="🇨🇴 Colombia",Fiestas en Familia
+https://amg00658-amg00658c86-canelatv-international-5891.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonalappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="filmrise-forensic-files" tvg-name="Filmrise Forensic Files" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/98843ddadbf346a8eca02391a9489bb2.webp" group-title="🎬 Cine y Series",Filmrise Forensic Files
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889308
+#EXTINF:-1 tvg-id="filmrise-unsolved-mysteries" tvg-name="Filmrise Unsolved Mysteries" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99c30351cc0c588fc811afa1cdab4565.webp" group-title="🎬 Cine y Series",Filmrise Unsolved Mysteries
+https://d31z96rdrmwfsp.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="filmrise-free-movies" tvg-name="FilmRise Free Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d8d5f0a464e1242b4fde108caaa6570.webp" group-title="🎬 Cine y Series",FilmRise Free Movies
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992272
+#EXTINF:-1 tvg-id="filmrise-series-gratis-es" tvg-name="FilmRise Series Gratis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8fa20df559ff3a32f843eebac7adaa31.webp" group-title="🎬 Cine y Series",FilmRise Series Gratis
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889326
+#EXTINF:-1 tvg-id="filmelier-tv" tvg-name="Filmelier TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb56bafc9a09ea999dcb21ab523b4f5f.webp" group-title="🎬 Cine y Series",Filmelier TV
+https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="filmes-online" tvg-name="Filmes Online" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf711b0c34fdda729cf379ba14f8cffb.webp" group-title="🎬 Cine y Series",Filmes Online
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-id="filmrise-black-tv" tvg-name="Filmrise Black TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/994a83ed7a78225ea603ae42afe22f9a.webp" group-title="🎬 Cine y Series",Filmrise Black TV
+https://live-manifest.production-public.tubi.io/live/da01f337-3ba0-4b43-b675-b0f155153fb0/playlist.m3u8
+#EXTINF:-1 tvg-id="filmrise-true-crime" tvg-name="FilmRise True Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cdf44295bdcaa3bb152b2e55b1791e4.webp" group-title="🎬 Cine y Series",FilmRise True Crime
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889316
+#EXTINF:-1 tvg-id="filmrise-series-gratuitas" tvg-name="FilmRise Séries Gratuitas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d14f93731e74194bccfccf86df7e019f.webp" group-title="🎬 Cine y Series",FilmRise Séries Gratuitas
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889320
+#EXTINF:-1 tvg-id="flou-detonacion" tvg-name="Flou Detonación" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d80758384aa185a9ce165b3195ee6327.webp" group-title="🎬 Cine y Series",Flou Detonación
+https://linear-930.frequency.stream/dist/distrotv/930/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="filmrise-peliculas-gratis" tvg-name="FilmRise Películas Gratis en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e793cb4dc38511f11aa456db33a7a866.webp" group-title="🎬 Cine y Series",FilmRise Películas Gratis en directo
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+#EXTINF:-1 tvg-id="free-tv-accion" tvg-name="Free TV Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="🇨🇴 Colombia",Free TV Acción
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv" tvg-name="Free TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/abb2072bbd91067dea9ef6dd9be705de.webp" group-title="🎬 Cine y Series",Free TV
+https://amg01024-olympusat-chiquilines-ono-ad-et.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="freetv-crime" tvg-name="FreeTV Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60e3d0eb291c1c86f567c06f75642620.webp" group-title="🎬 Cine y Series",FreeTV Crime
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr_720p.m3u8
+#EXTINF:-1 tvg-id="frequence-novelas" tvg-name="Frequence Novelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b8b6c07b5223ea107de11f267c16eb6.webp" group-title="🎬 Cine y Series",Frequence Novelas
+https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="free-tv-estelar" tvg-name="Free TV Estelar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7dd923570b66f31b6acbffb18de481ab.webp" group-title="🎬 Cine y Series",Free TV Estelar
+https://amg01024-olympusat-tucinelatam-ono-ad-40.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-drama" tvg-name="Free TV Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="🇨🇴 Colombia",Free TV Drama
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-sureno" tvg-name="Free TV Sureño" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7e030786c319ae1f2f95da18b6cf634e.webp" group-title="🎬 Cine y Series",Free TV Sureño
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-familia" tvg-name="Free TV Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="🎬 Cine y Series",Free TV Familia
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-clasico" tvg-name="Free TV Clásico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51e560600b65af19f305f491df5d04ac.webp" group-title="🎬 Cine y Series",Free TV Clásico
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16215
+#EXTINF:-1 tvg-id="geekdot-br" tvg-name="Geekdot" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp" group-title="🎬 Cine y Series",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="giallo" tvg-name="Giallo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/deb0c2425c2152efa6e186de33e8b415.webp" group-title="🎬 Cine y Series",Giallo
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 tvg-id="gln-tv" tvg-name="GLN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44db0c12711ce2d991d60021cda8a8d2.webp" group-title="🎬 Cine y Series",GLN TV
+https://stmv2.srvsh.com.br/gerson8874/gerson8874/playlist.m3u8
+#EXTINF:-1 tvg-id="grit-extra" tvg-name="Grit Extra" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/66f33d10b1cc5d4f60aaf39d519d92bc.webp" group-title="🎬 Cine y Series",Grit Extra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="gospel-movie-tv" tvg-name="Gospel Movie TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec2c361a5ce07ba0f7987bcd36dbb1d.webp" group-title="🎬 Cine y Series",Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1 tvg-id="grjngo-espanol" tvg-name="Grjngo Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8733d77d3a29296b066646316f579c48.webp" group-title="🎬 Cine y Series",Grjngo Español en directo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="grjngo" tvg-name="Grjngo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="🎬 Cine y Series",Grjngo
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="grjngo-western-movies" tvg-name="Grjngo Western Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/98bdba996164114f3ce285474695492d.webp" group-title="🎬 Cine y Series",Grjngo Western Movies
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="guaymate-tv" tvg-name="Guaymate Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="🎬 Cine y Series",Guaymate Tv
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-id="hallmark-movies-mysteries-east" tvg-name="Hallmark Movies & Mysteries East" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/267cffbdc5db5058e88330d0a496a846.webp" group-title="🎬 Cine y Series",Hallmark Movies & Mysteries East
+https://live-content.xumo.com/2777/content/XM001DDP8HHU8D/25245583/master.m3u8
+#EXTINF:-1 tvg-id="hardcore-pawn" tvg-name="Hardcore Pawn - Em Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c12ee932ef481d882e426fb323250a8.webp" group-title="🎬 Cine y Series",Hardcore Pawn - Em Português
+https://amg00627-amg00627c47-plex-international-8092.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 tvg-id="happy-tv" tvg-name="Happy TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4001b18cb8d7bc75ad37fdc6133f3cc6.webp" group-title="🎬 Cine y Series",Happy TV
+https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="hi-yah" tvg-name="Hi-Yah!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ced90c34eb8f8eb33c0d08b174923282.webp" group-title="🎬 Cine y Series",Hi-Yah!
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="hunter" tvg-name="Hunter" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3a6afdff153b2b1395f17b05dc3a8e3.webp" group-title="🎬 Cine y Series",Hunter
+https://linear-914.frequency.stream/mt/plex/914/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="inspiracion-y-fe" tvg-name="Inspiración y Fe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/81aa9ed67e02381d63834784f816b95e.webp" group-title="🎬 Cine y Series",Inspiración y Fe
+https://amg00658-amg00658c109-canelatv-international-7665.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-inspiracionyfe-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="ion-plus" tvg-name="ION Plus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4188eb8480e53e91d86682f32682b88a.webp" group-title="🎬 Cine y Series",ION Plus
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 tvg-id="istv" tvg-name="ISTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp" group-title="🎬 Cine y Series",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 tvg-id="judge-nosey" tvg-name="Judge Nosey" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3881856d5b68276cfde2b48948a4344e.webp" group-title="🎬 Cine y Series",Judge Nosey
+https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="kanade" tvg-name="Kanade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90f2be25aedc782f9ff779b33302ee8a.webp" group-title="🎬 Cine y Series",Kanade
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="kanade-chile" tvg-name="Kanade Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/720e714bf4a182426448196aa78ac5d5.webp" group-title="🎬 Cine y Series",Kanade Chile
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="kuriakos-cine" tvg-name="Kuriakos Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5e881c97b312df382164b7b7e5f5509.webp" group-title="🎬 Cine y Series",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="las-estrellas" tvg-name="Las Estrellas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf0b09469b863ba943590967bc25b9ed.webp" group-title="🎬 Cine y Series",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="latele" tvg-name="LaTele" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb41de706a8b6a9ce023a8a3bdd79495.webp" group-title="🎬 Cine y Series",LaTele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="love-stories-tv" tvg-name="Love Stories TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/850263413b79c5a78ee24572cc9cf1b6.webp" group-title="🎬 Cine y Series",Love Stories TV
+https://lovestoriestv-lovestoriestv-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="lone-star" tvg-name="Lone Star" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e680f85756177504b12042eb32a2a8a7.webp" group-title="🎬 Cine y Series",Lone Star
+https://c48e4bcf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9Mb25lU3Rhcl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="lucas-tv" tvg-name="Lucas Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b5156f5206356ea7e928eedcbc7667.webp" group-title="🎬 Cine y Series",Lucas Tv
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-id="made-in-hollywood" tvg-name="Made In Hollywood" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9cb57cf8173ce8a1a5b6bcb66763d6ac.webp" group-title="🎬 Cine y Series",Made In Hollywood
+https://connection3-ent-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mbc-4-dubai" tvg-name="MBC 4" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b731d1e45257305bca3fbcdee607f19a.webp" group-title="🎬 Cine y Series",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1 tvg-id="maverick-black-cinema" tvg-name="Maverick Black Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1787e8edfca1fc688295e5466b90a1c1.webp" group-title="🎬 Cine y Series",Maverick Black Cinema
+https://maverick-maverick-black-cinema-2-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-cine" tvg-name="Mega Cine en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="🎬 Cine y Series",Mega Cine en directo
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="midsomer-murders" tvg-name="Midsomer Murders" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a6d4ad9ff04acfb54e458f2ed95c1ed.webp" group-title="🎬 Cine y Series",Midsomer Murders
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="milennio-tv" tvg-name="Milennio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91755f051c2778068efc2728f71989d6.webp" group-title="🎬 Cine y Series",Milennio Tv
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-id="movie-fe" tvg-name="Movie Fe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="🎬 Cine y Series",Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="mr-bean" tvg-name="Mr Bean" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d021f8e7219847e90d1fc4314faf54b7.webp" group-title="🎬 Cine y Series",Mr Bean
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/1080p-cc-pt/index.m3u8
+#EXTINF:-1 tvg-id="moviesphere" tvg-name="Moviesphere" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5c373a817c81c049d68ca769d1847ef.webp" group-title="🎬 Cine y Series",Moviesphere
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+#EXTINF:-1 tvg-id="mr-bean-live-action" tvg-name="Mr. Bean Live Action" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0df68bd5bb0a6732b2c851a2680fa20d.webp" group-title="🎬 Cine y Series",Mr. Bean Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="multi-canais-aovivo" tvg-name="Multi Canais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38cca32010062541d346871765a20c4a.webp" group-title="🎬 Cine y Series",Multi Canais
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="moviesphere-brazil" tvg-name="Moviesphere Brazil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2112f7942be7a7bf3f4b41e082cee2b8.webp" group-title="🎬 Cine y Series",Moviesphere Brazil
+https://amg00353-amg00353c29-plex-us-3205.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg00353-lionsgatetvfast-moviespherebrazil-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="must-see-movies" tvg-name="Must See Movies!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/990b3d8e6eb8782875708c4ded9f46e0.webp" group-title="🎬 Cine y Series",Must See Movies!
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7617e8c1-50a3-49f7-9a0b-0c1f5073535e/4.m3u8
+#EXTINF:-1 tvg-id="nacao-zulu-tv" tvg-name="Nação Zulu Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a83029206e8b33decfa33bca617d6ec.webp" group-title="🎬 Cine y Series",Nação Zulu Tv
+https://a.cdni.live/nacaozulutv/nacaozulutv/playlist.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-brasil" tvg-name="MyTime Movie Network - Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f6652061e12b0246ef228236f06fa5f1.webp" group-title="🎬 Cine y Series",MyTime Movie Network - Brasil
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-spain" tvg-name="MyTime Movie Network (Spain) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21e3a56732a5a037eaceb6ef617b7aae.webp" group-title="🎬 Cine y Series",MyTime Movie Network (Spain) en directo
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="novelas-turcas" tvg-name="Novelas Turcas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63b8a8d7238cfada696985e64dae4d26.webp" group-title="🎬 Cine y Series",Novelas Turcas
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="novelisima" tvg-name="Novelisima" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="🎬 Cine y Series",Novelisima
+https://dai.google.com/linear/hls/pa/event/8QpjAnHCQQqBxFVRdDQXCA/stream/f23ada38-6a27-428f-8346-b717e1ee7943:SCL2/variant/081f51567e9cf4e34cd83fdd282d2412/bandwidth/3071200.m3u8
+#EXTINF:-1 tvg-id="omega-tv" tvg-name="Omega TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8d609c414a4127c5aa4a5b33a1d8c72.webp" group-title="🎬 Cine y Series",Omega TV
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="ortv-filmes-e-variedades" tvg-name="ORTV Filmes e Variedades" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45c64f0fcb64c6441c9d9ddff2671b23.webp" group-title="🎬 Cine y Series",ORTV Filmes e Variedades
+https://tv.ortv.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="Otaku Sign Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="🎬 Cine y Series",Otaku Sign Tv
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="pelimex" tvg-name="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title="🎬 Cine y Series",Pelimex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="pitaara-tv" tvg-name="PITAARA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef63f759ffb4f1a772232f3a94fc0088.webp" group-title="🎬 Cine y Series",PITAARA TV
+https://vg-pitaaratvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8
+#EXTINF:-1 tvg-id="popstar-tv" tvg-name="Popstar! TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ae691216ba3d0d77552278ba90bd92b.webp" group-title="🎬 Cine y Series",Popstar! TV
+https://f570dedd03914e34a94fa4d318deddb5.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp_796/4aa4b290-518d-43ca-a682-dfa79f4d72d7/4.m3u8
+#EXTINF:-1 tvg-id="popcorn-central" tvg-name="Popcorn Central" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9dd7fbcec1e40c2b1b43f99c2d490f9.webp" group-title="🎬 Cine y Series",Popcorn Central
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+#EXTINF:-1 tvg-id="prosieben" tvg-name="ProSieben" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8422579d04e6a982f14d892369ddeae.webp" group-title="🎬 Cine y Series",ProSieben
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="rai-2-en-vivo" tvg-name="RAI 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e96b1878207abb06c872c65612604d0a.webp" group-title="⚽ Deportes",RAI 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-action-movies" tvg-name="Rakuten TV Action Movies" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28cb1af9080355f5c6adea858ac7674f.webp" group-title="🎬 Cine y Series",Rakuten TV Action Movies
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-sci-fi" tvg-name="Rakuten tv Sci-fi en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4091c4add779ccbf5c40eddff541ba23.webp" group-title="🎬 Cine y Series",Rakuten tv Sci-fi en directo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-portugues" tvg-name="Rakuten TV Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1955f402ba9845900b04602e8942e4d.webp" group-title="🎬 Cine y Series",Rakuten TV Português
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-family" tvg-name="Rakuten TV Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c80b3e25f20e0c9fe671a5127308f62b.webp" group-title="🎬 Cine y Series",Rakuten TV Family
+https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-espanol" tvg-name="Rakuten TV En Familia en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48a2bc5821e74c0b1861ec2287730dfe.webp" group-title="🎬 Cine y Series",Rakuten TV En Familia en directo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="rbtv" tvg-name="RBTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9a31008d8b875d89fe16b081fb0b513.webp" group-title="🎬 Cine y Series",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rcm" tvg-name="RCM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/515f4a64d4a7c0c1c813b11d65ee34df.webp" group-title="🎬 Cine y Series",RCM
+https://amg01076-amg01076c11-plex-us-4783.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="rctv-brasil" tvg-name="RCTV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25f5d36062e12c2993292614f7bc26da.webp" group-title="🎬 Cine y Series",RCTV Brasil
+https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
+#EXTINF:-1 tvg-id="rede-clone" tvg-name="Rede Clouding TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="🎬 Cine y Series",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-manchete" tvg-name="Rede Manchete" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="🎬 Cine y Series",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-qdm" tvg-name="Rede QDM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26827ace5c5608c773bbb53cd2486997.webp" group-title="🎬 Cine y Series",Rede QDM
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:-1 tvg-id="reelz-famous-and-infamous" tvg-name="Reelz Famous and Infamous" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ec82596313b3118ce0ea3a136395220.webp" group-title="🎬 Cine y Series",Reelz Famous and Infamous
+https://live-manifest.production-public.tubi.io/live/6e2a5ee3-d2ea-44db-bc14-b4d3e85442c2/playlist.m3u8
+#EXTINF:-1 tvg-id="retrocrush" tvg-name="RetroCrush" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/43eb3c8c2eb5172ddd45fbaa5d2e06cc.webp" group-title="🎬 Cine y Series",RetroCrush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-id="reviva-tv" tvg-name="Reviva Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1da08d69331552d9dbcab51e2228c53d.webp" group-title="🎬 Cine y Series",Reviva Tv
+https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
+#EXTINF:-1 tvg-id="retrox-tv" tvg-name="Retrox Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f8ee44b1e3425d884fa1efe6b9e5cd.webp" group-title="🎬 Cine y Series",Retrox Tv
+https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+#EXTINF:-1 tvg-id="runtime-acao" tvg-name="Runtime Ação" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d4d9609cc02e156c6a9c81b9a7b0c4.webp" group-title="🎬 Cine y Series",Runtime Ação
+https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
+#EXTINF:-1 tvg-id="runtime-english" tvg-name="Runtime - English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f37d55780687ac603e39c26592ae36a9.webp" group-title="🎬 Cine y Series",Runtime - English
+https://run-rt-us.otteravision.com/out/v1/336b14e0a931466f99386ae576d30a57/index_1.m3u8
+#EXTINF:-1 tvg-id="runtime" tvg-name="Runtime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd6b5dd8f0aa8191dc9869fb54dc5886.webp" group-title="🎬 Cine y Series",Runtime
+https://run-rt-br.otteravision.com/run/rt_br/rt_br_720p_high.m3u8
+#EXTINF:-1 tvg-id="runtime-curro-jimenez" tvg-name="Runtime - Curro Jiménez en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71f6611eef3bf1a9db1f7a3bc78380ec.webp" group-title="🎬 Cine y Series",Runtime - Curro Jiménez en directo
+https://run-cj-es.otteravision.com/run/cj_es/cj_es_720.m3u8
+#EXTINF:-1 tvg-id="ana-y-los-siete" tvg-name="Runtime - Ana y Los 7 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1b5d9fc2746ae2fe19c15e562a4540ae.webp" group-title="🎬 Cine y Series",Runtime - Ana y Los 7 en directo
+https://run-al-es.otteravision.com/run/al_es/al_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-france" tvg-name="Runtime - France" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e598d43eaf39f79c2fa72da53417ac6d.webp" group-title="🎬 Cine y Series",Runtime - France
+https://run-rt-fr.otteravision.com/run/rt_fr/rt_fr_720p_high.m3u8
+#EXTINF:-1 tvg-id="runtime-clasicos" tvg-name="Runtime Clásicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/586386166b8d99d95d88a028fa229159.webp" group-title="🎬 Cine y Series",Runtime Clásicos
+https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-comedia-espanol" tvg-name="Runtime Comedia - Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ff89e686c06012903a0f2459566cf28.webp" group-title="🎬 Cine y Series",Runtime Comedia - Español en directo
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+#EXTINF:-1 tvg-id="run-time-comedia" tvg-name="Runtime Comédia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8e9cfe9b910731a2ba29ede0a63cacd.webp" group-title="🎬 Cine y Series",Runtime Comédia
+https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen-2" tvg-name="Runtime Crimen 2 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a40c36d262b4f5ca7b67d869892f3c7.webp" group-title="🎬 Cine y Series",Runtime Crimen 2 en directo
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:-1 tvg-id="runtime-accion" tvg-name="Runtime Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11891ee8913e61a918d8a4e559d4e082.webp" group-title="🎬 Cine y Series",Runtime Acción
+https://run-ra-es.otteravision.com/run/ra_es/ra_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-espanol" tvg-name="Runtime Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="🎬 Cine y Series",Runtime Español en directo
+https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+#EXTINF:-1 tvg-id="runtime-familia" tvg-name="Runtime Familia - Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6f47c2615736b266095f9687b3f27ab.webp" group-title="🎬 Cine y Series",Runtime Familia - Español
+https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-name="Runtime Crimen en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3bf4e796388b24932482e7a2043f6c0d.webp" group-title="🎬 Cine y Series",Runtime Crimen en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="runtime-espanol-cine-y-series" tvg-name="Runtime Español - Cine Y Series en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4105f4374c811c5e233dddb029e79c0d.webp" group-title="🎬 Cine y Series",Runtime Español - Cine Y Series en directo
+https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
+#EXTINF:-1 tvg-id="runtime-series" tvg-name="Runtime Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06acaf44808e3e907bf7fd369add33b0.webp" group-title="🎬 Cine y Series",Runtime Series
+https://run-rss.otteravision.com/run/rss/rss_720.m3u8
+#EXTINF:-1 tvg-id="runtime-rebelde" tvg-name="Runtime Rebelde" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aa8655e78c75dff69283c942d86500b5.webp" group-title="🎬 Cine y Series",Runtime Rebelde
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288
+#EXTINF:-1 tvg-id="runtime-romance" tvg-name="Runtime Romance" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1ea9adf10302b28a94cb0d0b88537f2f.webp" group-title="🎬 Cine y Series",Runtime Romance
+https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crime" tvg-name="Runtime Crime" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae540b891b4a0d073b39ae0bb693f5c3.webp" group-title="🎬 Cine y Series",Runtime Crime
+https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
+#EXTINF:-1 tvg-id="runtime-romance-espanol" tvg-name="Runtime Romance - Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/070aec7fcaa5f91945323fc9386162cf.webp" group-title="🎬 Cine y Series",Runtime Romance - Español en directo
+https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-familia-pt" tvg-name="Runtime Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81de2ad139464cf76f231a06ccb4b89.webp" group-title="🎬 Cine y Series",Runtime Família
+https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
+#EXTINF:-1 tvg-id="runtime-trash" tvg-name="Runtime Trash" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e4283d29ce7722bf2dbf3d5d55124592.webp" group-title="🎬 Cine y Series",Runtime Trash
+https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
+#EXTINF:-1 tvg-id="screamin" tvg-name="ScreamIN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb4fab390a6a8be90a37dba3ef5916a7.webp" group-title="🎬 Cine y Series",ScreamIN
+https://rakutenaa-zylo-screamin-rakuten-p11ej.amagi.tv/playlist/rakutenAA-zylo-screamin-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="sessao-trash" tvg-name="Sessão Trash" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/18848a63594b3a990cf008bf2f9dfd6d.webp" group-title="🎬 Cine y Series",Sessão Trash
+https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="seven-tv" tvg-name="Seven Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fefcf3b386ea10a094e6b47296037f8f.webp" group-title="🎬 Cine y Series",Seven Tv
+https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
+#EXTINF:-1 tvg-id="somos-novelas" tvg-name="Somos Novelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb5582fe2b094e393986730a1be45283.webp" group-title="🎬 Cine y Series",Somos Novelas
+https://amg00375-amg00375c10-fuse-us-3222.playouts.now.amagi.tv/playlist/amg00375-fusemediafast-somosnovelas-fuseus/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-canal-competencias" tvg-name="Sony Canal Competencias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9185de00ceec7e738de22dac95645998.webp" group-title="🎬 Cine y Series",Sony Canal Competencias
+https://spt-competencias-1-us.canelatv.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-shark-tank-brasil" tvg-name="Sony One Shark Tank Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1ccb100fb163791ff314b91c0c3678f.webp" group-title="🎬 Cine y Series",Sony One Shark Tank Brasil
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-cinema" tvg-name="Sony One Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bad404e3cd39c2d21e3bc053c44691ec.webp" group-title="🎬 Cine y Series",Sony One Cinema
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="sony-one-emocoes" tvg-name="Sony One Emoções" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a314b7e30030089dbb174ed79458610d.webp" group-title="🎬 Cine y Series",Sony One Emoções
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="spark-tv-luz-e-amor" tvg-name="Spark TV Luz & Amor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7c29def7ffc55be76fdb008b5b34d0d.webp" group-title="🎬 Cine y Series",Spark TV Luz & Amor
+https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="tela-viva-tv" tvg-name="Tela Viva Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee32135a0ae4307048d3b24d0891738f.webp" group-title="🎬 Cine y Series",Tela Viva Tv
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tebeo-tv" tvg-name="Tebeo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/965ea388c91bb303d5621e2b4044cfde.webp" group-title="🎬 Cine y Series",Tebeo Tv
+https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-clasicos" tvg-name="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="🎬 Cine y Series",Teleclásica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo-accion" tvg-name="Telemundo Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp" group-title="🎬 Cine y Series",Telemundo Acción
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889470
+#EXTINF:-1 tvg-id="telered" tvg-name="Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f961845876fb4f362c592b4d958c1116.webp" group-title="🎬 Cine y Series",Telered
+https://k20.usastreams.com:8081/teleredcablera/video.m3u8
+#EXTINF:-1 tvg-id="telesur-costa-rica" tvg-name="Telesur Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/02bfbf9e7c34ae9439fcefbb1247c42a.webp" group-title="🎬 Cine y Series",Telesur Costa Rica
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="the-design-network" tvg-name="The Design Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b7953936d2e87eebbf004a16895114d.webp" group-title="🎬 Cine y Series",The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="the-archive" tvg-name="The Archive" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd7895c750f38ec7271ce5e012c58ab9.webp" group-title="🎬 Cine y Series",The Archive
+https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
+#EXTINF:-1 tvg-id="this-old-house" tvg-name="This Old House" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6228ccc33f9cb54da76dfd3033309be.webp" group-title="🎬 Cine y Series",This Old House
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="the-walking-dead-universe" tvg-name="The Walking Dead Universe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1221c765abd4a862d96b58627e6f05a.webp" group-title="🎬 Cine y Series",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="timeline" tvg-name="Timeline" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/caa3e6b399b7cd5a84022ac9a60c09dc.webp" group-title="🎬 Cine y Series",Timeline
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="todo-novelas-mas-pasiones" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2011611b497db73fa9dfc7954871225f.webp" group-title="🎬 Cine y Series",Todo Novelas, más Pasiones
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="todo-cine" tvg-name="Todo Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="🎬 Cine y Series",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="🎬 Cine y Series",Todo Novelas en directo
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="top-mix-tv-filmes" tvg-name="Top Mix Tv Filmes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2756e6ae8adbd01291e9c5dda56f0e3.webp" group-title="🎬 Cine y Series",Top Mix Tv Filmes
+https://video01.logicahost.com.br/topmixtvsertanejooficial/topmixtvsertanejooficial/playlist.m3u8
+#EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b05a4e2b3cfff832538882d848ec2779.webp" group-title="🎬 Cine y Series",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tratamento-de-choque" tvg-name="Tratamento de Choque" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04bb083173f662bbc3b744f54ee6da1b.webp" group-title="🎬 Cine y Series",Tratamento de Choque
+https://amg00353-lionsgatestudio-tratamentodechoque-runtimelatam-rmwee.amagi.tv/playlist/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-adorando-jesus" tvg-name="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="🎬 Cine y Series",Tv Adorando Jesus
+https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aracati-hd" tvg-name="Tv Aracati HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="🎬 Cine y Series",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-carioca-net" tvg-name="Tv Carioca Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae3270712e80a6ee4cd2dd542fcc48c6.webp" group-title="🎬 Cine y Series",Tv Carioca Internacional
+https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-alagoinha" tvg-name="Tv Cidade Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cbcbbc692ed0a16a020df7e0fd6816fa.webp" group-title="🎬 Cine y Series",Tv Cidade Brasil
+https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-channel-network" tvg-name="Tv Channel Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3e1cf45d955a59f31b70a2a4223e6556.webp" group-title="🎬 Cine y Series",Tv Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-clube-rn" tvg-name="TV Clube RN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/365cda8ce34a301e813ff056a9b626fe.webp" group-title="🎬 Cine y Series",TV Clube RN
+https://radios.braviahost.com.br:2020/hls/tvclubern/tvclubern.m3u8
+#EXTINF:-1 tvg-id="tv-classicos" tvg-name="Tv Clássicos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe290cfa853a15cfac44bb1bf2e924af.webp" group-title="🎬 Cine y Series",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cnb" tvg-name="TV CNB" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775da338d2d26bef54d0537d28580367.webp" group-title="🎬 Cine y Series",TV CNB
+https://5cf4a2c2512a2.streamlock.net/tvcnb/tvcnb/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-j-sid" tvg-name="Tv J.SID" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ab5f48ba024a538cd65fd54869ba8ac.webp" group-title="🎬 Cine y Series",Tv J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-jundiai-hoje" tvg-name="Tv Jundiaí Hoje" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd5d090f6ea0cba0074898bfbd531f8.webp" group-title="🎬 Cine y Series",Tv Jundiaí Hoje
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-latinasat" tvg-name="TV Latinasat" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6d003b57380dc2a03fe8e21d3658848e.webp" group-title="🎬 Cine y Series",TV Latinasat
+https://www.latinasat.com.br/hls/live/stream/index.m3u8
+#EXTINF:-1 tvg-id="tv-loading" tvg-name="Tv Loading" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="🎬 Cine y Series",Tv Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-metro-rede-metropolitana" tvg-name="Tv Metro (Rede Metropolitana)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49655e7e2ed98c26adc7833b62d16ffb.webp" group-title="🎬 Cine y Series",Tv Metro (Rede Metropolitana)
+https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-metropolitana-rio" tvg-name="Tv Metropolitana Rio" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2322d929ab7c617fbab73beb02b6d7f7.webp" group-title="🎬 Cine y Series",Tv Metropolitana Rio
+https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-nbt" tvg-name="TV NBT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dee1243c933082ee25e309ab91b54f4d.webp" group-title="🎬 Cine y Series",TV NBT
+https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-novelas" tvg-name="TV Novelas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="🎬 Cine y Series",TV Novelas
+https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-osorio-news" tvg-name="Tv Osório News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/775a242222180d70569e85de9f007687.webp" group-title="🎬 Cine y Series",Tv Osório News
+https://stmv2.srvsh.com.br/0003/0003/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-rabelo" tvg-name="TV Rabelo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9d5ca5105110bb44994be7a150db36c2.webp" group-title="🎬 Cine y Series",TV Rabelo
+https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-recordacoes-web-ce" tvg-name="Tv Recordações Web CE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d70379da61c7306ecd734045799ce0a0.webp" group-title="🎬 Cine y Series",Tv Recordações Web CE
+https://srv3.zcast.com.br/tvrecordacoes/tvrecordacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-teen-net" tvg-name="TV Teen Net" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1516ed8bc7c4e6c7586e26b97a4d0a02.webp" group-title="🎬 Cine y Series",TV Teen Net
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-web-sul-bahia" tvg-name="Tv Web Sul Bahia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/058cd9895dee470bbd8bcc63b8ea837a.webp" group-title="🎬 Cine y Series",Tv Web Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-ecuador" tvg-name="TVC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="🎬 Cine y Series",TVC
+https://ddycmnicl95kp.cloudfront.net/live/br1r5varhysm/master.m3u8
+#EXTINF:-1 tvg-id="tvi" tvg-name="TVI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/467691868df05a4035d5b6e8d361e79f.webp" group-title="🎬 Cine y Series",TVI
+https://video-auth5.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="tvi-ficcao" tvg-name="TVI Ficção" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="🎬 Cine y Series",TVI Ficção
+https://video-auth7.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="tvi-internacional" tvg-name="TVI Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f466d2251a132949342fb891dbe2e641.webp" group-title="🎬 Cine y Series",TVI Internacional
+https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="tvs-retro" tvg-name="TVS Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="🎬 Cine y Series",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="vmais" tvg-name="V+ TVI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35afb908a11d6981e89adaf68857e9df.webp" group-title="🎬 Cine y Series",V+ TVI
+https://video-auth7.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="valle-nuevo-tv" tvg-name="Valle Nuevo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f9a4c73378a25ffb9c69bf2a6e4e827.webp" group-title="🎬 Cine y Series",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="venevision" tvg-name="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title="🎬 Cine y Series",Venevision
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
+#EXTINF:-1 tvg-id="vintage-tv" tvg-name="Vintage Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e7e289ab5c66e67ad623c5a1bec9f75.webp" group-title="🎬 Cine y Series",Vintage Tv
+https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
+#EXTINF:-1 tvg-id="viva-web-tv" tvg-name="Viva Web Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8936ceb865591bcc9ace180f253fc697.webp" group-title="🎬 Cine y Series",Viva Web Tv
+https://video01.brascast.com/cypriano46326/cypriano46326/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-cine" tvg-name="Web Tv Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="🎬 Cine y Series",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-classicos-do-cinema" tvg-name="Web Tv Clássicos do Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="🎬 Cine y Series",Web Tv Clássicos do Cinema
+https://srv3.zcast.com.br/classicosdocinema/classicosdocinema/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-xtreme" tvg-name="Web Tv Xtreme" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="🎬 Cine y Series",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="western-bound" tvg-name="Western Bound" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b29c59b448d2930ce7045924cfbc1df.webp" group-title="🎬 Cine y Series",Western Bound
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
+#EXTINF:-1 tvg-id="wedo-amor" tvg-name="Wedo Amor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24f771e907d130947dd8a12946a4908d.webp" group-title="🎬 Cine y Series",Wedo Amor
+https://amg00735-amg00735c15-plex-us-4211.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="western-bound-espanol" tvg-name="Western Bound Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61b25e0ae8487ce32175516dda43a3a9.webp" group-title="🎬 Cine y Series",Western Bound Español
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16611
+#EXTINF:-1 tvg-id="wording-tv" tvg-name="Wording Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26abdb540125e646038f21b36e12639f.webp" group-title="🎬 Cine y Series",Wording Tv
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="wu-tang-collection-en-vivo" tvg-name="Wu Tang Collection" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a38e2b6a29589637aeb922f3a56d6b41.webp" group-title="🎬 Cine y Series",Wu Tang Collection
+https://dbrb49pjoymg4.cloudfront.net/10001/99991745/hls/master.m3u8?ads.xumo_channelId=99991745
+#EXTINF:-1 tvg-id="xtrema-tv-cine-accion" tvg-name="Xtrema TV - Cine Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-asia" tvg-name="Xtrema TV - Cine Asia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/332189b8722e494b651f16c7591490c7.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Asia
+https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-comedy" tvg-name="Xtrema TV - Cine Comedy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/241d1d48bf46902c3aa0b334a0791a8d.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Comedy
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-drama" tvg-name="Xtrema TV - Cine Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c9ffb33bd89b04d6c1fd9326ddcadd7.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Drama
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="z-nation" tvg-name="Z Nation" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50d962292af38deddb2301ad11aac103.webp" group-title="🎬 Cine y Series",Z Nation
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098
+#EXTINF:-1 tvg-id="xtrema-tv-cine-family" tvg-name="Xtrema TV - Cine Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/553ae67ca541fdc09dd6f918351f04be.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Family
+https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-hindi" tvg-name="Xtrema TV - Cine Hindi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c3bba42e9a945b67ba4857976265fe73.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Hindi
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-latino" tvg-name="Xtrema TV - Cine Latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/648b8e02363dd3c97a5d0e8afd3ef60d.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Latino
+https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-retro-series" tvg-name="Xtrema TV - Retro Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67fef669159d2e980c3bbc5d4edde22f.webp" group-title="🎬 Cine y Series",Xtrema TV - Retro Series
+https://stmv7.voxtvhd.com.br/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-europa" tvg-name="Xtrema TV - Cine Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e29e609e680318eba7bddbaa71febf7d.webp" group-title="🎬 Cine y Series",Xtrema TV - Cine Europa
+https://stmv6.voxtvhd.com.br/cineeuropa/cineeuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="z-nation-em-portugues" tvg-name="Z Nation em Português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e9bdba7cd2d7a678a97e766b186068e4.webp" group-title="🎬 Cine y Series",Z Nation em Português
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889478
+#EXTINF:-1 tvg-id="zee-mundo" tvg-name="Zee Mundo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73fb816241c6b607aaab5bb43bb872d6.webp" group-title="🎬 Cine y Series",Zee Mundo
+https://amg17931-amg17931c3-ondemandkorea-amesia-4897.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeemundo-ondemandkoreaamesia/playlist.m3u8?app_name=AmasianTV&app_store_url=https%3A%2F%2Famasian.tv&genre=Television&ic=IAB1-7&us_privacy=1---&

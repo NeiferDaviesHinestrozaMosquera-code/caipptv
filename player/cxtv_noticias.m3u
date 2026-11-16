@@ -1,0 +1,736 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+# CXTv IPTV Playlist: Canales de Noticias en Vivo
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="15-tv" tvg-name="15 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e277fbff1d036a1c11aa18f8befee081.webp" group-title="📰 Noticias",15 TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-id="12-news-mesa" tvg-name="12 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/20d0f2c57f5f03080aff57ed31650dd5.webp" group-title="📰 Noticias",12 News
+https://livevideo.tegnadigital.com/kpnx/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KPNX/elvs/live.m3u8
+#EXTINF:-1 tvg-id="3-krtv-great-falls" tvg-name="3 KRTV Great Falls" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f402133b0ee2342adddc99849854a325.webp" group-title="📰 Noticias",3 KRTV Great Falls
+https://content.uplynk.com/channel/4338a6a11354427f866d1d510c92a101.m3u8
+#EXTINF:-1 tvg-id="10-wbns" tvg-name="10 WBNS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/55f06f337ab79438fd97636423ecbbc2.webp" group-title="📰 Noticias",10 WBNS
+https://livevideo.tegnadigital.com/wbns/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WBNS/elvs/live.m3u8
+#EXTINF:-1 tvg-id="13-ktnv-las-vegas" tvg-name="13 KTNV Las Vegas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdffe2f61990684c145ec2a8e0dc6a5d.webp" group-title="📰 Noticias",13 KTNV Las Vegas
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 tvg-id="16-wapt-news-jackson" tvg-name="16 WAPT News Jackson" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9f4e2ab3e411e17dd78d3f05cfb96c26.webp" group-title="📰 Noticias",16 WAPT News Jackson
+https://content.uplynk.com/channel/2bd13d219b5242cd84f8aee758215eb0.m3u8
+#EXTINF:-1 tvg-id="011-news" tvg-name="011 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f697cd448cd86e994fd36cf4c5c4ae09.webp" group-title="📰 Noticias",011 News
+https://011news.akamaized.net/011news/011news/playlist.m3u8
+#EXTINF:-1 tvg-id="5-news-channel-nashville" tvg-name="5 News Channel Nashville" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5ad12086e3e6710acb0882cf4c92052.webp" group-title="📰 Noticias",5 News Channel Nashville
+https://content.uplynk.com/channel/0d3d579b1d0948878a17dcb7eca85021.m3u8
+#EXTINF:-1 tvg-id="abc-36-news-lexington" tvg-name="ABC 36 News - WTVQ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbdb4bec9138fccb5d53ca785a4130f0.webp" group-title="📰 Noticias",ABC 36 News - WTVQ
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/mainManifest.m3u8
+#EXTINF:-1 tvg-id="abc-7-news-wkbw" tvg-name="ABC 7 News WKBW" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3de83759c00b0504b2a0ec1663bfff03.webp" group-title="📰 Noticias",ABC 7 News WKBW
+https://content.uplynk.com/channel/7a8b777a12f646f7b38d917ec0301595.m3u8
+#EXTINF:-1 tvg-id="abc-15-arizona" tvg-name="ABC 15 Arizona" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af931e89a133d16480b551257c0baef7.webp" group-title="📰 Noticias",ABC 15 Arizona
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 tvg-id="9-news-denver" tvg-name="9 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80eee468a299132703f4338d52e19038.webp" group-title="📰 Noticias",9 News
+https://livevideo.tegnadigital.com/kusa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA/elvs/live.m3u8
+#EXTINF:-1 tvg-id="abc-25-news-kxxv" tvg-name="ABC 25 News KXXV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5cb4d068eb36356a546f7fa4177befb8.webp" group-title="📰 Noticias",ABC 25 News KXXV
+https://content.uplynk.com/channel/d98542382d0b49b2b573f1653590e346.m3u8
+#EXTINF:-1 tvg-id="abc-news" tvg-name="ABC News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec432b3a9f86ac0b68d68ce11c20dd99.webp" group-title="📰 Noticias",ABC News
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+#EXTINF:-1 tvg-id="accuweather-now" tvg-name="AccuWeather NOW" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c2fa25ea67563d6740658ac793969c3f.webp" group-title="📰 Noticias",AccuWeather NOW
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="adesso-tv" tvg-name="Adesso Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59113e5d8158d08327897fe8cd93394b.webp" group-title="📰 Noticias",Adesso Tv
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="africanews-french" tvg-name="Africanews French" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46f0a316c26f296dd4fb04fa610e6d01.webp" group-title="📰 Noticias",Africanews French
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="africa-24-english" tvg-name="Africa 24 English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5daadcb35a765dcc4691d0d43e40ce54.webp" group-title="📰 Noticias",Africa 24 English
+https://edge20.vedge.infomaniak.com/livecast/ik:africa24english/manifest.m3u8
+#EXTINF:-1 tvg-id="africa-24" tvg-name="Africa 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd73cb3e37eabe5143475070f7fac82a.webp" group-title="📰 Noticias",Africa 24
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+#EXTINF:-1 tvg-id="aire-de-santa-fe" tvg-name="Aire de Santa Fe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f76a9d670388c1f69a21d4e6c0030913.webp" group-title="📰 Noticias",Aire de Santa Fe
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1 tvg-id="al-jazeera-arabic" tvg-name="Al Jazeera Arabic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/736ac3e3f33bf97e96819f194c46bf22.webp" group-title="📰 Noticias",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 tvg-id="al-arabiya-business" tvg-name="Al Arabiya Business" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f19aabe4bac882497cdd2e1cc0e511ee.webp" group-title="📰 Noticias",Al Arabiya Business
+https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="al-yaum-tv" tvg-name="Al Yaum TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f84f9fe320e9a9d80533a058c53a544e.webp" group-title="📰 Noticias",Al Yaum TV
+https://hlspackager.akamaized.net/live/DB/ALYAUM_TV/HLS/ALYAUM_TV.m3u8
+#EXTINF:-1 tvg-id="al-jazeera-english" tvg-name="Al Jazeera English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/83d7b3d3df0b2dff23bf51ad0d028d6b.webp" group-title="📰 Noticias",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="al-mayadeen" tvg-name="Al-Mayadeen" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f43e438b70de9a6b79e3103cfab463a4.webp" group-title="📰 Noticias",Al-Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="al-qamar-tv" tvg-name="Al Qamar TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7d4fd792f7f8c73cfab547a0a9bdd162.webp" group-title="📰 Noticias",Al Qamar TV
+https://streamer3.premio.link/alqamar/playlist.m3u8
+#EXTINF:-1 tvg-id="alarabiya-portrait" tvg-name="Alarabiya Portrait" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd69400e436e9cc9a02029bfd2949a2f.webp" group-title="📰 Noticias",Alarabiya Portrait
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="america-teve" tvg-name="América TeVé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe9694021f88a0e3f37b7206e6dc158d.webp" group-title="📰 Noticias",América TeVé
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 tvg-id="anzoategui-tv" tvg-name="Anzoategui TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/489c9dd27452f764247bd240787723fc.webp" group-title="📰 Noticias",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="arirang-tv" tvg-name="Arirang TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f35faa549bda128507994e2eb355f6d.webp" group-title="📰 Noticias",Arirang TV
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="asianet-news" tvg-name="Asianet News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/56eb66c1290243a00895e91ccfb68bdb.webp" group-title="📰 Noticias",Asianet News
+https://asianetnews.vgcdn.net/ptnr-Embed/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/1c19363c-e4a0-4e4d-ba28-771d5615b88e/playlist.m3u8
+#EXTINF:-1 tvg-id="augsburg-tv" tvg-name="Augsburg Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e8352805bed5dfb334d25436b367a41.webp" group-title="📰 Noticias",Augsburg Tv
+https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="atv-andina" tvg-name="ATV Andina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp" group-title="📰 Noticias",ATV Andina
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+#EXTINF:-1 tvg-id="band-news" tvg-name="Band News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0edebf576e534ab8851f36176a129fcd.webp" group-title="📰 Noticias",Band News
+https://amg29547-amg29547c2-amgplt0728.playout.now3.amagi.tv/bndnws-std-cc/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="bbc-news-north-america" tvg-name="BBC News North America" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/65f13950fb9ef5627479995f94faf458.webp" group-title="📰 Noticias",BBC News North America
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 tvg-id="bbc-arabic" tvg-name="BBC Arabic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80d5e7e024c9784dea8635c6bc4a43bb.webp" group-title="📰 Noticias",BBC Arabic
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="belarus-24" tvg-name="Belarus 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1cd1eefd522c2aba7d38e9965a28d6ce.webp" group-title="📰 Noticias",Belarus 24
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="bfm-business" tvg-name="BFM Business" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9cd0b1e326bb40ff5f76509741eb25f.webp" group-title="📰 Noticias",BFM Business
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="bfm-lyon" tvg-name="BFM Lyon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fd51c496d85d821dfb1a31dcb78186a1.webp" group-title="📰 Noticias",BFM Lyon
+https://live-cdn-bfmtvlyo-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="bfmtv" tvg-name="BFM TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aef08e7a5f9a785eeb9a2e1858e281fe.webp" group-title="📰 Noticias",BFM TV
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="bfm-tech-co" tvg-name="BFM Tech & Co" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9382715adc83a7d5ef81d96be5633050.webp" group-title="📰 Noticias",BFM Tech & Co
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
+#EXTINF:-1 tvg-id="bloomberg-tv-europe" tvg-name="Bloomberg TV Europe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44c628b1a5735d1f9197703c03101b8f.webp" group-title="📰 Noticias",Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+#EXTINF:-1 tvg-id="boston-25-news" tvg-name="Boston 25 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/be22a6a8a49a9077adac1d0c845885f0.webp" group-title="📰 Noticias",Boston 25 News
+https://amg00327-coxmediagroup-wfxtnow-ono-00yau.amagi.tv/ts-us-e2-n2/playlist/amg00327-coxmediagroup-wfxtnow-ono/8b2117b1-eca6-11f0-85b1-3e3488b3c660/104/426x240_511680/index.m3u8
+#EXTINF:-1 tvg-id="bukedde-tv" tvg-name="Bukedde TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/013f13ded7c228822f1469fd8238ec95.webp" group-title="📰 Noticias",Bukedde TV
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="C4 En Alerta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d882d64619d956bcda038b9406ea7503.webp" group-title="📰 Noticias",C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 tvg-id="canal-1-costa-rica" tvg-name="Canal 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73554360254205350463a055324277bb.webp" group-title="📰 Noticias",Canal 1
+https://vid.canal1cr.com:3424/multi_live/play_1080.m3u8
+#EXTINF:-1 tvg-id="c-span" tvg-name="C-Span" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42dc016c50798bfdd973d6cc2bdf1541.webp" group-title="📰 Noticias",C-Span
+https://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 tvg-id="canal-21" tvg-name="Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/613222c4701ccaa72e659ede2602b270.webp" group-title="📰 Noticias",Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="canal-24-horas-canarias" tvg-name="Canal 24 Horas Canarias en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c9530289ad679184c40d4b8c8ec6dfc.webp" group-title="📰 Noticias",Canal 24 Horas Canarias en directo
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="canal-26" tvg-name="Canal 26" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8080c55292981f5d6afde5b756f59d51.webp" group-title="📰 Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="canal-24-horas-catalunya" tvg-name="Canal 24 Horas Catalunya en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="📰 Noticias",Canal 24 Horas Catalunya en directo
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main.m3u8
+#EXTINF:-1 tvg-id="canal-12-el-salvador" tvg-name="Canal 12 El Salvador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6bc2a5cfa1a5e35236c5b228879b35f.webp" group-title="📰 Noticias",Canal 12 El Salvador
+https://ddycmnicl95kp.cloudfront.net/live/rury2ckyqgw9/master.m3u8
+#EXTINF:-1 tvg-id="canal-324" tvg-name="Canal 324 (3/24) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c5e95e9beff32499ac3e84f1a876033.webp" group-title="📰 Noticias",Canal 324 (3/24) en directo
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="canal-5-telesol" tvg-name="Canal 5 Telesol" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91f3beefe0a90054fa5cb5db7a76d3d4.webp" group-title="📰 Noticias",Canal 5 Telesol
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-7-jujuy" tvg-name="Canal 7 Jujuy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1f5dccec87c6619bba0c4e5a9d3fa6.webp" group-title="📰 Noticias",Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-66" tvg-name="Canal 66" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9baf07428c3b38f0af29c4096cc2bb71.webp" group-title="📰 Noticias",Canal 66
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-de-noticias" tvg-name="Canal de Noticias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d7bbef858cc67dcb66ab52f0b0086e.webp" group-title="📰 Noticias",Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="canal-de-deportes-crtv-chile" tvg-name="Canal De Deportes CRTV Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd1a297f1f16bf6cb34cf077ae7cd041.webp" group-title="⚽ Deportes",Canal De Deportes CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-gov" tvg-name="Canal Gov" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90fd77be7ec477a55e9955abb1859412.webp" group-title="📰 Noticias",Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="canal-once-del-zulia" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1a66d2a8875494eeca6a47a9f64a8d8.webp" group-title="📰 Noticias",Canal Once Del Zulia
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+#EXTINF:-1 tvg-id="canale-2" tvg-name="Canale 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50a61e08c7dfb446658921ba33611346.webp" group-title="📰 Noticias",Canale 2
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-seis-el-salvador" tvg-name="Canal Seis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b37dbf75dfdf5f5c5b4cb3f06c4e5a9b.webp" group-title="🎬 Cine y Series",Canal Seis
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="canela-tv-2" tvg-name="Canela TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a92c2108c2636d87761afe4902bfe3d4.webp" group-title="⚽ Deportes",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="caragua-tv" tvg-name="Caraguá TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a866d989c5bdf80ebf3d8cc759d8e13b.webp" group-title="📰 Noticias",Caraguá TV
+https://stmv5.samcast.com.br/cesarvieira8491/cesarvieira8491/playlist.m3u8
+#EXTINF:-1 tvg-id="cbs-new-york-wcbs-tv" tvg-name="CBS New York - WCBS-TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/83b7767aacf1dee36d7001090a17dc83.webp" group-title="📰 Noticias",CBS New York - WCBS-TV
+https://newyo9h67ea3.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-47" tvg-name="CBS 47 / FOX 30 Action News Jax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6eeb8edcab753b550a9aad46ba5d249e.webp" group-title="📰 Noticias",CBS 47 / FOX 30 Action News Jax
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="cbs-6-richmond" tvg-name="CBS 6 Richmond" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e33add0d944174e48277d521cc40bf.webp" group-title="⚽ Deportes",CBS 6 Richmond
+https://content.uplynk.com/channel/be4953638946493fa5dc6bea87209ce2.m3u8
+#EXTINF:-1 tvg-id="cbs-news-minnesota" tvg-name="CBS News Minnesota" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da19483b8a297c9a067e444474842bd8.webp" group-title="📰 Noticias",CBS News Minnesota
+https://minne3h5cdh7.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-news-boston" tvg-name="CBS News Boston" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bde44f61e71885134429585f7c3b25eb.webp" group-title="📰 Noticias",CBS News Boston
+https://bostoahhb12d.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-news-colorado" tvg-name="CBS News Colorado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c974872187a5d7f4869be4b509c0c7ae.webp" group-title="📰 Noticias",CBS News Colorado
+https://colorf2fd001.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-id="cbs-news-chicago" tvg-name="CBS News Chicago" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/624c41432d3ba524ae2f0ebc3a61b0f6.webp" group-title="📰 Noticias",CBS News Chicago
+https://chicad94bd07.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-news-miami" tvg-name="CBS News Miami" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0793592144a007276e2ca6927eee528.webp" group-title="📰 Noticias",CBS News Miami
+https://lineup.cbsivideo.com/playout/8796731e-7ce7-4bcf-bb04-41ef5a969c62/master.m3u8
+#EXTINF:-1 tvg-id="cbs-news-detroit" tvg-name="CBS News Detroit" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d5b595a3864e0c682461c129844631a.webp" group-title="📰 Noticias",CBS News Detroit
+https://detro3a34841.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-news-bay-area" tvg-name="CBS News Bay Area" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec7817c76cf468dae80e725754b6652f.webp" group-title="📰 Noticias",CBS News Bay Area
+https://baya0f96heg.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cbs-news" tvg-name="CBS News New York" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69b2ea6b192c5a330b5418ce0f3f0138.webp" group-title="📰 Noticias",CBS News New York
+https://news20e7hhcb.airspace-cdn.cbsivideo.com/index.m3u8
+#EXTINF:-1 tvg-id="cbs-news-philadelphia" tvg-name="CBS News Philadelphia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac4a9d1eefcddea9adbf650f7accf0ab.webp" group-title="📰 Noticias",CBS News Philadelphia
+https://phila5bcfb03.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+#EXTINF:-1 tvg-id="cgtn-english" tvg-name="CGTN English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d08dc903d31c879531b986c4b9d5e985.webp" group-title="📰 Noticias",CGTN English
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#EXTINF:-1 tvg-id="cgtn-arabic" tvg-name="CGTN Arabic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0ad6b9dbc11b82fdc71d7c8ec19c73.webp" group-title="📰 Noticias",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="cheddar-news" tvg-name="Cheddar News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c6cb285a601f8fa63b1692ed68fab22b.webp" group-title="📰 Noticias",Cheddar News
+https://hls.livecdn.io/cheddar.com/cheddar/playlist.m3u8
+#EXTINF:-1 tvg-id="channel-13-israel" tvg-name="Channel 13 Israel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/04f11e34700f1f415d2e631764d7bbae.webp" group-title="📰 Noticias",Channel 13 Israel
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index_3.m3u8
+#EXTINF:-1 tvg-id="channel-14-israel" tvg-name="Channel 14 (Israel)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb83f7e5195fafdb3e02bec3e06b62fc.webp" group-title="📰 Noticias",Channel 14 (Israel)
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22820071256fad3110f9b05a1fa086a9.webp" group-title="📰 Noticias",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="cnbc-tv18" tvg-name="CNBC TV18" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7cc0e92f4e97237cef820bc1cfc2f906.webp" group-title="📰 Noticias",CNBC TV18
+https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="cnn-news-18" tvg-name="CNN News 18" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8eefaada61f6209fdfb4a8ce506826ff.webp" group-title="📰 Noticias",CNN News 18
+https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
+#EXTINF:-1 tvg-id="cnn-en-espanol" tvg-name="CNN en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47f99fa1872d0b6c8d1c562b94bfeb31.webp" group-title="📰 Noticias",CNN en Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="color-vision-canal-9" tvg-name="Color Vision Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="🎬 Cine y Series",Color Vision Canal 9
+https://cdn0.360playvid.com/CHVIDIDmutt54f7grpfvykjy3e/hls/index.m3u8
+#EXTINF:-1 tvg-id="cnn-portugal" tvg-name="CNN Portugal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b6904191bba4cd4428ac6f08a5716aec.webp" group-title="📰 Noticias",CNN Portugal
+https://video-auth1.iol.pt/live_cnn/live_cnn/edge_servers/cnn-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="comercio-tv" tvg-name="Comercio TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31201177a82f29567d50a5353b9e0966.webp" group-title="📰 Noticias",Comercio TV
+https://amg00082-amg00082c1-comerciotv-worldwide-7538.playouts.now.amagi.tv/playlist/amg00082-tarima-comercio-comerciotvworldwide/playlist.m3u8?app_bundle=REPLACE_ME&app_name=REPLACE_ME&app_store_url=REPLACE_ME&us_privacy=REPLACE_ME&did=REPLACE_ME&dnt=REP
+#EXTINF:-1 tvg-id="cosmos-tv" tvg-name="Cosmos Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f3e3ed0bf81dedf4ded72f1053268dc.webp" group-title="📰 Noticias",Cosmos Tv
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="das-erste" tvg-name="Das Erste" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91914a66ce68b290fb5a4cdb52d0da42.webp" group-title="📰 Noticias",Das Erste
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+#EXTINF:-1 tvg-id="denver-7" tvg-name="Denver 7" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31e40013a3946eac14fb023bfe325ef1.webp" group-title="📰 Noticias",Denver 7
+https://content.uplynk.com/channel/4608c2dc86a14e3db517ef7e5042a915.m3u8
+#EXTINF:-1 tvg-id="difusora-tv-assis" tvg-name="Difusora Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d7f2f3f24a9566fb7c069e30135ad60.webp" group-title="📰 Noticias",Difusora Tv
+https://srv1.zcast.com.br/radiodifusora9432/radiodifusora9432/playlist.m3u8
+#EXTINF:-1 tvg-id="dotb-durangaldeko-telebista" tvg-name="dotb Durangaldeko Telebista en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/618a890bc6d63e91746ae4425ec8a73b.webp" group-title="📰 Noticias",dotb Durangaldeko Telebista en directo
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="dw-latino-america" tvg-name="DW Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/06b9c71d745458b2e3a57c2772f7a566.webp" group-title="📰 Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="dw-arabia" tvg-name="DW - Arabia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7611b6ed87e31d238178569d17a326aa.webp" group-title="📰 Noticias",DW - Arabia
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 tvg-id="dw-deutsche-welle" tvg-name="DW - German" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd20dc7ce12901f45a5f100a4cc97032.webp" group-title="📰 Noticias",DW - German
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="eco-tv-ar" tvg-name="Eco Tv de Tandil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bac74d05e8793fd94cb5812dcb4c4de.webp" group-title="📰 Noticias",Eco Tv de Tandil
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="dw-amerika" tvg-name="DW America" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eda25988b77fff463d40f822f58bf698.webp" group-title="📰 Noticias",DW America
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream02/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ecuador-tv" tvg-name="Ecuador Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0c80f6d3c4256850b14f410e73711dc.webp" group-title="📰 Noticias",Ecuador Tv
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-id="dw-english" tvg-name="DW - English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/175e2b7b8006e539c48aca9e0cf1500b.webp" group-title="📰 Noticias",DW - English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="el-toro-tv" tvg-name="El Toro TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/450cc795fa1f6ad450bfa0689c9f23e3.webp" group-title="📰 Noticias",El Toro TV en directo
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="estrella-news" tvg-name="Estrella News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9390b1b3cbb21b5cc8a57ccd51a3cadc.webp" group-title="📰 Noticias",Estrella News
+https://estrella-news-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-hungarian" tvg-name="Euronews Hungarian" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0c9c92f89f84f21475cbed37c64938c.webp" group-title="📰 Noticias",Euronews Hungarian
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 tvg-id="etv-marche-italy" tvg-name="ETV Marche" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c37186e160ac2d78c88cec67a37d0a3.webp" group-title="📰 Noticias",ETV Marche
+https://5f11919dca3bd.streamlock.net/E-TvMarche/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="etb-basque" tvg-name="ETB Basque en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c6b1bc17fcc7af36cf4c86087faa8765.webp" group-title="📰 Noticias",ETB Basque en directo
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="euronews-italiano" tvg-name="Euronews Italiano" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6a57bc29266f0c49e068b7d63db4b85c.webp" group-title="📰 Noticias",Euronews Italiano
+https://76fb633a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0l0YWxpYW5vX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-in-german" tvg-name="Euronews in German" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32339f973d32081ca89cc983e0ac36e9.webp" group-title="📰 Noticias",Euronews in German
+https://26b42d58.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0RldXRzY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-greek" tvg-name="Euronews Greek" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9cd4eb55cf17081236d6fc5e7d023b4c.webp" group-title="📰 Noticias",Euronews Greek
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 tvg-id="euronews-fr" tvg-name="Euronews France" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4efc4b508f6726c36444e53a24fa764.webp" group-title="📰 Noticias",Euronews France
+https://db42244a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0ZyYW5jYWlzX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-pt" tvg-name="Euronews PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fee4bcbe6932805a9862a46b1773a0c1.webp" group-title="📰 Noticias",Euronews PT
+https://598c4b93.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-en-espanol" tvg-name="Euronews En Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eae63ad4d1350713a595ac5bfccda027.webp" group-title="📰 Noticias",Euronews En Español en directo
+https://9ca5d68b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1NwYW5pc2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="euronews-russian" tvg-name="Euronews Russian" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b5300360144e60342072269f2885ef90.webp" group-title="📰 Noticias",Euronews Russian
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 tvg-id="fama-tv-portugal" tvg-name="Fama TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f077dfb4be3d2569b2d08d5b82a4243f.webp" group-title="📰 Noticias",Fama TV
+https://tv2.fastcast4u.com:3310/live/famatvlive.m3u8
+#EXTINF:-1 tvg-id="euronews" tvg-name="Euronews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f97ddb124f78c2dbb189d379420a08d.webp" group-title="📰 Noticias",Euronews
+https://da2884db.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c0VuZ2xpc2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="fala-litoral-web-tv" tvg-name="Fala Litoral WEB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f482da2bd0fadbff4843b5734ca1c9a.webp" group-title="📰 Noticias",Fala Litoral WEB TV
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+#EXTINF:-1 tvg-id="fox-13-memphis" tvg-name="Fox 13 Memphis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb370d531407f45fef18e235acde9b15.webp" group-title="📰 Noticias",Fox 13 Memphis
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="fox-23-news" tvg-name="Fox 23 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/881a3c497848a7371804d27bd6c4553b.webp" group-title="📰 Noticias",Fox 23 News
+https://d2p2u03n7ca3vq.cloudfront.net/out/v1/a928b9c6ef894694a73f7e8e52524c1c/index.m3u8
+#EXTINF:-1 tvg-id="fox-47-news" tvg-name="FOX 47 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1badce09d58389e12aa97fb55759cb0e.webp" group-title="📰 Noticias",FOX 47 News
+https://content.uplynk.com/channel/1def886b4ea94e9294981ffcbea35408.m3u8
+#EXTINF:-1 tvg-id="fox-4-news-southwest-florida" tvg-name="Fox 4 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9f8fef3c0e33a99aa63b830e02027bfd.webp" group-title="📰 Noticias",Fox 4 News
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 tvg-id="fox-61-connecticut" tvg-name="FOX 61 Connecticut" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8186bfa33c84a496b32551ba0f5d20bf.webp" group-title="📰 Noticias",FOX 61 Connecticut
+https://livevideo.tegnadigital.com/wtic/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WTIC/elvs/live.m3u8
+#EXTINF:-1 tvg-id="fox-17-west-michigan-news" tvg-name="FOX 17" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ed924f72fe41f7b2714d71a670b83b1.webp" group-title="📰 Noticias",FOX 17
+https://content.uplynk.com/channel/928daec7acca4da1950162a5cf5eb9f6.m3u8
+#EXTINF:-1 tvg-id="fox-weather" tvg-name="Fox Weather" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cb385ae8814d6b93f0b863ce42bf288.webp" group-title="📰 Noticias",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:-1 tvg-id="fox-13-news-tampa-bay" tvg-name="FOX 13 News - Tampa Bay" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b8781ce06592873187d022069899bc2.webp" group-title="📰 Noticias",FOX 13 News - Tampa Bay
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="free-speech-tv" tvg-name="Free Speech TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/59405c1383d8dc80649aedd7d60c50e5.webp" group-title="📰 Noticias",Free Speech TV
+https://na.linear.zype.com/f2f02a72-71d0-45f3-829f-4ae51f721102/86ef0177-697d-41c4-be57-c4d1a2b83cad-hls4/live.m3u8
+#EXTINF:-1 tvg-id="giro-tv-news" tvg-name="Giro TV News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64febaa2bf458ab08e49bc0147ae4d56.webp" group-title="📰 Noticias",Giro TV News
+https://video09.logicahost.com.br/giroserra/giroserra/playlist.m3u8
+#EXTINF:-1 tvg-id="giornale-radio-tv" tvg-name="Giornale Radio TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b71236801e6520c91cf52a98fd7d3bd7.webp" group-title="📰 Noticias",Giornale Radio TV
+https://gr.fluid.stream/GR_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-id="gold-tv" tvg-name="Gold TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbe08f9d0b166518e37e28400f1de15a.webp" group-title="📰 Noticias",Gold TV
+https://5a1178b42cc03.streamlock.net/golditalia/golditalia/playlist.m3u8
+#EXTINF:-1 tvg-id="abc7-southwest-florida" tvg-name="Gulf Coast ABC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2b46f0201acc3b1c7a940979a3f9fa2.webp" group-title="📰 Noticias",Gulf Coast ABC
+https://content.uplynk.com/channel/76818149329f4aef8ba6161d99a890ef.m3u8
+#EXTINF:-1 tvg-id="halk-tv" tvg-name="HALK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0a08ca53dacf9c043077dc529d50f1d9.webp" group-title="📰 Noticias",HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-id="hch-tv" tvg-name="HCH TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1b1e779fc0552915b8024a47687ac16e.webp" group-title="📰 Noticias",HCH TV
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-id="hechos-ecuador" tvg-name="Hechos Ecuador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a9dcc80fd1dd104f9bc3e57434086eb.webp" group-title="📰 Noticias",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="hr-fernsehen" tvg-name="HR-Fernsehen" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3210b83704e46473d6ac703c449879ae.webp" group-title="📰 Noticias",HR-Fernsehen
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="hoy-ibc" tvg-name="HOY IBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd0389c295eb46b3229fadccbdbd27bc.webp" group-title="📰 Noticias",HOY IBC
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 tvg-id="i24-news" tvg-name="i24 NEWS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24e260482394b19c07e6c368de70e71e.webp" group-title="📰 Noticias",i24 NEWS
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24-news-en-francais" tvg-name="i24 NEWS en Français" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/631b6ecb6c60018863cc98996d4239e4.webp" group-title="📰 Noticias",i24 NEWS en Français
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="ici-rdi" tvg-name="ICI RDI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b9717d322c0e9cc76fb3f9ef64a9218.webp" group-title="📰 Noticias",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="idaho-news-6" tvg-name="Idaho News 6" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3f0062fb11ffc5bed9bf0064459e11af.webp" group-title="📰 Noticias",Idaho News 6
+https://content.uplynk.com/channel/f094c565340b4b03a5ac462e3cfb5475.m3u8
+#EXTINF:-1 tvg-id="india-tv" tvg-name="India TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/347c1565785f22691235c3281f37614c.webp" group-title="📰 Noticias",India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:-1 tvg-id="istv" tvg-name="ISTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/956249947191e0e94a5a4768b952d303.webp" group-title="🎬 Cine y Series",ISTV
+https://video10.logicahost.com.br/redeistv/redeistv/playlist.m3u8
+#EXTINF:-1 tvg-id="kan-11-jerusalem" tvg-name="Kan 11 Jerusalem" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8a1b93ed3752e3d583e9e6290dc3521.webp" group-title="📰 Noticias",Kan 11 Jerusalem
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="kantipur-tv" tvg-name="Kantipur TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/249d5f2cb99ee71b58b02bd800621ee8.webp" group-title="📰 Noticias",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="kanal-24" tvg-name="KANAL 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7e49a214408c71f79bab98061c45700f.webp" group-title="📰 Noticias",KANAL 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+#EXTINF:-1 tvg-id="kcci" tvg-name="KCCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce3ec1769003cff6c7398ed27416b123.webp" group-title="📰 Noticias",KCCI
+https://content.uplynk.com/channel/b7fea39aaff14c9aa9ab46db28c74fab.m3u8
+#EXTINF:-1 tvg-id="kare-11" tvg-name="Kare 11" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93b884733e49ba3069da7045516fca81.webp" group-title="📰 Noticias",Kare 11
+https://livevideo.tegnadigital.com/kare/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KARE/elvs/live.m3u8
+#EXTINF:-1 tvg-id="khbs-abc-4029-news" tvg-name="KHBS - ABC 40/29 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67f9caba1ddb32b753b538e706606e61.webp" group-title="📰 Noticias",KHBS - ABC 40/29 News
+https://content.uplynk.com/channel/6d1893bb88e94d1dba4e9950205087da.m3u8
+#EXTINF:-1 tvg-id="kcra-3" tvg-name="KCRA 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ed7e99cf71c6bcec23714c38bb15c04.webp" group-title="📰 Noticias",KCRA 3
+https://aegis-cloudfront-1.tubi.video/5e3aff30-070f-4951-aa59-5ca415acb3c1/playlist.m3u8
+#EXTINF:-1 tvg-id="kbzk-bozeman-mt-news" tvg-name="KBZK Bozeman MT News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e128a2cc99ba256d9234e0fd94117cec.webp" group-title="📰 Noticias",KBZK Bozeman MT News
+https://content.uplynk.com/channel/6c10942f39a6415e8145708eca680138.m3u8
+#EXTINF:-1 tvg-id="king-5-seattle" tvg-name="KING 5 Seattle" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc7218a45cb82cf658496de235d50f3f.webp" group-title="📰 Noticias",KING 5 Seattle
+https://livevideo.tegnadigital.com/king/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KING/elvs/live.m3u8
+#EXTINF:-1 tvg-id="ketv-newswatch-7" tvg-name="KETV NewsWatch 7" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40d962f64d512ada5ee4fa30aae6c326.webp" group-title="📰 Noticias",KETV NewsWatch 7
+https://content.uplynk.com/channel/c94ab423cde94f67986cdb72c496db6f.m3u8
+#EXTINF:-1 tvg-id="khou-11" tvg-name="KHOU 11" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e6ed8edb04631138bb06b02622d73dde.webp" group-title="📰 Noticias",KHOU 11
+https://livevideo.tegnadigital.com/khou/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KHOU/elvs/live.m3u8
+#EXTINF:-1 tvg-id="koaa-news-5-colorado" tvg-name="KOAA News 5 Colorado" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a81c1849fb58a99bbdc11a059a6918bd.webp" group-title="📰 Noticias",KOAA News 5 Colorado
+https://content.uplynk.com/channel/f1c79bdf896549aeb29440da7386fe6c.m3u8
+#EXTINF:-1 tvg-id="kpax-tv-missoula" tvg-name="KPAX-TV Missoula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77ffede25ef66dedd2db6946df24d627.webp" group-title="📰 Noticias",KPAX-TV Missoula
+https://content.uplynk.com/channel/580cbd026f624fe7a5f4e0b9b1d53794.m3u8
+#EXTINF:-1 tvg-id="koat-action-7-news" tvg-name="KOAT Action 7 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ad095b3abde9d05895f34149dc83356.webp" group-title="📰 Noticias",KOAT Action 7 News
+https://aegis-cloudfront-1.tubi.video/2dba5dd9-4097-45e3-b169-56735cc48476/playlist.m3u8
+#EXTINF:-1 tvg-id="kmtv-3-news-now" tvg-name="KMTV 3 News Now" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/991ec683e72498ff930666ae9a0d6f43.webp" group-title="📰 Noticias",KMTV 3 News Now
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1 tvg-id="kris-6-news" tvg-name="KRIS 6 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2831402765c59f8f0b000129b5144f0.webp" group-title="📰 Noticias",KRIS 6 News
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-id="komo-news" tvg-name="KOMO News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a5a5935a679b53c08edc9f88f5567a32.webp" group-title="📰 Noticias",KOMO News
+https://d3p430te65ncwo.cloudfront.net/out/v1/fcaee328d09d467d965834ec96e2a2d3/index.m3u8
+#EXTINF:-1 tvg-id="ksby-news" tvg-name="KSBY News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac138f7195f1506075def79f17ddfff4.webp" group-title="📰 Noticias",KSBY News
+https://content.uplynk.com/channel/5545aa8a7e5a480d85fd1cff8d0cf610.m3u8
+#EXTINF:-1 tvg-id="ksbw-tv-action-news-8" tvg-name="KSBW TV Action News 8" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9e453fc763e7aec653faa426c0c74dc6.webp" group-title="📰 Noticias",KSBW TV Action News 8
+https://aegis-cloudfront-1.tubi.video/8e6af50d-76df-4208-ab8d-3ff8f512cd38/playlist.m3u8
+#EXTINF:-1 tvg-id="kshb-41-kansas-city" tvg-name="KSHB 41" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71da0a82884b40803a6fcada34720e4.webp" group-title="📰 Noticias",KSHB 41
+https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8?v=2&ad=live&expand=ad_live&repl=aboi&ad.url=https%3A%2F%2Fwww.kshb.com%2F&ad.cust_params=user_id%3Dc422b593-2381-460c-993f-a30dead8c917%26givn%3Dundefined
+#EXTINF:-1 tvg-id="la7" tvg-name="La7" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e4944f069d68a0160589f10bfbf7958e.webp" group-title="📰 Noticias",La7
+https://d3k8wzt41aflvx.cloudfront.net/LA7HD/Live.m3u8
+#EXTINF:-1 tvg-id="lancelot-television" tvg-name="Lancelot Televisión en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71be55dca5e372c98998bebc8e2e1e45.webp" group-title="📰 Noticias",Lancelot Televisión en directo
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+#EXTINF:-1 tvg-id="lamore-rock-show-webtv" tvg-name="Lamore Rock Show WebTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21bae9dbda5e553dc0f618bd5bf36b3c.webp" group-title="📰 Noticias",Lamore Rock Show WebTV
+https://a.cdni.live/rodrigo2364/rodrigo2364/playlist.m3u8
+#EXTINF:-1 tvg-id="latina-tv-argentina" tvg-name="Latina Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="📰 Noticias",Latina Tv
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:-1 tvg-id="latele" tvg-name="LaTele" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb41de706a8b6a9ce023a8a3bdd79495.webp" group-title="🎬 Cine y Series",LaTele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="latina-tv-venezuela" tvg-name="Latina TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd44c98898d196958426d7384494597f.webp" group-title="📰 Noticias",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="lex-18-lexington" tvg-name="LEX 18" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d735b6fbfc99e589d98d3d210fcc0a16.webp" group-title="📰 Noticias",LEX 18
+https://content.uplynk.com/channel/94ab0fcd1b304176a28dbf64521aa6a4.m3u8
+#EXTINF:-1 tvg-id="lazio-tv-roma" tvg-name="Lazio Tv Roma" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48062820ea9bca8e41f5f6df53fde59d.webp" group-title="📰 Noticias",Lazio Tv Roma
+https://5f11919dca3bd.streamlock.net/laziotv/_definst_/laziotv/playlist.m3u8
+#EXTINF:-1 tvg-id="le-figaro-tv-ile-de-france" tvg-name="Le Figaro TV Ile-de-France" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21e2b158adb7d33f431cd479acfe7126.webp" group-title="📰 Noticias",Le Figaro TV Ile-de-France
+https://static.lefigaro.fr/secom/tnt.m3u8
+#EXTINF:-1 tvg-id="leouve-tv" tvg-name="Leouve Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/259c5010a5dc2fd062b5bbf8324ce110.webp" group-title="📰 Noticias",Leouve Tv
+https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
+#EXTINF:-1 tvg-id="livre-tv" tvg-name="Livre TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp" group-title="⚽ Deportes",Livre TV
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
+#EXTINF:-1 tvg-id="lucania-tv" tvg-name="Lucania TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a92eb6528e3224ccd06ec2b254d4ce1.webp" group-title="📰 Noticias",Lucania TV
+https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8
+#EXTINF:-1 tvg-id="megatv-miami" tvg-name="MegaTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec6a2a42e37ffe4fc0b606330cef1185.webp" group-title="📰 Noticias",MegaTV
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 tvg-id="megavision-canal-21" tvg-name="Megavision Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/057c96768cc9672e72776bb88be5ecb3.webp" group-title="📰 Noticias",Megavision Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="minformo-tv" tvg-name="Minformo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/107cc17b28ea51568d4a6236aa71d35a.webp" group-title="📰 Noticias",Minformo TV
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 tvg-id="milenio-tv" tvg-name="Milenio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9814d09f2ef1e8c452586c39f9390a55.webp" group-title="📰 Noticias",Milenio Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 tvg-id="moconomy" tvg-name="Moconomy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e269bb79da6d457ef038cb2e9c7223d6.webp" group-title="📰 Noticias",Moconomy
+https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8
+#EXTINF:-1 tvg-id="moscou-24" tvg-name="Moscow 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15c2dc059619f7b9ff8a7359d72ae513.webp" group-title="📰 Noticias",Moscow 24
+https://stream.smotrim.ru/hls2/moscow_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="multivision" tvg-name="Multivisión Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="📰 Noticias",Multivisión Canal 9
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-id="my-nbc5-wptz" tvg-name="My NBC5 - WPTZ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe4998ec02dae132bf1b332eef086bd9.webp" group-title="📰 Noticias",My NBC5 - WPTZ
+https://content.uplynk.com/channel/126ee077bc7e4edf9fdcba7eb8dbb4ec.m3u8
+#EXTINF:-1 tvg-id="nbc-4-milwaukee" tvg-name="NBC 4 Milwaukee" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f006d154e295c4d19b76523c36ce9fba.webp" group-title="📰 Noticias",NBC 4 Milwaukee
+https://content.uplynk.com/channel/50bb38f57f0547319060274f3b94db4e.m3u8
+#EXTINF:-1 tvg-id="nbc-5-news" tvg-name="NBC 5 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17695dd8c3a3b103abe35bc7e2269a17.webp" group-title="📰 Noticias",NBC 5 News
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889456
+#EXTINF:-1 tvg-id="nbc2-news" tvg-name="NBC2 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/57562f4edf192589b5f78772e420c03e.webp" group-title="📰 Noticias",NBC2 News
+https://content.uplynk.com/channel/76818149329f4aef8ba6161d99a890ef.m3u8
+#EXTINF:-1 tvg-id="nbc-wvtm-13" tvg-name="NBC - WVTM 13" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b2fb42a333daa86686bc0b5dc552553.webp" group-title="📰 Noticias",NBC - WVTM 13
+https://content.uplynk.com/channel/8e7504962da04956953c874a7ad11c6b.m3u8
+#EXTINF:-1 tvg-id="nbc-10-wcau" tvg-name="NBC 10 WCAU" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84a46cc05beeb9920c6adc7af702b568.webp" group-title="📰 Noticias",NBC 10 WCAU
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_streamId=88889705&ads.csid=nbc_us_PLATFORM_nbcnphi_ssai&ads.caid=NBCNPHI
+#EXTINF:-1 tvg-id="nbc-6-richmond" tvg-name="NBC 6 Richmond" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49c591a7ba55fb8d69b1fd522557e925.webp" group-title="📰 Noticias",NBC 6 Richmond
+https://content.uplynk.com/channel/be4953638946493fa5dc6bea87209ce2.m3u8
+#EXTINF:-1 tvg-id="nbc-ktvh-helena" tvg-name="NBC KTVH Helena" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5f6cf966b5a667b9c9d0fb8503a7ec2.webp" group-title="📰 Noticias",NBC KTVH Helena
+https://content.uplynk.com/channel/65fe15580b5741a58dc6d6cc52793965.m3u8
+#EXTINF:-1 tvg-id="newsmax-tv" tvg-name="Newsmax Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e45cbaccd67251031bbfa0019f4dcfe.webp" group-title="📰 Noticias",Newsmax Tv
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-id="news-2-wfmy" tvg-name="News 2 WFMY" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/245452b091ee2a946b06d0d4bf502474.webp" group-title="📰 Noticias",News 2 WFMY
+https://livevideo.tegnadigital.com/wfmy/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFMY/elvs/live.m3u8
+#EXTINF:-1 tvg-id="new-orleans-television" tvg-name="New Orleans Television" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8633b228896dc48d6bad704fce5fab9b.webp" group-title="📰 Noticias",New Orleans Television
+https://5ed325193d4e1.streamlock.net:444/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="newsworld" tvg-name="NewsWorld" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b504d5f0e33d75c566ab7d942091410e.webp" group-title="📰 Noticias",NewsWorld
+https://amg01076-amg01076c5-plex-us-4785.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="news-24" tvg-name="News 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49b1d4498f7bb7f84410b4c89e731baf.webp" group-title="📰 Noticias",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="negocios-tv" tvg-name="Negocios TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c85fd0cf3f525e62451b720289c9851f.webp" group-title="📰 Noticias",Negocios TV en directo
+https://negociostv-negociostv-samsunges.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="nbc-news" tvg-name="NBC News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d875c37ac59297c9ec1a65ae80ac179e.webp" group-title="📰 Noticias",NBC News
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:-1 tvg-id="news24-express" tvg-name="News24 Express" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3e8ba1745421357e947ab32c6cfeaa56.webp" group-title="📰 Noticias",News24 Express
+http://genesys.livebox.co.in/news24expresshls/live.m3u8
+#EXTINF:-1 tvg-id="newsmax-en-espanol" tvg-name="Newsmax en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/943a79d265d7bf4b83cf3e41d5d4a171.webp" group-title="📰 Noticias",Newsmax en Español
+https://amg00217-newsmax-amg00217c4-plex-us-9039.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxenespanol-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="nhk-world-premium-jp" tvg-name="NHK World Premium" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/43643cef4eea215e7903a0616faea4b7.webp" group-title="📰 Noticias",NHK World Premium
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1 tvg-id="nhk-world" tvg-name="NHK WORLD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ab2cae62f1210235beccb4bb75e35b.webp" group-title="📰 Noticias",NHK WORLD
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="noticias-agricolas" tvg-name="Notícias Agrícolas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc4bafac99f0014bd628f85263f5d1a0.webp" group-title="📰 Noticias",Notícias Agrícolas
+https://video09.logicahost.com.br/tvnoticiasagricolas/tvnoticiasagricolas/playlist.m3u8
+#EXTINF:-1 tvg-id="noticias-telemundo" tvg-name="Noticias Telemundo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec1db8ec26a1eaf78c1fa23b2927b755.webp" group-title="📰 Noticias",Noticias Telemundo
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889467
+#EXTINF:-1 tvg-id="npy-noticias-paraguay" tvg-name="NPY - Noticias Paraguay" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac32fe63580a7518eec2c91e1b6b0319.webp" group-title="📰 Noticias",NPY - Noticias Paraguay
+https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w836206254.m3u8
+#EXTINF:-1 tvg-id="omega-tv" tvg-name="Omega TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8d609c414a4127c5aa4a5b33a1d8c72.webp" group-title="🎬 Cine y Series",Omega TV
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
+#EXTINF:-1 tvg-id="onda-digital-tv" tvg-name="Onda Digital Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="📰 Noticias",Onda Digital Tv
+https://live.ondadigitaltv.com/ODTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="omrop-fryslan" tvg-name="Omrop Fryslân" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7e595ef696117a419f58158347f429c0.webp" group-title="📰 Noticias",Omrop Fryslân
+https://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/f8f68bd5/index.m3u8
+#EXTINF:-1 tvg-id="palestine-tv" tvg-name="Palestine TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6e2fa24c0c460e78b655109cbe5b9bf9.webp" group-title="📰 Noticias",Palestine TV
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="plus-tv-africa" tvg-name="Plus TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41418769de8b0e043a223c47e1616687.webp" group-title="📰 Noticias",Plus TV
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="porto-canal" tvg-name="Porto Canal" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15dfa81381e3e94f5a823ee970d0500e.webp" group-title="📰 Noticias",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="prensa-latina" tvg-name="Prensa Latina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94a4f605663df4beee0109e091aac289.webp" group-title="📰 Noticias",Prensa Latina
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="premier-tv" tvg-name="Premier TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e720820b4e27c1f4899eef3a0bcd446.webp" group-title="📰 Noticias",Premier TV
+https://www.cxtv.com.br/proxy.php?url=http://177.74.174.57:8080/hls/primertv.m3u8
+#EXTINF:-1 tvg-id="press-tv" tvg-name="Press Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef8feda9cd8c44e5025aaf407cf9fbac.webp" group-title="📰 Noticias",Press Tv
+https://live.presstv.co.uk/hls/presstv.m3u8
+#EXTINF:-1 tvg-id="promar-tv" tvg-name="Promar TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b56260b68f3ebe6b1601e56567d46831.webp" group-title="📰 Noticias",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="public-tv" tvg-name="Public TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4c0c0bc75ab6367b607bd330df3f34c.webp" group-title="📰 Noticias",Public TV
+https://streams.tangotv.in/PUBLICTV/ORIGIN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="quiero-tv" tvg-name="Quiero TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce1b28cfc508c709a01ac78c5b3475e6.webp" group-title="📰 Noticias",Quiero TV
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-id="qatar-tv-1" tvg-name="Qatar TV 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee69b2eb0023723121240108bb15daab.webp" group-title="📰 Noticias",Qatar TV 1
+https://qatartv.akamaized.net/hls/live/20000609/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="rai-3" tvg-name="RAI 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8a8e465858635003333ca437541406.webp" group-title="📰 Noticias",RAI 3
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="rai-news-24" tvg-name="RAI NEWS 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45e8f0adaddc0371d922c862f2eb245b.webp" group-title="📰 Noticias",RAI NEWS 24
+https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
+#EXTINF:-1 tvg-id="rbatv" tvg-name="RBATV (Band PA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/df0c35517ab2f2e9e6e63c1808730694.webp" group-title="📰 Noticias",RBATV (Band PA)
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="real-americas-voice" tvg-name="Real America's Voice" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73f1c196ae46d6b6095e2522b65ba36f.webp" group-title="📰 Noticias",Real America's Voice
+https://d2jiqiw4g5lj5k.cloudfront.net/AVSamsung/AVSamsung.m3u8
+#EXTINF:-1 tvg-id="rede-brasil-de-televisao-rbtv" tvg-name="Rede Brasil de Televisão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0049b33f9d70ac2fbea58163c3053423.webp" group-title="📰 Noticias",Rede Brasil de Televisão
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="record-news" tvg-name="Record News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86600ed6f09e4bf48be4e55a0cd01536.webp" group-title="📰 Noticias",Record News
+https://run-rnw-rn.otteravision.com/rnw/rn/rnw_rn_720p_high.m3u8
+#EXTINF:-1 tvg-id="sim-tv-record-news-es" tvg-name="Record News ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/147ff2219e6df6d1db28d26830d1de5e.webp" group-title="📰 Noticias",Record News ES
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="rede-familia" tvg-name="Rede Família" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ede7e5de6ca676517ca7197759c16e7.webp" group-title="📰 Noticias",Rede Família
+https://www.cxtv.com.br/proxy.php?url=http://186.219.52.187/rede_familia/index.m3u8
+#EXTINF:-1 tvg-id="rede-meio-norte" tvg-name="Rede Meio Norte" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b43005b199dfba9f79b51ce4398230df.webp" group-title="📰 Noticias",Rede Meio Norte
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-id="rede-sul-de-televisao" tvg-name="Rede Sul de Televisão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4236bf2d9650a0d98fcd60382765af8c.webp" group-title="📰 Noticias",Rede Sul de Televisão
+https://video10.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-parana" tvg-name="RedeTV Paraná" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e77ec3ec8016c9fd59aead82a6eca6db.webp" group-title="📰 Noticias",RedeTV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-utv" tvg-name="Rede UTV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74a615920288577b11ec8ae78badf28b.webp" group-title="📰 Noticias",Rede UTV Brasil
+https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-mais" tvg-name="Redetv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="⚽ Deportes",Redetv Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-tv" tvg-name="RedeTV!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b0baf19518fb782525c37b40c2f5d9b5.webp" group-title="📰 Noticias",RedeTV!
+https://stream.esemrede.com.br/live/redetves.m3u8
+#EXTINF:-1 tvg-id="rei-tv" tvg-name="REI TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a4131a4f149d8d00dd64bed37c27f039.webp" group-title="📰 Noticias",REI TV
+https://64b16f23efbee.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1 tvg-id="republic-tv" tvg-name="Republic TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7e1d1f7c5aadff84d2f14401657a9296.webp" group-title="📰 Noticias",Republic TV
+https://samsung-republictv.amagi.tv/ts-ap-s1-n1/playlist/samsungin-republictv-samsungindia/playlist.m3u8
+#EXTINF:-1 tvg-id="ribeirao-web-news" tvg-name="Ribeirão Web News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba48d84e5076cf8729af192d3cf71229.webp" group-title="📰 Noticias",Ribeirão Web News
+https://aovivo.ribeiraowebnews.com.br/hls/play.m3u8
+#EXTINF:-1 tvg-id="reuters-tv" tvg-name="Reuters TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/39e53ff4eb0078728bfbe6e72dbbb90d.webp" group-title="📰 Noticias",Reuters TV
+https://amg00453-reuters-amg00453c1-plex-us-2106.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="right-side-broadcasting-network-rsbn" tvg-name="Right Side Broadcasting Network (RSBN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47d5af36d6a722112ed99b32cf5a7230.webp" group-title="📰 Noticias",Right Side Broadcasting Network (RSBN)
+https://rumble.com/live-hls-dvr/6jdcom/playlist.m3u8?
+#EXTINF:-1 tvg-id="rnn-canal-27" tvg-name="RNN CANAL 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="📰 Noticias",RNN CANAL 27
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="rt-arabic" tvg-name="RT Arabic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b48d488d347cb7fd264189a9110f82d.webp" group-title="📰 Noticias",RT Arabic
+https://rt-arb.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 tvg-id="rt-news" tvg-name="RT News - Russia Today" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/74d0baf230fd837fe7cc532a190d35a0.webp" group-title="📰 Noticias",RT News - Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 tvg-id="rt-en-espanol" tvg-name="RT en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26c5a30029b81339ef17a02aa420f64c.webp" group-title="📰 Noticias",RT en Español
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:-1 tvg-id="rtl" tvg-name="RTL Lëtzebuerg" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/705abd231ffd4df75538d26df179867a.webp" group-title="📰 Noticias",RTL Lëtzebuerg
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv-rajawali-televisi" tvg-name="RTV (Rajawali Televisi)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b6658eb9f24ea3a05f686edc82a489ec.webp" group-title="📰 Noticias",RTV (Rajawali Televisi)
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
+#EXTINF:-1 tvg-id="rtv-canal-38" tvg-name="RTV Canal 38" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7fac3844403ac236f8d09e0f3097cb79.webp" group-title="📰 Noticias",RTV Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv38" tvg-name="RTV38" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44597caa139f8fc9b8d6fab46c40a686.webp" group-title="⚽ Deportes",RTV38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="sbt-news" tvg-name="SBT News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc174cca08ed6deddcd11082f0834a5a.webp" group-title="📰 Noticias",SBT News
+https://sbtnews.maissbt.com/3.m3u8
+#EXTINF:-1 tvg-id="scripps-news" tvg-name="Scripps News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28bb4bcf7336ad6d42eb4b078099959a.webp" group-title="📰 Noticias",Scripps News
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="sky-news" tvg-name="Sky News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb20b62966b86fab810313b033c39363.webp" group-title="📰 Noticias",Sky News
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="super-marajoara" tvg-name="Super Marajoara 89,9 FM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b23f0b7a7eef132668cb315e1dd2ac0.webp" group-title="📰 Noticias",Super Marajoara 89,9 FM
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/playlist.m3u8
+#EXTINF:-1 tvg-id="tampa-bays-mor" tvg-name="Tampa Bay’s MOR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22006cc9985452b4db721aadb95d99c7.webp" group-title="📰 Noticias",Tampa Bay’s MOR
+https://content.uplynk.com/channel/e72660594b7a4182982af1690609683d.m3u8
+#EXTINF:-1 tvg-id="taiwan-plus" tvg-name="Taiwan Plus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f21a8334286d31135e8569ed96f417c.webp" group-title="📰 Noticias",Taiwan Plus
+https://fastly.live.brightcove.com/6385235869112/ap-northeast-1/6282251407001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiaWU4OWZvLmVncmVzcy5pdjNqZDgiLCJhY2NvdW50X2lkIjoiNjI4MjI1MTQwNzAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MjgyMjUxNDA3MDAxIl0sImp0aSI6IjYzODUyMzU4NjkxMTIifQ.4c-V1Ks3nBx9nRljtn5-jCNP_nLuWBbk-pw9BFWZfMQ/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="tagesschau-24" tvg-name="Tagesschau 24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41daa10a8e9277c25ca10b5828c2d650.webp" group-title="📰 Noticias",Tagesschau 24
+https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
+#EXTINF:-1 tvg-id="tdc" tvg-name="TDC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fce94fb74454f744e9fa8c7721e26b9c.webp" group-title="📰 Noticias",TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-id="tbn-america" tvg-name="TBN America" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51f300b5227557abaa2c34f862c45257.webp" group-title="📰 Noticias",TBN America
+https://a-cdn.klowdtv.com/live3/tbn_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="telearagua" tvg-name="Telearagua" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a9d8a5767456b0a2e0382f9087d63914.webp" group-title="📰 Noticias",Telearagua
+https://www.cxtv.com.br/proxy.php?url=http://45.173.198.59:8080/hls/nginx3.m3u8
+#EXTINF:-1 tvg-id="teleformula" tvg-name="TeleFórmula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf45e62409db8ccac319dff3261c5d02.webp" group-title="📰 Noticias",TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="telediario-now" tvg-name="Telediario Now" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5c32f2186578124d282b467dbe5a3d9.webp" group-title="📰 Noticias",Telediario Now
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="telecondor" tvg-name="Telecondor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a0ad17cee2ecc5963268d9ad1f328719.webp" group-title="📰 Noticias",Telecondor
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1 tvg-id="telediario-canal-6" tvg-name="Telediario Mx Canal 6" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a07b80778f25b274a127e3016bf2a111.webp" group-title="📰 Noticias",Telediario Mx Canal 6
+https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="telefuturo" tvg-name="Telefuturo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="📰 Noticias",Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="telemax" tvg-name="Telemax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9943cba0698e35b241e90f3337804fa3.webp" group-title="📰 Noticias",Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="tlx-telemax" tvg-name="Telemax Argentina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60338c55a7abd351205be40937d8192c.webp" group-title="📰 Noticias",Telemax Argentina
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="telemundo-51-miami" tvg-name="Telemundo 51 Miami" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/70ef4b19ce0f5b973ff48dffd540d3d8.webp" group-title="📰 Noticias",Telemundo 51 Miami
+https://d368vp0qqzvkid.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_nbc-direct/32d83610-b3ed-4e0c-bc1a-9cf4055cc405/3.m3u8
+#EXTINF:-1 tvg-id="telemundo-california" tvg-name="Telemundo California" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/432023d2bd3804224c262e0ac962cf45.webp" group-title="📰 Noticias",Telemundo California
+https://d2kowtvrzzi7ps.cloudfront.net/11602/88889714/hls/master.m3u8?ads.xumo_channelId=88889714a&ads.xumo_streamId=88889714&ads.csid=nbc_us_PLATFORM_telemundonoticiasca_ssai&ads.caid=TelemundoNoticiasCA
+#EXTINF:-1 tvg-id="telepacifico" tvg-name="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title="🇨🇴 Colombia - Noticias",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="telemundo-al-dia" tvg-name="Telemundo Al Dia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6fb0ba68c5a4022a6313f40cddcd762e.webp" group-title="📰 Noticias",Telemundo Al Dia
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889469
+#EXTINF:-1 tvg-id="telemundo-texas-dallas" tvg-name="Telemundo Texas - Dallas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85a9aff1637f5be5531685375ff1aae7.webp" group-title="📰 Noticias",Telemundo Texas - Dallas
+https://prodamdtlmdtv.akamaized.net/out/v1/dfdf9195d8e645c6a4372dc25537d4e7/5cc271e1002642baa6978559f28e3e5a/1248c8f441c14f869f1358e0d97d99bc/index.m3u8
+#EXTINF:-1 tvg-id="telemundo-corpus-christi" tvg-name="Telemundo Corpus Christi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fb2e07eda78cc9bf0ffb3392999e421.webp" group-title="📰 Noticias",Telemundo Corpus Christi
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
+#EXTINF:-1 tvg-id="telesur-english" tvg-name="teleSUR English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45fae1bb180abdb47a2368a05b0848e0.webp" group-title="📰 Noticias",teleSUR English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="televisora-regional-unimar" tvg-name="Televisora Regional Unimar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3c94afdd8a77d70ff06821205234c9b.webp" group-title="📰 Noticias",Televisora Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+#EXTINF:-1 tvg-id="teleweb-tv" tvg-name="Teleweb TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/398f39bc416a131290c8e910829eea2f.webp" group-title="📰 Noticias",Teleweb TV
+https://video01.brascast.com/acessweb7837/acessweb7837/playlist.m3u8
+#EXTINF:-1 tvg-id="th-mais-tv" tvg-name="TH Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c69435e6d2100e9e0b758fe91db9cb79.webp" group-title="📰 Noticias",TH Mais
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+#EXTINF:-1 tvg-id="teveo" tvg-name="TEVEO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80401ab4a87cba5038af6bc5932ea5e1.webp" group-title="📰 Noticias",TEVEO
+https://glb.bozztv.com/glb/americateve1/americateve--1/index.m3u8
+#EXTINF:-1 tvg-id="the-first" tvg-name="The First" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c6e34833ce8fcc978266819cd36d4c1.webp" group-title="📰 Noticias",The First
+https://thefirst-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="the-weather-channel" tvg-name="The Weather Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4feef1f6a0041b96534c9d33c1b99cf7.webp" group-title="📰 Noticias",The Weather Channel
+https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
+#EXTINF:-1 tvg-id="the-weather-channel-en-espanol" tvg-name="The Weather Channel en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52d26b4db7686e6b1cd4dc8f83a8e002.webp" group-title="📰 Noticias",The Weather Channel en Español
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&devi
+#EXTINF:-1 tvg-id="trt-1-hd" tvg-name="TRT 1 HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b05a4e2b3cfff832538882d848ec2779.webp" group-title="🎬 Cine y Series",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="trt-news-hd" tvg-name="TRT Haber (TRT News)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc79ac80d98716158533044f9ba7b877.webp" group-title="📰 Noticias",TRT Haber (TRT News)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tv-a-folha-tva" tvg-name="TV A Folha (TVA)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b3ab9881916a5409bbb42b796c5666d4.webp" group-title="📰 Noticias",TV A Folha (TVA)
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="trt-world" tvg-name="TRT World" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eff94ec4351676e1996d8f3145b78aa9.webp" group-title="📰 Noticias",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tv-amplitude-juina" tvg-name="TV Amplitude Juína (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f50fbc433dd7abb5be15b099ac762bb0.webp" group-title="⚽ Deportes",TV Amplitude Juína (Record MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-beltrao" tvg-name="Tv Beltrão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/242ff3bef11d573de2ebdc46ac7c0ddf.webp" group-title="📰 Noticias",Tv Beltrão
+https://video04.logicahost.com.br/tvbeltrao/tvbeltrao/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-balneario-camboriu" tvg-name="Tv Balneário Camboriú" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e82a5959990934b415cc6e156dcdca50.webp" group-title="📰 Noticias",Tv Balneário Camboriú
+https://stmv2.samcast.com.br/sandro9822/sandro9822/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-brasil" tvg-name="TV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/041a53eb1b2c6c9d65151c102342544b.webp" group-title="📰 Noticias",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="tv-capital" tvg-name="TV Capital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71b0f9abc764972773cad092b8610c03.webp" group-title="📰 Noticias",TV Capital
+https://stmv7.samcast.com.br/raimundoanselmolimamororo9090/raimundoanselmolimamororo9090/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-catve" tvg-name="TV CATVE (Cultura PR)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05a04d20468f33dcece26a290b7468d6.webp" group-title="📰 Noticias",TV CATVE (Cultura PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-10" tvg-name="TV Cidade 10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp" group-title="⚽ Deportes",TV Cidade 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-caruaru" tvg-name="TV Caruaru" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/000bc231c9fa000f01b251d77030e7a1.webp" group-title="📰 Noticias",TV Caruaru
+https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="tv-com" tvg-name="TV Com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dedf08c33c1af878ef6a34ccb138eb9c.webp" group-title="⚽ Deportes",TV Com
+https://tvcom-live.freecaster.com/live/tvcom/tvcom.m3u8
+#EXTINF:-1 tvg-id="tv-conquista-rede-record" tvg-name="TV Conquista (Rede Record)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2afc3b483887faa74817c62ee6b8d67.webp" group-title="📰 Noticias",TV Conquista (Rede Record)
+https://tvconquistalrv.duckdns.org:3334/hls/tvconquistalrv.m3u8
+#EXTINF:-1 tvg-id="tv-de-ultimo-minuto" tvg-name="TV De Último Minuto" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eccc9216327bb98704cd4b7c7c5a54d1.webp" group-title="📰 Noticias",TV De Último Minuto
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="tv-diario-do-sertao" tvg-name="TV Diário Do Sertão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp" group-title="⚽ Deportes",TV Diário Do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-ecovale" tvg-name="TV Ecovale" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e70c975e99231b8099ca4746ee95def4.webp" group-title="📰 Noticias",TV Ecovale
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-diario-de-santa-maria" tvg-name="TV Diário de Santa Maria" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/857bb91af6dbe74ca894f0a5b910864b.webp" group-title="📰 Noticias",TV Diário de Santa Maria
+https://cdn-diariosm.ciclano.io:1443/diariosm/diariosm/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-difusora-leste" tvg-name="TV Difusora Leste (SBT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b18678505f9a4a38addae3415a388a8d.webp" group-title="📰 Noticias",TV Difusora Leste (SBT)
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+#EXTINF:-1 tvg-id="tv-educadora-batatais" tvg-name="Tv Educadora Batatais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/169f1167544b925fd0adc8562f7afd54.webp" group-title="📰 Noticias",Tv Educadora Batatais
+https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-erenews" tvg-name="TV EreNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e187c45177e852534ded7b600bb80e6.webp" group-title="📰 Noticias",TV EreNews
+https://stmv1.samcast.com.br/erenews/erenews/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-colatina" tvg-name="Tv Foz - Colatina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ebfb16cd0f18343dbf4badce1dfe88d7.webp" group-title="📰 Noticias",Tv Foz - Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-linhares" tvg-name="TV Foz - Linhares" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7d92224eb03fa9475273f8de1c3bd9d3.webp" group-title="📰 Noticias",TV Foz - Linhares
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-sao-mateus" tvg-name="Tv Foz – São Mateus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d03ee32e58f49ea86105f75bf6d6bc1.webp" group-title="📰 Noticias",Tv Foz – São Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-cachoeiro" tvg-name="Tv Foz – Cachoeiro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9722f717373e0e1dd6219ef961e342b8.webp" group-title="📰 Noticias",Tv Foz – Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-foz-vitoria" tvg-name="Tv Foz – Vitória" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/283e182314bda37ed4f245b408baf129.webp" group-title="📰 Noticias",Tv Foz – Vitória
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-galega" tvg-name="TV Galega" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f646a47b2fdb3e3bbc441492cde15544.webp" group-title="📰 Noticias",TV Galega
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-guarapari" tvg-name="TV Guarapari" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcdfe6096700dc4d75fe7dfc88239863.webp" group-title="📰 Noticias",TV Guarapari
+https://video.welltecnologia.com.br/tvguarapari/tvguarapari/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-guara-record-news" tvg-name="TV Guará (Record News Maranhão)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc0dd9fa73b84728af28a25a7e8f60e2.webp" group-title="📰 Noticias",TV Guará (Record News Maranhão)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-inforbahia" tvg-name="Tv InforBahia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7d41953dd878461cb61f2ca52abc759.webp" group-title="📰 Noticias",Tv InforBahia
+https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-jornal-meio-norte" tvg-name="TV Jornal Meio Norte" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b59ce9b0bfbf8998c00ecfcd551a726f.webp" group-title="📰 Noticias",TV Jornal Meio Norte
+https://streaming.jornalmn.com.br/live/tvjornalmn.m3u8
+#EXTINF:-1 tvg-id="tv-jovem-pan-tv-jp" tvg-name="TV Jovem Pan News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69673434b607b4db5fb14633654a0ced.webp" group-title="📰 Noticias",TV Jovem Pan News
+https://amg01391-amg01391c3-tcl-spain-5038.playouts.now.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="tv-liberdade-bage-web" tvg-name="Tv Liberdade Bagé" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e7e3094dd1541f2232362f5e344b1a6.webp" group-title="📰 Noticias",Tv Liberdade Bagé
+https://video01.brascast.com/eberson6273/eberson6273/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-luzilandia" tvg-name="Tv Luzilândia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1b07d5e7f7527ec213b97d55987a14a.webp" group-title="📰 Noticias",Tv Luzilândia
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-master" tvg-name="TV Master" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fdd0948bea9bc81f816826f72c6617b3.webp" group-title="📰 Noticias",TV Master
+https://a.cdni.live/tvmaster/tvmaster/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mega-brasil" tvg-name="Tv Mega Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9377ffea26ec8397e8502cf6569ec24e.webp" group-title="📰 Noticias",Tv Mega Brasil
+https://video01.brascast.com/sergio7305/sergio7305/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-metro-rede-metropolitana" tvg-name="Tv Metro (Rede Metropolitana)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49655e7e2ed98c26adc7833b62d16ffb.webp" group-title="🎬 Cine y Series",Tv Metro (Rede Metropolitana)
+https://srv1.zcast.com.br/metropolitanatv/metropolitanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-monaco" tvg-name="TV Monaco" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6f5f0f8b9a2323d3d6f39ed4f3bf3649.webp" group-title="📰 Noticias",TV Monaco
+https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+#EXTINF:-1 tvg-id="tv-otimista" tvg-name="Tv Otimista" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e0a4eca82d32a2d828245fa0b881df6.webp" group-title="📰 Noticias",Tv Otimista
+https://5a7bcfb834237.directradios.net/otimista/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-pampa" tvg-name="TV Pampa (Rede TV RS)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/65d9059a562708573579342225f53e0b.webp" group-title="📰 Noticias",TV Pampa (Rede TV RS)
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-produto" tvg-name="TV Produto" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b07c40a574892ebb034ca299a677051.webp" group-title="📰 Noticias",TV Produto
+https://video05.logicahost.com.br/tvprodutobrasil/tvprodutobrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-sol-comunidade" tvg-name="Tv Sol Comunidade" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7513d543c8cf7945825a92d76a858f26.webp" group-title="📰 Noticias",Tv Sol Comunidade
+https://tv02.zas.media:1936/tvsol/tvsol/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-telesur" tvg-name="TV Telesur" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="📰 Noticias",TV Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-tropical-record-rn" tvg-name="TV Tropical (Rede Record RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85b498edcd66663ea7dfb0c1f9fc697e.webp" group-title="📰 Noticias",TV Tropical (Rede Record RN)
+https://video07.logicahost.com.br/portaltropicalrn/portaltropicalrn/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-uniao-rede-uniao" tvg-name="TV União (Rede União)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21aa37be724bbbc92cd3247c78a89abe.webp" group-title="📰 Noticias",TV União (Rede União)
+https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-vitoriosa-sbt" tvg-name="Tv Vitoriosa (SBT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4721920b74ad144e2f0175e36e0888a7.webp" group-title="📰 Noticias",Tv Vitoriosa (SBT)
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv2-nord-salto" tvg-name="TV2 Nord Salto" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f93afab217bd212b22e1f97197503c40.webp" group-title="📰 Noticias",TV2 Nord Salto
+https://cdn.jwplayer.com/live/broadcast/cJacVMvi.m3u8
+#EXTINF:-1 tvg-id="tv3-cat" tvg-name="TV3 CAT en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f437f94e9d6d2e655e4544fecc10e7a.webp" group-title="📰 Noticias",TV3 CAT en directo
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="tv5-monde" tvg-name="TV5 Monde" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33b38bcb77700c0aefd046e4d6b6aeaa.webp" group-title="📰 Noticias",TV5 Monde
+https://702e2e484b144c71ba38bca0d41f37cd.msvdn.net/bpk-tv/TV5/default/index.m3u8
+#EXTINF:-1 tvg-id="tvc-ecuador" tvg-name="TVC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="🎬 Cine y Series",TVC
+https://ddycmnicl95kp.cloudfront.net/live/br1r5varhysm/master.m3u8
+#EXTINF:-1 tvg-id="tvc-brasil-de-noticias" tvg-name="TVC Brasil de Notícias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c0a5f035492c7d59612baa0c2c509c3.webp" group-title="📰 Noticias",TVC Brasil de Notícias
+https://stmv1.srvif.com/tvcbrasil/tvcbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvc-para" tvg-name="TVC Pará" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9ab44544bd6523b400763ff37f0b3caf.webp" group-title="📰 Noticias",TVC Pará
+https://srt01.logicahost.com.br/tvcbelem/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="tv-litoral-panorama" tvg-name="TVC Panorama (Cultura SC)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2fdef159ca515cdbb49a11c84b94ebcf.webp" group-title="📰 Noticias",TVC Panorama (Cultura SC)
+https://tv02.zas.media:1936/panorama/panorama/playlist.m3u8
+#EXTINF:-1 tvg-id="tvci" tvg-name="TVCI" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b68ceee26212c27dca7a885602969d9c.webp" group-title="📰 Noticias",TVCI
+https://cpbr.appflux.com.br:2000/hls/tvcilive/tvcilive.m3u8
+#EXTINF:-1 tvg-id="tve-24h" tvg-name="TVE - 24h en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/701b2da0ad30234ee2844bc96021390c.webp" group-title="📰 Noticias",TVE - 24h en directo
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="tve-internacional-tvei" tvg-name="TVE Internacional (TVEI) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fdccf49eb2e2bc90fa506b7b560226f5.webp" group-title="📰 Noticias",TVE Internacional (TVEI) en directo
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+#EXTINF:-1 tvg-id="tvge" tvg-name="TVGE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b47febb643cdcd9820685d7c7a401bc.webp" group-title="📰 Noticias",TVGE
+https://rpn.bozztv.com/ses/tvge/tvge.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvi-internacional" tvg-name="TVI Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f466d2251a132949342fb891dbe2e641.webp" group-title="🎬 Cine y Series",TVI Internacional
+https://video-auth7.iol.pt/live_tvi_internacional/live_tvi_internacional/edge_servers/tviinternacional-720p/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTYvMjAyNiAyOjIxOjIzIFBNJmhhc2hfdmFsdWU9RzNJLzBGY25qMXpOOGlDNlQ3SjgwZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkwZTIxM2VmLTM4ODctNDUzYi05MzEzLTNlMDM2ZjRhZWFhNQ==
+#EXTINF:-1 tvg-id="tvideonews" tvg-name="TVídeoNews" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/58399bd0987147a2d4380e3a8cdbee1c.webp" group-title="📰 Noticias",TVídeoNews
+https://video01.logicahost.com.br/tvideonews/tvideonews/chunklist_w1992804748.m3u8
+#EXTINF:-1 tvg-id="tvv-tv-votorantim" tvg-name="TVV - TV Votorantim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb19ebdc1f27f11728c1d8b14c6cf6c7.webp" group-title="⚽ Deportes",TVV - TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
+#EXTINF:-1 tvg-id="ua-tv" tvg-name="UA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db2fda724977a398e0101ad21a669701.webp" group-title="📰 Noticias",UA TV
+https://public.cdn-03.cosmonova.net.ua/mobile-app/main/FreeDom/FreeDom__vlow.m3u8
+#EXTINF:-1 tvg-id="une-tv-hn" tvg-name="Une TV HN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f7a011032d35bbe2a51f265fe83f8578.webp" group-title="📰 Noticias",Une TV HN
+https://amixtv.com:8081/unetvhn/index.m3u8
+#EXTINF:-1 tvg-id="value-24-tv" tvg-name="Value 24 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9fe28d1552ad010d571976d7b6a675b5.webp" group-title="📰 Noticias",Value 24 TV
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 tvg-id="usa-today" tvg-name="USA TODAY" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d072ab69811b40399caf806cade1a2e4.webp" group-title="📰 Noticias",USA TODAY
+https://usatodaynews-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="vb-media-tv" tvg-name="VB Media TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ef2cd419b3dff29cba04c1249bce0c9.webp" group-title="📰 Noticias",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="very-local-kansas-city-kmbc" tvg-name="Very Local Kansas City KMBC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d32c036279954f3ca8dd3dc52709683.webp" group-title="📰 Noticias",Very Local Kansas City KMBC
+https://content.uplynk.com/channel/47d92d1bd8e44e2383563530c2a305fd.m3u8
+#EXTINF:-1 tvg-id="venevision" tvg-name="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title="🎬 Cine y Series",Venevision
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
+#EXTINF:-1 tvg-id="very-maine-wmtw-8" tvg-name="Very Maine (WMTW 8)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c821c6f41e4de800a26800aaf6346f57.webp" group-title="📰 Noticias",Very Maine (WMTW 8)
+https://content.uplynk.com/channel/49ca8e65999642478f0d7dcecc0e6753.m3u8
+#EXTINF:-1 tvg-id="vietnam-today" tvg-name="Vietnam Today" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dbdb87f6aa4e2616c08aecb9a868cb89.webp" group-title="📰 Noticias",Vietnam Today
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 tvg-id="vtv-4" tvg-name="VTV 4" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2b8a59ba3ebe1262443e006a54e273cd.webp" group-title="📰 Noticias",VTV 4
+https://cdn-live.vtv.vn/Q9HIFdGfKI9fI9jIQsbeIQ/1784031663/live/vtv4/master.m3u8
+#EXTINF:-1 tvg-id="wbal-tv-11-baltimore" tvg-name="WBAL-TV 11 Baltimore" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f4a0c91657a07471f663f0ffd5d26dc5.webp" group-title="📰 Noticias",WBAL-TV 11 Baltimore
+https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
+#EXTINF:-1 tvg-id="wdsu-news" tvg-name="WDSU News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63d961475dc837f60284186afcde5cb6.webp" group-title="📰 Noticias",WDSU News
+https://content.uplynk.com/channel/0fc51bf36df74dfab253054ba75dec47.m3u8
+#EXTINF:-1 tvg-id="web-tv-paracatu" tvg-name="Web Tv Paracatu" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef49e79209a973af1bd1715fdfc3bf3b.webp" group-title="📰 Noticias",Web Tv Paracatu
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="wesh-2-news" tvg-name="WESH 2 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/10c3dca4943123dca3804e9bf3ae5673.webp" group-title="📰 Noticias",WESH 2 News
+https://content.uplynk.com/channel/21cc54a6fc484e6ba580befaadf83502.m3u8?gamstreamid=0d7f6910-3534-4030-802b-8e13db8691df:SCL2&ad=wesh_vmp_gam&boundary.adx=replace_as_ad
+#EXTINF:-1 tvg-id="wfaa-channel-8-breaking-news" tvg-name="WFAA Channel 8 - Breaking News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d003794db84f3e8adb49ded9f942e063.webp" group-title="📰 Noticias",WFAA Channel 8 - Breaking News
+https://livevideo.tegnadigital.com/wfaa/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WFAA/elvs/live.m3u8
+#EXTINF:-1 tvg-id="wisn-12-news" tvg-name="WISN 12 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/664dd5c4ca06e3f643a9c8f9e73ca1b0.webp" group-title="📰 Noticias",WISN 12 News
+https://aegis-cloudfront-1.tubi.video/ec903a48-3638-4d0b-ac89-813e147bca58/playlist.m3u8
+#EXTINF:-1 tvg-id="wlwt" tvg-name="WLWT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6c45d90b2b7c388b0db3def1aee45bc0.webp" group-title="📰 Noticias",WLWT
+https://content.uplynk.com/channel/45318d439e3249a59ff5feb3adf5d2b3.m3u8
+#EXTINF:-1 tvg-id="wgba-nbc-26-green-bay" tvg-name="WGBA NBC 26" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d70050a6595d69903eb8e5ff2409db3.webp" group-title="📰 Noticias",WGBA NBC 26
+https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+#EXTINF:-1 tvg-id="wion" tvg-name="WION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44439da3713da60b5fb09346cd4e11a0.webp" group-title="📰 Noticias",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="cbs-news-baltimore" tvg-name="WJZ-TV | CBS Baltimore" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b354d8c30731c840248a734ce9bd1119.webp" group-title="📰 Noticias",WJZ-TV | CBS Baltimore
+https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.m3u8
+#EXTINF:-1 tvg-id="wlky-news-louisville" tvg-name="WLKY News Louisville" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e8d73bb2e74c71abf7871344e8e9ea17.webp" group-title="📰 Noticias",WLKY News Louisville
+https://content.uplynk.com/channel/734906da3a774bcebb261b7b541d28a8.m3u8
+#EXTINF:-1 tvg-id="wmur-news-9" tvg-name="WMUR News 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5c5f589f85c581e959be20d73df16a16.webp" group-title="📰 Noticias",WMUR News 9
+https://content.uplynk.com/channel/fd814b0c38034c7397fc1b930037937e.m3u8
+#EXTINF:-1 tvg-id="wtae-tv-pittsburgh" tvg-name="WTAE-TV Pittsburgh" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f50798c8077afc0aaad8b62ff948a81.webp" group-title="📰 Noticias",WTAE-TV Pittsburgh
+https://content.uplynk.com/channel/738511700c9145ca8e4c8147f15aedb9.m3u8
+#EXTINF:-1 tvg-id="wpolsce24" tvg-name="wPolsce24" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/364fe8e307ed4652bee5e59672cbebc8.webp" group-title="📰 Noticias",wPolsce24
+https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8
+#EXTINF:-1 tvg-id="wkyc-cleveland" tvg-name="WKYC Channel 3 - Cleveland" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bbd18677af0fa85db93e0fc5f68ebf90.webp" group-title="📰 Noticias",WKYC Channel 3 - Cleveland
+https://livevideo.tegnadigital.com/wkyc/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/WKYC/elvs/live.m3u8
+#EXTINF:-1 tvg-id="wrtv-abc-6-indianapolis" tvg-name="WRTV - ABC 6 Indianapolis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99232d09bf60ebe5faf71fb19d01f3b4.webp" group-title="📰 Noticias",WRTV - ABC 6 Indianapolis
+https://content.uplynk.com/channel/63cfc472081e49b184a02cb7da5895e6.m3u8
+#EXTINF:-1 tvg-id="wjcl-news-savannah" tvg-name="WJCL News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b30544bb45e4c61855015c00cd188a4.webp" group-title="📰 Noticias",WJCL News
+https://content.uplynk.com/channel/ddfd74f57fc54540a17e35471c56ce0a.m3u8
+#EXTINF:-1 tvg-id="wptv-newschannel-5" tvg-name="WPTV NewsChannel 5" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/76dc82e2aabcde87efe2023876b0ace6.webp" group-title="📰 Noticias",WPTV NewsChannel 5
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 tvg-id="wpbf-25-news" tvg-name="WPBF 25 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/603b8edbcbf27b66aaf88f8608380a4f.webp" group-title="📰 Noticias",WPBF 25 News
+https://content.uplynk.com/channel/c0e57ea974a4476f99d76c3130c8ab62.m3u8
+#EXTINF:-1 tvg-id="wmar-2-news-abc-baltimore" tvg-name="WMAR-2 News Baltimore" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35cce3b109746e9c170e905cba6fbf5a.webp" group-title="📰 Noticias",WMAR-2 News Baltimore
+https://content.uplynk.com/channel/cf4dfec179064664ae326fa10ff4a43f.m3u8
+#EXTINF:-1 tvg-id="wyff-news-4" tvg-name="WYFF News 4" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3366341c82e40708cbc969d648a08c6.webp" group-title="📰 Noticias",WYFF News 4
+https://content.uplynk.com/channel/0dac81a68546427ba0895612b7f828fb.m3u8
+#EXTINF:-1 tvg-id="wtxl-tallahassee-abc-27" tvg-name="WTXL Tallahassee - ABC 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b207adcc91b110838370fac4eb6890f8.webp" group-title="📰 Noticias",WTXL Tallahassee - ABC 27
+https://content.uplynk.com/channel/c66d1d2d9e2c46cea1cf22a33f6ca488.m3u8
+#EXTINF:-1 tvg-id="wtkr-news-3" tvg-name="WTKR News 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c3439e5aa6200ed5ebc5e46996608e5c.webp" group-title="📰 Noticias",WTKR News 3
+https://content.uplynk.com/channel/6fa0a800fced48afa1746a3be559dd0e.m3u8
+#EXTINF:-1 tvg-id="yahoo-finance" tvg-name="Yahoo! Finance" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd0c4177d60ff11ab106da782310b933.webp" group-title="📰 Noticias",Yahoo! Finance
+https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dda03267507597e91bb61e316f34f44a.webp" group-title="📰 Noticias",Zee News
+https://dknttpxmr0dwf.cloudfront.net/index_3.m3u8

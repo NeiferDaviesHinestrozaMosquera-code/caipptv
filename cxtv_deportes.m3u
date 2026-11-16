@@ -1,0 +1,230 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+# CXTv IPTV Playlist: Canales de Deportes y Fútbol
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="accdn" tvg-name="ACCDN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3abf938e35ab3f86b10656fc9fb0a7c5.webp" group-title="⚽ Deportes",ACCDN
+https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="acelerados" tvg-name="Acelerados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b1e4a1432456ddb189674469166fcf7.webp" group-title="⚽ Deportes",Acelerados
+https://ogc-acel-lg-channels-br.otteravision.com/ogc/acel/acel_1080p.m3u8
+#EXTINF:-1 tvg-id="aci-sport-tv" tvg-name="ACI Sport TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5025c5b73b0687f4c371481f87cdecc1.webp" group-title="⚽ Deportes",ACI Sport TV
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 tvg-id="adventure-sports-tv" tvg-name="Adventure Sports TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3087e3b0132bf827a9f7dc5dc6836419.webp" group-title="⚽ Deportes",Adventure Sports TV
+https://doglo1w7hkjkt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-AdventureSportsTV/438.m3u8
+#EXTINF:-1 tvg-id="africa-24-sport" tvg-name="Africa 24 Sport" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cca4c9698713a0dac472cb4e98f9133d.webp" group-title="⚽ Deportes",Africa 24 Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-id="american-ninja-warrior" tvg-name="American Ninja Warrior" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/044f8e57b446300623d849a2998a7ea5.webp" group-title="⚽ Deportes",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barça TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73cde5990fa4d395e807a2780b68b333.webp" group-title="⚽ Deportes",Barça TV en directo
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="azteca-deportes" tvg-name="Azteca Deportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="⚽ Deportes",Azteca Deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="bfm-sport" tvg-name="BFM - RMC Sport" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b39b9c27395780b039827c075b96c0c.webp" group-title="⚽ Deportes",BFM - RMC Sport
+https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+#EXTINF:-1 tvg-id="bike-mag" tvg-name="Bike Mag" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b35c9daf0e3471de96baeea530f30b2.webp" group-title="⚽ Deportes",Bike Mag
+https://amg13231-actve-amg13231c1-plex-us-1818.playouts.now.amagi.tv/playlist/amg13231-actvefast-bike-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="box-gamers" tvg-name="Box Gamers" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1247f877b029d332e7b9d9231fb14ace.webp" group-title="⚽ Deportes",Box Gamers
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JMKV30GS3UVOVY5SEZIG/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="campuslore-sports" tvg-name="CampusLore Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6596fb325a24280042aaf7a6f530177c.webp" group-title="⚽ Deportes",CampusLore Sports
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="canal-de-deportes-crtv-chile" tvg-name="Canal De Deportes CRTV Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd1a297f1f16bf6cb34cf077ae7cd041.webp" group-title="⚽ Deportes",Canal De Deportes CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-goat" tvg-name="Canal GOAT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efbce3d839ed87682745ad0899bc2066.webp" group-title="⚽ Deportes",Canal GOAT
+https://cng-cngt.otteravision.com/cng/cngt/cngt_720.m3u8
+#EXTINF:-1 tvg-id="canal-motor" tvg-name="Canal Motor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3ee9eef4eb12ec1b3e26049e79a43606.webp" group-title="⚽ Deportes",Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
+#EXTINF:-1 tvg-id="canale-88-madeinbo-tv" tvg-name="Canale 88 MadeinBO TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b9781fef9e51df936a48a389ec5acb04.webp" group-title="⚽ Deportes",Canale 88 MadeinBO TV
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv-combat" tvg-name="Canela TV Combat" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6a08fc904415ea3583acccc14367d59f.webp" group-title="⚽ Deportes",Canela TV Combat
+https://amg00658-amg00658c114-canelatv-international-8990.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="canela-sports" tvg-name="Canela Deportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3a49e44efce01bea59de8af9e253695f.webp" group-title="⚽ Deportes",Canela Deportes
+https://amg00658-amg00658c10-canelatv-international-7279.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-deporteslt-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv-2" tvg-name="Canela TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a92c2108c2636d87761afe4902bfe3d4.webp" group-title="⚽ Deportes",Canela TV 2
+https://amg00658-amg00658c12-canelatv-international-7977.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="caze-tv-br" tvg-name="CazéTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed777683fdb619972ae85298a4925b40.webp" group-title="⚽ Deportes",CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cbs-6-richmond" tvg-name="CBS 6 Richmond" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3e33add0d944174e48277d521cc40bf.webp" group-title="⚽ Deportes",CBS 6 Richmond
+https://content.uplynk.com/channel/be4953638946493fa5dc6bea87209ce2.m3u8
+#EXTINF:-1 tvg-id="cnar-desportes" tvg-name="CnAr Desportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4070323f58f43a6c7aaa5ca9d323ff6.webp" group-title="⚽ Deportes",CnAr Desportes
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-id="combatv-usa" tvg-name="CombaTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e3bf7ef1f38f0a0e9e7be887f7704786.webp" group-title="⚽ Deportes",CombaTV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+#EXTINF:-1 tvg-id="cricket-gold" tvg-name="Cricket Gold" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f71ca401042148e44a5773c5c163d0e7.webp" group-title="⚽ Deportes",Cricket Gold
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-id="court-sports-network" tvg-name="Court Sports Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cef1239a5041cc4c9b62d6da33fdaf08.webp" group-title="⚽ Deportes",Court Sports Network
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/court-sports-network/playlist.m3u8
+#EXTINF:-1 tvg-id="deportes13-tv" tvg-name="Deportes13 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3a1a70a84b2355e19847dee9e5d76f4.webp" group-title="⚽ Deportes",Deportes13 TV
+https://dai.google.com/linear/hls/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-id="distro-sports-tv-plus" tvg-name="Distro - Sports TV Plus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46f8b08328adccd1113f91aa810bafb3.webp" group-title="⚽ Deportes",Distro - Sports TV Plus
+https://distrib.noisypeak.com/d/EVSGA73OIF1ZELQFCJVS/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="drive-channel-tv" tvg-name="Drive Channel Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42cb09180fe07eee094bcdf4b3f76feb.webp" group-title="⚽ Deportes",Drive Channel Tv
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+#EXTINF:-1 tvg-id="fc-web-tv" tvg-name="FC WEB TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/07d2be26c60e197e24be8e161e3135ec.webp" group-title="⚽ Deportes",FC WEB TV
+https://5c483b9d1019c.streamlock.net/fcwebtv/fcwebtv/playlist.m3u8
+#EXTINF:-1 tvg-id="floracing" tvg-name="FloRacing" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/470522728ccd2d7751ea84e198eac299.webp" group-title="⚽ Deportes",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/240p-cc/index.m3u8
+#EXTINF:-1 tvg-id="ftf-sports" tvg-name="FTF Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1347a02ad8e90a6357aa9dab11fca73b.webp" group-title="⚽ Deportes",FTF Sports
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4562
+#EXTINF:-1 tvg-id="fuel-tv-brasil" tvg-name="FUEL TV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fe1baa41af31c250cbd15b75dc047abd.webp" group-title="⚽ Deportes",FUEL TV Brasil
+https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+#EXTINF:-1 tvg-id="garage-tv" tvg-name="Garage TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp" group-title="⚽ Deportes",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="fuel-tv" tvg-name="FUEL TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5e296e863f62cc0ccf44cae4f8267de.webp" group-title="⚽ Deportes",FUEL TV
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="hard-knocks-mma" tvg-name="Hard Knocks MMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b764ecf1bc68fca89731c54627992bf.webp" group-title="⚽ Deportes",Hard Knocks MMA
+https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
+#EXTINF:-1 tvg-id="horizons-sports" tvg-name="Horizons Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8332ac0c0d36e759c25a26642df0ea3.webp" group-title="⚽ Deportes",Horizons Sports
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/horizon-sports/master.m3u8?ads.vf=yqVv-4q1FVG
+#EXTINF:-1 tvg-id="india-live-cricket" tvg-name="Índia Live Cricket" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dac2cc8029250f1c0afeb2f767d5f191.webp" group-title="⚽ Deportes",Índia Live Cricket
+https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-id="insight-tv" tvg-name="Insight TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d9dcee2d9ffe2bb0edb98138d53fbf27.webp" group-title="⚽ Deportes",Insight TV
+https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="italian-fishing-tv" tvg-name="Italian Fishing TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/65425bb583b35bcc208ca9ca4ea870ec.webp" group-title="⚽ Deportes",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="kozoom-tv" tvg-name="Kozoom TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3fd8cdd0e711224f3c31c9f97faa0860.webp" group-title="⚽ Deportes",Kozoom TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
+#EXTINF:-1 tvg-id="life-fit" tvg-name="Life Fit" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/089e5326455ff15a05ad36a4c3bcff6e.webp" group-title="🇨🇴 Colombia - Deportes",Life Fit
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+#EXTINF:-1 tvg-id="livre-tv" tvg-name="Livre TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a80e62c4aee6444ca7551dc6ebc79ad2.webp" group-title="⚽ Deportes",Livre TV
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
+#EXTINF:-1 tvg-id="lucha-plus" tvg-name="Lucha Plus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aab84e3a60f3c340d20f688f4d796069.webp" group-title="⚽ Deportes",Lucha Plus
+https://amg17334-amg17334c1-plex-us-6729.playouts.now.amagi.tv/playlist/amg17334-luchalibrefast-luchalibre-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="mavtv-motorsports-network" tvg-name="MAVTV Motorsports Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e9260a9bce49d32d42b0f8bd39a5fa0c.webp" group-title="⚽ Deportes",MAVTV Motorsports Network
+https://amg00378-mavtv-amg00378c3-plex-us-1322.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetworkint-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="more-than-sports-tv" tvg-name="More Than Sports TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6d25b9137216ae36e58c5248e55fd7da.webp" group-title="⚽ Deportes",More Than Sports TV
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1 tvg-id="mlb-network" tvg-name="MLB Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/473dc750652d9ae1930de51f914033d7.webp" group-title="⚽ Deportes",MLB Network
+https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
+#EXTINF:-1 tvg-id="motorvision-en-espanol" tvg-name="Motorvision en Espanõl" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f7bb56e5d95002d9b93903ac95d707bb.webp" group-title="⚽ Deportes",Motorvision en Espanõl
+https://mvg-mv-es.otteravision.com/mvg/mv_es/mv_es_1080p.m3u8
+#EXTINF:-1 tvg-id="moto-america-tv" tvg-name="Moto America TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4df635dcebedf581701f0ebf72e46c8a.webp" group-title="⚽ Deportes",Moto America TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/motoamerica-tv/MOTOAMERICA_SCTE.m3u8
+#EXTINF:-1 tvg-id="motor-racing-tv" tvg-name="Motor Racing TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcfa04b326ae2d1b6a2c7f86b6452abf.webp" group-title="⚽ Deportes",Motor Racing TV
+https://horizonsports.b-cdn.net/motorracing-global/playlist.m3u8
+#EXTINF:-1 tvg-id="motorsport-tv" tvg-name="Motorsport.tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/936fb798b2fbc8d38b9af12b37cd25e8.webp" group-title="⚽ Deportes",Motorsport.tv
+https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="motorvision-tv" tvg-name="Motorvision TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f2a67a0c02ab0841afbdd8e7623aeae5.webp" group-title="⚽ Deportes",Motorvision TV
+https://mvg-mv.otteravision.com/mvg/mv/mv_1080p.m3u8
+#EXTINF:-1 tvg-id="motogp-channel" tvg-name="MotoGP Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b6de9e06fc81ae2164c6eb0fe5b5a61c.webp" group-title="⚽ Deportes",MotoGP Channel
+https://amg12058-c15studio-amg12058c13-lg-us-9277.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="mtrspt1" tvg-name="MTRSPT1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/32d3e5276a20e66e81a4cb59242f37df.webp" group-title="⚽ Deportes",MTRSPT1
+https://amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="n-sports" tvg-name="N Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bbe6817af0af2e0e5a6df96f245b752.webp" group-title="⚽ Deportes",N Sports
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+#EXTINF:-1 tvg-id="nascar-channel" tvg-name="NASCAR Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de4fba8103e3122c5964ebad24e041b0.webp" group-title="⚽ Deportes",NASCAR Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+#EXTINF:-1 tvg-id="nbc-sports" tvg-name="NBC Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6cc41b88a015a34ab239fc5e2220ffdf.webp" group-title="⚽ Deportes",NBC Sports
+https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="nfl-now" tvg-name="NFL Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a62ba73eb914005441df13b8ad6714d.webp" group-title="⚽ Deportes",NFL Channel
+https://wurllg.global.transmit.live/hls/689629d4e139235851c80caf/v1/lg_nflchannel_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="outside-tv" tvg-name="Outside TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2ae7bccaba8572d6661adba06b18728.webp" group-title="⚽ Deportes",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pac-12-insider" tvg-name="Pac-12 Insider" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d5980794d2d2ab96046246ea6c9e45b.webp" group-title="⚽ Deportes",Pac-12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="pokergo" tvg-name="PokerGo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e4b2fe855e634b86a5ccaff71791bec.webp" group-title="⚽ Deportes",PokerGo
+https://aegis-cloudfront-1.tubi.video/b474c2bb-b34d-4c53-a94b-c4ffe884563c/playlist.m3u8
+#EXTINF:-1 tvg-id="power-nation-en-espanol" tvg-name="Power Nation en Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/734601b4653cbac2d1316da6a4086e11.webp" group-title="⚽ Deportes",Power Nation en Español
+https://amg01258-amg01258c3-canelatv-international-5546.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernationspanish-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="pro-football-focus" tvg-name="Pro Football Focus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c207a654cce1b490e36d3b7e5de64148.webp" group-title="⚽ Deportes",Pro Football Focus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pro-football-focus/master.m3u8
+#EXTINF:-1 tvg-id="powder" tvg-name="Powder" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bea578c50e7bb442dcd5928913f5b714.webp" group-title="⚽ Deportes",Powder
+https://amg13231-actve-amg13231c5-plex-us-1822.playouts.now.amagi.tv/playlist/amg13231-actvefast-powder-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="pxsports" tvg-name="PXSports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/721ca05ec38f501d426babe2df567c85.webp" group-title="⚽ Deportes",PXSports
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BJPPHF6MXPJ7FMCSGDG5/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="racer-international" tvg-name="Racer International" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/81c460c88b191e490e2fb884eead17aa.webp" group-title="⚽ Deportes",Racer International
+https://amg00378-mavtv-amg00378c3-plex-us-1322.playouts.now.amagi.tv/mavtv-smn-xm/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="racer-brasil" tvg-name="Racer Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4a3de0566d21144720dd6ff508fab108.webp" group-title="⚽ Deportes",Racer Brasil
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist1080.m3u8
+#EXTINF:-1 tvg-id="radio-esportes-brasilia" tvg-name="Radio Esportes Brasília" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed25aae6cd1cd562aff84aaaa01d6784.webp" group-title="⚽ Deportes",Radio Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:-1 tvg-id="rai-2-en-vivo" tvg-name="RAI 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e96b1878207abb06c872c65612604d0a.webp" group-title="⚽ Deportes",RAI 2
+https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8
+#EXTINF:-1 tvg-id="real-madrid" tvg-name="Real Madrid TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="⚽ Deportes",Real Madrid TV en directo
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="red-bull-tv" tvg-name="Red Bull TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0ff78240cc23f1868ce2a008a92c58d.webp" group-title="⚽ Deportes",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="red-bull-tv-motorsport" tvg-name="Red Bull TV Motorsport" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9f178833cf55503f86cb0ab5f77842e.webp" group-title="⚽ Deportes",Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+#EXTINF:-1 tvg-id="redetv-mais" tvg-name="Redetv Mais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d86e44f7e8a8d736dd477176a05faf.webp" group-title="⚽ Deportes",Redetv Mais
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:-1 tvg-id="rete8-sport" tvg-name="Rete8 Sport" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25eb09c08cee19aadf5537a9b6287815.webp" group-title="⚽ Deportes",Rete8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-id="rs-news-sports-4" tvg-name="RS News Sports 4" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7d9c740c6bc88f2f8159247311b72a9b.webp" group-title="⚽ Deportes",RS News Sports 4
+https://video03.logicahost.com.br/rssports4/rssports4/playlist.m3u8
+#EXTINF:-1 tvg-id="rs-news-sports-5" tvg-name="RS News Sports 5" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp" group-title="⚽ Deportes",RS News Sports 5
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+#EXTINF:-1 tvg-id="rs-news-web-tv" tvg-name="RS SPORTS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3536ac27ecdb70d527dc190433607e94.webp" group-title="⚽ Deportes",RS SPORTS
+https://video03.logicahost.com.br/rssports5/rssports5/playlist.m3u8
+#EXTINF:-1 tvg-id="rs-play-tv" tvg-name="RS Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/263d4b567e7cffc11f7f5cdfc2be374c.webp" group-title="⚽ Deportes",RS Play TV
+https://tv03.zas.media:1936/rsplay/rsplay/playlist.m3u8
+#EXTINF:-1 tvg-id="rtv38" tvg-name="RTV38" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44597caa139f8fc9b8d6fab46c40a686.webp" group-title="⚽ Deportes",RTV38
+https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="sft-combat" tvg-name="SFT Combat" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e52e4eb2683190b28d72dd3f8aeb35d1.webp" group-title="⚽ Deportes",SFT Combat
+https://hrm-sftc.otteravision.com/hrm/sftc/sftc_720p_high.m3u8
+#EXTINF:-1 tvg-id="slopes-tv" tvg-name="Slopes TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/26335c988a2b9522127fba7e41e68e49.webp" group-title="⚽ Deportes",Slopes TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1968
+#EXTINF:-1 tvg-id="ski-tv" tvg-name="SKI TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc62c560ef80eb00bc7a8c98379a1209.webp" group-title="⚽ Deportes",SKI TV
+https://adilo.bigcommand.com/3ee84d4e-73c5-4def-b78d-e46869ba2dbb.m3u8
+#EXTINF:-1 tvg-id="snowboarder" tvg-name="Snowboarder" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/821515cdee6dbc48d6de1256e6fadbdd.webp" group-title="⚽ Deportes",Snowboarder
+https://amg13231-actve-amg13231c3-plex-us-1820.playouts.now.amagi.tv/playlist/amg13231-actvefast-snowboarder-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="sportitalia" tvg-name="Sportitalia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd7981a6390f436dacbbb3c32bb72d5d.webp" group-title="⚽ Deportes",Sportitalia
+https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="speedvision" tvg-name="SPEEDVISION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d496b64efdf4a285dccd1b181984dcbb.webp" group-title="⚽ Deportes",SPEEDVISION
+https://eb9a3a62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/T05PX1NwZWVkdmlzaW9uX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-id="sportitalia-solocalcio" tvg-name="Sportitalia Solocalcio" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64239da64e8cba933b1f48e9070a314c.webp" group-title="⚽ Deportes",Sportitalia Solocalcio
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="sports-grid" tvg-name="Sports Grid" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0c2835b085930adea9d2bc6c28adb820.webp" group-title="⚽ Deportes",Sports Grid
+https://plexaaaaa-sportsgrid-plex-1xnmu.amagi.tv/playlist/plexAAAAA-sportsgrid-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="surf-roots-tv-2" tvg-name="Surf Roots TV 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b44286ff6e9c13374285f2f696077645.webp" group-title="⚽ Deportes",Surf Roots TV 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/surf-roots-tv/master.m3u8
+#EXTINF:-1 tvg-id="surfer" tvg-name="Surfer" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23c89836985d9313794d8a1d495a4685.webp" group-title="⚽ Deportes",Surfer
+https://amg13231-actve-amg13231c4-plex-us-1821.playouts.now.amagi.tv/playlist/amg13231-actvefast-surfer-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="surf-roots-tv" tvg-name="Surf Roots TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/485be6c59513610eda89c1f112bc3630.webp" group-title="⚽ Deportes",Surf Roots TV
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1314/master1400000.m3u8;session=live_stream_1314
+#EXTINF:-1 tvg-id="teletrack" tvg-name="Teletrack" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp" group-title="⚽ Deportes",Teletrack
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+#EXTINF:-1 tvg-id="tennis-tv" tvg-name="Tennis TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/829754629ab517a89117db405e1bbe01.webp" group-title="⚽ Deportes",Tennis TV
+https://amg01470-amg01470c1-samsung-br-4768.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="tennis-channel" tvg-name="Tennis Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69a1ecf34aea8b498ae8d32121768682.webp" group-title="⚽ Deportes",Tennis Channel
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf15acd5c9ebe40d8482881f72a3f10e.webp" group-title="⚽ Deportes",Tennis+
+https://amg01935-amg01935c1-amgplt0020.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0020/playlist.m3u8
+#EXTINF:-1 tvg-id="tjk-tv" tvg-name="TJK TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e6d12ceffbfbf4e0e72ae17787b92cb.webp" group-title="⚽ Deportes",TJK TV
+https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
+#EXTINF:-1 tvg-id="top-sports-tv" tvg-name="Top TV Sports" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1a76682b2b836e8a777895f1160e5f3.webp" group-title="⚽ Deportes",Top TV Sports
+https://video05.logicahost.com.br/tvsports/tvsports/playlist.m3u8
+#EXTINF:-1 tvg-id="tr-sport" tvg-name="TR Sport" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e0b190f95ef144ba2a1bac6aa145d3c.webp" group-title="⚽ Deportes",TR Sport
+https://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="trace-sport-stars" tvg-name="Trace Sport Stars" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/79a006c725e9acfef6f097f790ecc0b2.webp" group-title="⚽ Deportes",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="transworld-skateboarding" tvg-name="Transworld Skateboarding" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb795c1551776b30129c9eb0c1cc2c9b.webp" group-title="⚽ Deportes",Transworld Skateboarding
+https://amg13231-actve-amg13231c2-plex-us-1819.playouts.now.amagi.tv/playlist/amg13231-actvefast-skateboarding-plexus/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-amplitude-juina" tvg-name="TV Amplitude Juína (Record MT)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f50fbc433dd7abb5be15b099ac762bb0.webp" group-title="⚽ Deportes",TV Amplitude Juína (Record MT)
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cidade-10" tvg-name="TV Cidade 10" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fa6e2cbbbdf0ce18e985a14919dce4c7.webp" group-title="⚽ Deportes",TV Cidade 10
+https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-com" tvg-name="TV Com" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dedf08c33c1af878ef6a34ccb138eb9c.webp" group-title="⚽ Deportes",TV Com
+https://tvcom-live.freecaster.com/live/tvcom/tvcom.m3u8
+#EXTINF:-1 tvg-id="tv-diario-do-sertao" tvg-name="TV Diário Do Sertão" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/060dffc84216523aea0a7f765ec52285.webp" group-title="⚽ Deportes",TV Diário Do Sertão
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-dubai-racing" tvg-name="TV Dubai Racing" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/749972439b688b417a9afdac09317cd6.webp" group-title="⚽ Deportes",TV Dubai Racing
+https://cloudfront41.lexanetwork.com:1344/xrelay/loverseny2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-show-de-bola" tvg-name="TV Show de Bola" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/948916b3cd4e9c10e59cf2e76fb4d1a9.webp" group-title="⚽ Deportes",TV Show de Bola
+https://stmv1.srvsite.com/showdebola/showdebola/playlist.m3u8
+#EXTINF:-1 tvg-id="tvv-tv-votorantim" tvg-name="TVV - TV Votorantim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb19ebdc1f27f11728c1d8b14c6cf6c7.webp" group-title="⚽ Deportes",TVV - TV Votorantim
+https://br5093.streamingdevideo.com.br/tvv/tvv/playlist.m3u8
+#EXTINF:-1 tvg-id="ufc" tvg-name="UFC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cdaae9d13a4961f1c6603a4a6b0bbbd2.webp" group-title="⚽ Deportes",UFC
+https://linear-894.frequency.stream/mt/plex-br/894/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="unique-sports-1" tvg-name="Unique Sports 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47c3f8ec470d526c80efe89c8c095f8a.webp" group-title="⚽ Deportes",Unique Sports 1
+https://pop2.uniquetv.com.br/hls/uniquesports1.m3u8
+#EXTINF:-1 tvg-id="vice-tv" tvg-name="VICE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad6018c70f98c6b2192227f719e8ae9b.webp" group-title="⚽ Deportes",VICE TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="wired2fish-tv" tvg-name="Wired2Fish TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/55599ed909e0f8ce57325d16fc0f93f5.webp" group-title="⚽ Deportes",Wired2Fish TV
+https://linear-80.frequency.stream/mt/plextv/80/hls/master/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-id="womens-sports-network" tvg-name="Women's Sports Network" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dc333b18fd571fb39a69ea75c98f0deb.webp" group-title="⚽ Deportes",Women's Sports Network
+https://amg01416-faststudios-womensnetwork-plex-rzxxu.amagi.tv/playlist/amg01416-faststudios-womensnetwork-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="wsn-tv-do-carro" tvg-name="WSN TV do Carro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40991011bf6120ad724b97cba6b11097.webp" group-title="⚽ Deportes",WSN TV do Carro
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-name="World Poker Tour" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f3b270811bac641f93aef78399d2304.webp" group-title="⚽ Deportes",World Poker Tour
+https://amg00218-amg00218c2-canelatv-international-5827.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="xfc-tv" tvg-name="XFC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f252a142da339ed4842d9604f38334.webp" group-title="⚽ Deportes",XFC TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351

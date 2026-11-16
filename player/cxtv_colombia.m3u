@@ -2,39 +2,39 @@
 # CXTv IPTV Playlist: Canales de Colombia
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
-#EXTINF:-1 tvg-id="abn-avivamiento-television" tvg-name="ABN - Avivamiento Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b76700d635ef6272ba8cc8e9c7733f59.webp" group-title="Colombia - Evangélico",ABN - Avivamiento Televisión
+#EXTINF:-1 tvg-id="abn-avivamiento-television" tvg-name="ABN - Avivamiento Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b76700d635ef6272ba8cc8e9c7733f59.webp" group-title="🇨🇴 Colombia",ABN - Avivamiento Televisión
 https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="atv-colombia" tvg-name="ATV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95f76cd527a885a5860e573629ed72df.webp" group-title="Colombia - Variedades",ATV Colombia
+#EXTINF:-1 tvg-id="atv-colombia" tvg-name="ATV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95f76cd527a885a5860e573629ed72df.webp" group-title="🇨🇴 Colombia",ATV Colombia
 https://movil.ejeserver.com/live/atvcol.m3u8
-#EXTINF:-1 tvg-id="cali-tv" tvg-name="Cali TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a1f746e2230ab876d6243f510aedb75.webp" group-title="Colombia - Cultura",Cali TV
+#EXTINF:-1 tvg-id="cali-tv" tvg-name="Cali TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a1f746e2230ab876d6243f510aedb75.webp" group-title="🇨🇴 Colombia",Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1 tvg-id="canal-cnc-medellin" tvg-name="Canal CNC Medellin" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31c28bab206ce42f24d10e1640cb8b94.webp" group-title="Colombia - Variedades",Canal CNC Medellin
+#EXTINF:-1 tvg-id="canal-cnc-medellin" tvg-name="Canal CNC Medellin" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31c28bab206ce42f24d10e1640cb8b94.webp" group-title="🇨🇴 Colombia",Canal CNC Medellin
 http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
-#EXTINF:-1 tvg-id="caracol-mix" tvg-name="Caracol Mix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d7292ee7ab875b0cec39567312475f.webp" group-title="Colombia - Variedades",Caracol Mix
+#EXTINF:-1 tvg-id="caracol-mix" tvg-name="Caracol Mix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d7292ee7ab875b0cec39567312475f.webp" group-title="🇨🇴 Colombia",Caracol Mix
 https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-id="cmb-television" tvg-name="CMB Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b7d5803eda0a1cc55c3b38fe8a70b469.webp" group-title="Colombia - Evangélico",CMB Televisión
+#EXTINF:-1 tvg-id="cmb-television" tvg-name="CMB Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b7d5803eda0a1cc55c3b38fe8a70b469.webp" group-title="🇨🇴 Colombia",CMB Televisión
 https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
-#EXTINF:-1 tvg-id="conectados-con-dios" tvg-name="Conectados Con Dios" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/570cee8289e39a981bfec75c3b7860e7.webp" group-title="Colombia - Evangélico",Conectados Con Dios
+#EXTINF:-1 tvg-id="conectados-con-dios" tvg-name="Conectados Con Dios" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/570cee8289e39a981bfec75c3b7860e7.webp" group-title="🇨🇴 Colombia",Conectados Con Dios
 https://cdn.oktvus.com/ConectadoConDios/index.m3u8
-#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="Fiestas en Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="Colombia - Cine",Fiestas en Familia
+#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="Fiestas en Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="🇨🇴 Colombia",Fiestas en Familia
 https://amg00658-amg00658c86-canelatv-international-5891.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonalappta-canelatvinternational/playlist.m3u8
-#EXTINF:-1 tvg-id="free-tv-accion" tvg-name="Free TV Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="Colombia - Cine",Free TV Acción
+#EXTINF:-1 tvg-id="free-tv-accion" tvg-name="Free TV Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="🇨🇴 Colombia",Free TV Acción
 https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="free-tv-drama" tvg-name="Free TV Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="Colombia - Cine",Free TV Drama
+#EXTINF:-1 tvg-id="free-tv-drama" tvg-name="Free TV Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="🇨🇴 Colombia",Free TV Drama
 https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="life-fit" tvg-name="Life Fit" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/089e5326455ff15a05ad36a4c3bcff6e.webp" group-title="Colombia - Deportes",Life Fit
+#EXTINF:-1 tvg-id="life-fit" tvg-name="Life Fit" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/089e5326455ff15a05ad36a4c3bcff6e.webp" group-title="🇨🇴 Colombia - Deportes",Life Fit
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
-#EXTINF:-1 tvg-id="oasis-tv" tvg-name="Oasis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc2208377c43d0cc89e86bfc5ee0e10c.webp" group-title="Colombia - Variedades",Oasis Tv
+#EXTINF:-1 tvg-id="oasis-tv" tvg-name="Oasis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc2208377c43d0cc89e86bfc5ee0e10c.webp" group-title="🇨🇴 Colombia",Oasis Tv
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-#EXTINF:-1 tvg-id="telepacifico" tvg-name="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title="Colombia - Noticias",Telepacífico
+#EXTINF:-1 tvg-id="telepacifico" tvg-name="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title="🇨🇴 Colombia - Noticias",Telepacífico
 https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
-#EXTINF:-1 tvg-id="tu-universo-tv" tvg-name="Tu Universo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="Colombia - Evangélico",Tu Universo Tv
+#EXTINF:-1 tvg-id="tu-universo-tv" tvg-name="Tu Universo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="🇨🇴 Colombia",Tu Universo Tv
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
-#EXTINF:-1 tvg-id="tv-familia-colombia" tvg-name="TV Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c19e13a54f89cace2b5c01ee2252a2c7.webp" group-title="Colombia - Católico",TV Familia
+#EXTINF:-1 tvg-id="tv-familia-colombia" tvg-name="TV Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c19e13a54f89cace2b5c01ee2252a2c7.webp" group-title="🇨🇴 Colombia",TV Familia
 https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
-#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0047fde3d74ba982f13c50ac23779cbb.webp" group-title="Colombia - Variedades",TVN
+#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0047fde3d74ba982f13c50ac23779cbb.webp" group-title="🇨🇴 Colombia",TVN
 https://videostreaming.vsgtech.co:3470/stream/play.m3u8
-#EXTINF:-1 tvg-id="veo-television" tvg-name="Veo Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/88bc90960b9ec42ad23d87725a578d53.webp" group-title="Colombia - Variedades",Veo Televisión
+#EXTINF:-1 tvg-id="veo-television" tvg-name="Veo Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/88bc90960b9ec42ad23d87725a578d53.webp" group-title="🇨🇴 Colombia",Veo Televisión
 https://movil.ejeserver.com/live/veotv.m3u8
-#EXTINF:-1 tvg-id="zoom-tv" tvg-name="ZOOM TV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22482eef1cf795dcd9867576d7ee6057.webp" group-title="Colombia - Educación",ZOOM TV Colombia
+#EXTINF:-1 tvg-id="zoom-tv" tvg-name="ZOOM TV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22482eef1cf795dcd9867576d7ee6057.webp" group-title="🇨🇴 Colombia",ZOOM TV Colombia
 https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8

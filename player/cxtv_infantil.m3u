@@ -1,0 +1,154 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+# CXTv IPTV Playlist: Canales para Niños e Infantiles
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="3-abn-kids" tvg-name="3ABN KIDS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="👶 Niños e Infantil",3ABN KIDS
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="adn-tv-plus" tvg-name="ADN TV+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b9a0a8a9c8a542de814252464fd7b9c1.webp" group-title="👶 Niños e Infantil",ADN TV+
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-id="adventures-of-sonic-the-hedgehog" tvg-name="Adventures Of Sonic The Hedgehog en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ea357478b60f75f6f7d4dd3fb13f4f76.webp" group-title="👶 Niños e Infantil",Adventures Of Sonic The Hedgehog en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2258
+#EXTINF:-1 tvg-id="animation-plus" tvg-name="Animation+" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aff87b24e495201c68c5f822ef79a73d.webp" group-title="👶 Niños e Infantil",Animation+
+https://linear-918.frequency.stream/mt/plex/918/hls/master/playlist_1920x1080.m3u8
+#EXTINF:-1 tvg-id="anime-channel" tvg-name="Anime Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f20da9a5abfbf7420a5058a7852cab.webp" group-title="👶 Niños e Infantil",Anime Channel
+https://stmv2.painelvideocast.com.br/animetv/animetv/playlist.m3u8
+#EXTINF:-1 tvg-id="anime-tv" tvg-name="Anime Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e2460502f204b225c89d644e88153a8.webp" group-title="🎬 Cine y Series",Anime Tv
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="animestation" tvg-name="Animestation" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b12a63543eabe272b1603497844fc92f.webp" group-title="👶 Niños e Infantil",Animestation
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="anitv" tvg-name="AniTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3eabf05ad0127a53af71227f1fe132a1.webp" group-title="🎬 Cine y Series",AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="animax" tvg-name="Animax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e015a80a3d45e6087556b4e4556e08cb.webp" group-title="🎬 Cine y Series",Animax
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="aztv-anime-zone-tv" tvg-name="AZTV - Anime Zone TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96848219e9020d88c67ea7c0e778504.webp" group-title="👶 Niños e Infantil",AZTV - Anime Zone TV en directo
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="baby-shark-tv-us" tvg-name="Baby Shark TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80445724b0084751d2edc41bb8eb6a9f.webp" group-title="👶 Niños e Infantil",Baby Shark TV
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="bejoy-kids" tvg-name="BeJoy.kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac4d65a2054150fb11a08a09e7231fea.webp" group-title="👶 Niños e Infantil",BeJoy.kids
+https://stream.paroledivita.org/bejoy.m3u8
+#EXTINF:-1 tvg-id="boing-italia" tvg-name="Boing Italia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb6d719026b65cb6ace3dcd268a73c3e.webp" group-title="👶 Niños e Infantil",Boing Italia
+https://boing.akamaized.net/6380392800112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDM5MjgwMDExMiJ9.0RWQ0yZrauU0cHSnbpBYhgyRPeq1Lyw6nOn_fo7_cg0/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="bons-tempos" tvg-name="Bons Tempos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0bf29296ede8db8b9c502fba9c05cb7f.webp" group-title="🎬 Cine y Series",Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="caillou" tvg-name="Caillou" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee074c52f9b7ab6dc5f296569b6a99cb.webp" group-title="👶 Niños e Infantil",Caillou
+https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-id="canal-2-tv-nova-juarez" tvg-name="Canal 2 - Tv Nova Juarez" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6040bb525a1603dc1ff55b66f733864e.webp" group-title="🎬 Cine y Series",Canal 2 - Tv Nova Juarez
+https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-29" tvg-name="Canal 29" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dcb3ff84b8f31ddc39ef213b42402f75.webp" group-title="🎬 Cine y Series",Canal 29
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-kids" tvg-name="Canela Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5422806b245e7d27eb68d97344a68113.webp" group-title="👶 Niños e Infantil",Canela Kids
+https://amg00658-amg00658c47-canelatv-international-7222.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelakids-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="captain-tsubasa" tvg-name="Captain Tsubasa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6113d01cf3e384297f014f27d3468dda.webp" group-title="👶 Niños e Infantil",Captain Tsubasa
+https://amg00658-amg00658c48-canelatv-international-7663.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-channela-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="cartoonito-italia" tvg-name="Cartoonito Italia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87ebcb0176a17c9fbc0309c49ea52f1a.webp" group-title="👶 Niños e Infantil",Cartoonito Italia
+https://boing.akamaized.net/6380673432112/eu-central-1/6284318116001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0Ijoib3dwbnN1LmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjI4NDMxODExNjAwMSIsImVobiI6ImJvaW5nLmFrYW1haXplZC5uZXQiLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjYyODQzMTgxMTYwMDEiXSwianRpIjoiNjM4MDY3MzQzMjExMiJ9.WACYETOZxZYmZHRpxwRrATxVZQBdSoeaWdfhtLKx1kI/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="cine-kids" tvg-name="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="🎬 Cine y Series",Cine Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-id="conectv" tvg-name="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2680bba47d330becfa671ec27bada627.webp" group-title="👶 Niños e Infantil",Conectv
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="desenhos-classicos-tv" tvg-name="Desenhos Clássicos TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b2343886b3d164425e642250d02dd8cd.webp" group-title="👶 Niños e Infantil",Desenhos Clássicos TV
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="do-fundo-do-bau" tvg-name="Do Fundo do Baú" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73ac2e181b431fc90218ad2caf994c27.webp" group-title="👶 Niños e Infantil",Do Fundo do Baú
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:-1 tvg-id="duck-tv" tvg-name="Duck TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85a3d13340aa5339f8eeec292f31e55f.webp" group-title="👶 Niños e Infantil",Duck TV
+https://mmm-dk.otteravision.com/DexaYJdJXkLqFxTK_DuckTVHDSAMS/DuckTVHDSAMS.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="geekdot-br" tvg-name="Geekdot" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/38c67fdfc57a8a0087e02316d408473b.webp" group-title="🎬 Cine y Series",Geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="gospel-cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f0a3c3c7b9a651e847d86dd71bbb5551.webp" group-title="👶 Niños e Infantil",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1 tvg-id="iunior-tv" tvg-name="Iunior TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f7076304daa774c7b88c82a2c7a20086.webp" group-title="👶 Niños e Infantil",Iunior TV
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="jetsons-tv" tvg-name="Jetsons Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="👶 Niños e Infantil",Jetsons Tv
+https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+#EXTINF:-1 tvg-id="kanade-chile" tvg-name="Kanade Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/720e714bf4a182426448196aa78ac5d5.webp" group-title="🎬 Cine y Series",Kanade Chile
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="kika" tvg-name="KiKA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8d37040cad3ba8721c9f5a809e16c6f.webp" group-title="👶 Niños e Infantil",KiKA
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="kidsflix" tvg-name="KidsFlix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d50b01612c44921473499134710b893.webp" group-title="👶 Niños e Infantil",KidsFlix
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50&live=1&app_bundle=com.plexapp.desktop
+#EXTINF:-1 tvg-id="kuriakos-kids" tvg-name="Kuriakos Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05ad1060b11abe78c4958ca305b2d168.webp" group-title="👶 Niños e Infantil",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="lucas-tv" tvg-name="Lucas Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/30b5156f5206356ea7e928eedcbc7667.webp" group-title="🎬 Cine y Series",Lucas Tv
+https://stmv1.srvif.com/lucastv/lucastv/playlist.m3u8
+#EXTINF:-1 tvg-id="ministerio-infantil-tv" tvg-name="Ministério Infantil TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4cd2b4135c03b25ffe91155d90de53f.webp" group-title="👶 Niños e Infantil",Ministério Infantil TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1 tvg-id="moonbug-kids" tvg-name="Moonbug Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd56722cd17383e1f7a6fb9115fdb9cc.webp" group-title="👶 Niños e Infantil",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="otaku-sign-tv" tvg-name="Otaku Sign Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/442d0e9d16595bd786733d685f375b56.webp" group-title="🎬 Cine y Series",Otaku Sign Tv
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 tvg-id="pakapaka" tvg-name="PAKAPAKA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd4cd5373a32986cf3fe89c1788d1a99.webp" group-title="👶 Niños e Infantil",PAKAPAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="planeta-de-aventuras" tvg-name="Planeta de Aventuras" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ebaf4e9bbdc1cfd28bc1138e879cff4.webp" group-title="👶 Niños e Infantil",Planeta de Aventuras
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4311
+#EXTINF:-1 tvg-id="pitufo-tv" tvg-name="Pitufo TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.webp" group-title="👶 Niños e Infantil",Pitufo TV en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
+#EXTINF:-1 tvg-id="play-tv" tvg-name="Play TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/168f0c2d7fb92988c1cb0f156fe390eb.webp" group-title="👶 Niños e Infantil",Play TV
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="pocket-watch" tvg-name="pocket.watch" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/03d95f7e76add66f162e02afb5101163.webp" group-title="👶 Niños e Infantil",pocket.watch
+https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-family" tvg-name="Rakuten TV Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c80b3e25f20e0c9fe671a5127308f62b.webp" group-title="🎬 Cine y Series",Rakuten TV Family
+https://family-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6213/master.m3u8
+#EXTINF:-1 tvg-id="rbtv" tvg-name="RBTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9a31008d8b875d89fe16b081fb0b513.webp" group-title="🎬 Cine y Series",RBTV
+https://redebrasileira.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="rctv-brasil" tvg-name="RCTV Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/25f5d36062e12c2993292614f7bc26da.webp" group-title="🎬 Cine y Series",RCTV Brasil
+https://cdn.mbcbrasil.tv.br/rctv_web/index.m3u8
+#EXTINF:-1 tvg-id="rede-clone" tvg-name="Rede Clouding TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1c3207336ef93a99e4678042297cd0a6.webp" group-title="🎬 Cine y Series",Rede Clouding TV
+https://video04.logicahost.com.br/cloudingtv/cloudingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="rede-manchete" tvg-name="Rede Manchete" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1042cb4422483a9a56a30524c47d3688.webp" group-title="🎬 Cine y Series",Rede Manchete
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-cartoon" tvg-name="Retro Cartoon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a1e4076264abe6b6ccde87a587966abe.webp" group-title="👶 Niños e Infantil",Retro Cartoon
+https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="retrocrush" tvg-name="RetroCrush" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/43eb3c8c2eb5172ddd45fbaa5d2e06cc.webp" group-title="🎬 Cine y Series",RetroCrush
+https://cineverse.g-mana.live/media/ac7cff3c-5bc3-4745-ac4d-56aadb586d00/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-id="ric-tv" tvg-name="RIC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/de73b34a7570bc26d3dee3b33fb7ce3b.webp" group-title="👶 Niños e Infantil",RIC TV
+https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
+#EXTINF:-1 tvg-id="ryan-and-friends" tvg-name="Ryan and Friends" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3742d7ef271e920d8e7b079a3fc0233a.webp" group-title="👶 Niños e Infantil",Ryan and Friends
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="sat-7-kids" tvg-name="Sat 7 Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ef2ce66895ae014afbeba3953894f3b5.webp" group-title="👶 Niños e Infantil",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="smurf-tv" tvg-name="Smurf TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1eabcdbe8d32ec4cf056df8f32d06890.webp" group-title="👶 Niños e Infantil",Smurf TV
+https://d144py1prrd7ns.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-affg2ev32s0dq/smrfe.m3u8
+#EXTINF:-1 tvg-id="spacetoon-arabic" tvg-name="Spacetoon Arabic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a425964feb986fdaf10f60b574f49e9.webp" group-title="👶 Niños e Infantil",Spacetoon Arabic
+https://live-uae-next.spacetoongo.com/ST_MENA_NEXT/hls/r9p2hjipmw2kl.m3u8
+#EXTINF:-1 tvg-id="super-italia" tvg-name="Super!" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7deff9c712c2dd07278ad7e73f1fa76f.webp" group-title="👶 Niños e Infantil",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tele-clasicos" tvg-name="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="🎬 Cine y Series",Teleclásica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1 tvg-id="telesur-costa-rica" tvg-name="Telesur Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/02bfbf9e7c34ae9439fcefbb1247c42a.webp" group-title="🎬 Cine y Series",Telesur Costa Rica
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="toon-goggles-english" tvg-name="Toon Goggles" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd86f72152db7fb7829d16228693bb58.webp" group-title="👶 Niños e Infantil",Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=37
+#EXTINF:-1 tvg-id="toon-goggles-em-portugues" tvg-name="Toon Goggles em português" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/472dd450bc628e36434b6c599e6cb664.webp" group-title="👶 Niños e Infantil",Toon Goggles em português
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1 tvg-id="toon-goggles-en-espanol" tvg-name="Toon Goggles en Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.webp" group-title="👶 Niños e Infantil",Toon Goggles en Español en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="trt-cocuk" tvg-name="TRT ÇOCUK" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e7448c28738a61667f512833d91730b.webp" group-title="👶 Niños e Infantil",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="tv-adorando-jesus" tvg-name="Tv Adorando Jesus" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd959e5a2f2797240d8a08171c7db83f.webp" group-title="🎬 Cine y Series",Tv Adorando Jesus
+https://stmv1.srvif.com/tvadorando/tvadorando/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-aracati-hd" tvg-name="Tv Aracati HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69cf38e0cd65c06291dc072f3f9270b1.webp" group-title="🎬 Cine y Series",Tv Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cultura" tvg-name="TV Cultura" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac86ed7edabf2d886a3b8430b4f13c91.webp" group-title="👶 Niños e Infantil",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="tv-futuro" tvg-name="Tv Futuro (Cultura RN)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca08395b7d600c7f467224100d43beda.webp" group-title="👶 Niños e Infantil",Tv Futuro (Cultura RN)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-jundiai-hoje" tvg-name="Tv Jundiaí Hoje" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ccd5d090f6ea0cba0074898bfbd531f8.webp" group-title="🎬 Cine y Series",Tv Jundiaí Hoje
+https://stmv2.samcast.com.br/rosanaa9913/rosanaa9913/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-kids-mais" tvg-name="Tv Kidmais" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/875c68d876502060f56b9303cf91a09e.webp" group-title="👶 Niños e Infantil",Tv Kidmais
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-loading" tvg-name="Tv Loading" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1d08352f33c92124373d9f3b0fcf2ef8.webp" group-title="🎬 Cine y Series",Tv Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-recordacoes-web-ce" tvg-name="Tv Recordações Web CE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d70379da61c7306ecd734045799ce0a0.webp" group-title="🎬 Cine y Series",Tv Recordações Web CE
+https://srv3.zcast.com.br/tvrecordacoes/tvrecordacoes/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-tokyo" tvg-name="TV Tokyo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d4bdb68a85b31fdb5ab58d73fe88d22.webp" group-title="👶 Niños e Infantil",TV Tokyo
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-cine" tvg-name="Web Tv Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d8ea456a45f1f4837ffb24db7646f8f.webp" group-title="🎬 Cine y Series",Web Tv Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="web-tv-xtreme" tvg-name="Web Tv Xtreme" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87464e2fb467b19b710aadb2da52725d.webp" group-title="🎬 Cine y Series",Web Tv Xtreme
+https://video11.logicahost.com.br/xtremetv/xtremetv/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cartoons" tvg-name="Xtrema TV - Cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/def4d6a960fc00da49db5898c4a41e48.webp" group-title="👶 Niños e Infantil",Xtrema TV - Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-retro-cartoons" tvg-name="Xtrema TV - Retro Cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="👶 Niños e Infantil",Xtrema TV - Retro Cartoons
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="zona-de-aventuras" tvg-name="Zona de Aventuras" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/64bd6a41bff4609f5ada6503e6ddc7a4.webp" group-title="👶 Niños e Infantil",Zona de Aventuras
+https://amg00658-amg00658c77-canelatv-international-5649.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-zonadeaccionta-canelatvinternational/playlist.m3u8

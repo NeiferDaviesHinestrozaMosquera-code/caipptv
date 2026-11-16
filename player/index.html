@@ -307,12 +307,23 @@
         <input type="text" id="search-input" placeholder="🔍 Buscar canal..." autocomplete="off">
       </div>
       <div class="filter-pills" id="country-pills">
-        <div class="pill active" data-filter="all">Todos</div>
-        <div class="pill" data-filter="Colombia">🇨🇴 Colombia</div>
-        <div class="pill" data-filter="México">🇲🇽 México</div>
-        <div class="pill" data-filter="Argentina">🇦🇷 Argentina</div>
-        <div class="pill" data-filter="España">🇪🇸 España</div>
-        <div class="pill" data-filter="Estados Unidos">🇺🇸 USA</div>
+        <div class="pill active" data-country="all">Todos</div>
+        <div class="pill" data-country="Colombia">🇨🇴 Colombia</div>
+        <div class="pill" data-country="México">🇲🇽 México</div>
+        <div class="pill" data-country="Argentina">🇦🇷 Argentina</div>
+        <div class="pill" data-country="España">🇪🇸 España</div>
+        <div class="pill" data-country="Estados Unidos">🇺🇸 USA</div>
+      </div>
+      <div class="filter-pills" id="category-pills" style="margin-top: 4px;">
+        <div class="pill active" data-cat="all">Todas las Categorías</div>
+        <div class="pill" data-cat="Deportes">⚽ Deportes</div>
+        <div class="pill" data-cat="Cine">🎬 Cine y Series</div>
+        <div class="pill" data-cat="Noticias">📰 Noticias</div>
+        <div class="pill" data-cat="Niños">👶 Niños</div>
+        <div class="pill" data-cat="Música">🎵 Música</div>
+        <div class="pill" data-cat="Variedades">📺 Variedades</div>
+        <div class="pill" data-cat="Documentales">📚 Cultura</div>
+        <div class="pill" data-cat="Religión">🙏 Religión</div>
       </div>
     </div>
 
@@ -351,7 +362,8 @@
 
   <script>
     let allChannels = [];
-    let currentFilter = 'all';
+    let currentCountry = 'all';
+    let currentCategory = 'all';
     let currentChannel = null;
     let hls = null;
 
@@ -391,8 +403,23 @@
       const query = searchInput.value.toLowerCase().trim();
       let filtered = allChannels;
 
-      if (currentFilter !== 'all') {
-        filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentFilter.toLowerCase()));
+      if (currentCountry !== 'all') {
+        filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentCountry.toLowerCase()));
+      }
+
+      if (currentCategory !== 'all') {
+        const catKey = currentCategory.toLowerCase();
+        filtered = filtered.filter(c => {
+          const cats = (c.categories || []).map(cat => cat.toLowerCase());
+          if (catKey === 'cine') return cats.some(cat => ['cine', 'serie', 'telenovelas'].includes(cat));
+          if (catKey === 'deportes') return cats.some(cat => ['deportes', 'deportes1', 'futbol', 'coches'].includes(cat));
+          if (catKey === 'niños') return cats.some(cat => ['niños', 'ninos'].includes(cat));
+          if (catKey === 'música') return cats.some(cat => ['música', 'musica'].includes(cat));
+          if (catKey === 'noticias') return cats.some(cat => ['noticias', 'clima'].includes(cat));
+          if (catKey === 'documentales') return cats.some(cat => ['documentales', 'educación', 'educacion', 'cultura'].includes(cat));
+          if (catKey === 'religión') return cats.some(cat => ['católico', 'catolico', 'evangélico', 'evangelico'].includes(cat));
+          return cats.some(cat => cat.includes(catKey));
+        });
       }
 
       if (query) {
@@ -520,11 +547,22 @@
     // Eventos
     searchInput.addEventListener('input', renderChannels);
 
-    document.querySelectorAll('.filter-pills .pill').forEach(pill => {
+    // Eventos Filtro País
+    document.querySelectorAll('#country-pills .pill').forEach(pill => {
       pill.addEventListener('click', () => {
-        document.querySelectorAll('.filter-pills .pill').forEach(p => p.classList.remove('active'));
+        document.querySelectorAll('#country-pills .pill').forEach(p => p.classList.remove('active'));
         pill.classList.add('active');
-        currentFilter = pill.dataset.filter;
+        currentCountry = pill.dataset.country;
+        renderChannels();
+      });
+    });
+
+    // Eventos Filtro Categoría
+    document.querySelectorAll('#category-pills .pill').forEach(pill => {
+      pill.addEventListener('click', () => {
+        document.querySelectorAll('#category-pills .pill').forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        currentCategory = pill.dataset.cat;
         renderChannels();
       });
     });
