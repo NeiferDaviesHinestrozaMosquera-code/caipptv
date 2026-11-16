@@ -164,6 +164,10 @@ def main():
     with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
         json.dump(all_channels, f, ensure_ascii=False, indent=2)
 
+    if os.path.exists("player"):
+        with open(os.path.join("player", OUTPUT_JSON), 'w', encoding='utf-8') as pf:
+            json.dump(all_channels, pf, ensure_ascii=False, indent=2)
+
     print(f"\nDone! Scraped {len(all_channels)} total channels. Direct HLS: {direct_hls_count}")
 
 if __name__ == "__main__":

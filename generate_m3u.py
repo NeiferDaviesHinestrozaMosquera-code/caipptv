@@ -66,12 +66,20 @@ def generate_playlists():
 
     # Write files
     def write_m3u(filename, channel_list, header_title="CXTv IPTV"):
+        content = f'#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"\n'
+        content += f'# CXTv IPTV Playlist: {header_title}\n'
+        content += f'# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles\n\n'
+        for c in channel_list:
+            content += build_m3u_entry(c)
+
         with open(filename, 'w', encoding='utf-8') as f:
-            f.write(f'#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"\n')
-            f.write(f'# CXTv IPTV Playlist: {header_title}\n')
-            f.write(f'# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles\n\n')
-            for c in channel_list:
-                f.write(build_m3u_entry(c))
+            f.write(content)
+
+        player_dir = "player"
+        if os.path.exists(player_dir):
+            with open(os.path.join(player_dir, filename), 'w', encoding='utf-8') as pf:
+                pf.write(content)
+
         print(f"-> Generated {filename} with {len(channel_list)} channels.")
 
     write_m3u("cxtv_todos.m3u", hls_channels, "Todos los canales directos HLS")

@@ -366,7 +366,10 @@
     // Cargar canales desde JSON local o backend
     async function loadChannels() {
       try {
-        const res = await fetch('../cxtv_channels.json');
+        let res = await fetch('cxtv_channels.json').catch(() => null);
+        if (!res || !res.ok) {
+          res = await fetch('../cxtv_channels.json');
+        }
         allChannels = await res.json();
         // Filtrar aquellos que tienen stream
         allChannels = allChannels.filter(c => c.stream_url);

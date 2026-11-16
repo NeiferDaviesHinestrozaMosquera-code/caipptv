@@ -1,0 +1,678 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+# CXTv IPTV Playlist: Canales en Español y Latinoamérica
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="15-tv" tvg-name="15 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e277fbff1d036a1c11aa18f8befee081.webp" group-title="México - Noticias",15 TV
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-id="13-tv" tvg-name="13 TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f5d4a433a6402346d4390128d7a518.webp" group-title="España - Cine",13 TV en directo
+https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/021/playlist.m3u8
+#EXTINF:-1 tvg-id="7tv-murcia" tvg-name="7TV Murcia en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/609f19e2c409d7af4b3f0a6b0cffb954.webp" group-title="España - Variedades",7TV Murcia en directo
+https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="88-stereo-fm" tvg-name="88 Stereo FM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e2f6900e2c890797a4a553ccdaac0024.webp" group-title="Costa Rica - Música",88 Stereo FM
+https://s1.tvdatta.com:3972/live/88stereolive.m3u8
+#EXTINF:-1 tvg-id="activa-tv-honduras" tvg-name="Activa TV Honduras" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/930e0aab5bfe6973ebac33c7ce8b6a6f.webp" group-title="Honduras - Variedades",Activa TV Honduras
+https://videoserver.tmcreativos.com:19360/mbcrtzxnxd/mbcrtzxnxd.m3u8
+#EXTINF:-1 tvg-id="abn-avivamiento-television" tvg-name="ABN - Avivamiento Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b76700d635ef6272ba8cc8e9c7733f59.webp" group-title="Colombia - Evangélico",ABN - Avivamiento Televisión
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="adventures-of-sonic-the-hedgehog" tvg-name="Adventures Of Sonic The Hedgehog en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ea357478b60f75f6f7d4dd3fb13f4f76.webp" group-title="España - Niños",Adventures Of Sonic The Hedgehog en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2258
+#EXTINF:-1 tvg-id="agape-tv" tvg-name="Agape Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48a2d87a583a8c502fbc9b836950ae3d.webp" group-title="El Salvador - Católico",Agape Tv
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="aguacate-tv" tvg-name="Aguacate TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3adc32d279453516da12939f41b015db.webp" group-title="Venezuela - Variedades",Aguacate TV
+https://stream.aguacatetv.com:3949/live/aguacatetvlive.m3u8
+#EXTINF:-1 tvg-id="aire-de-santa-fe" tvg-name="Aire de Santa Fe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f76a9d670388c1f69a21d4e6c0030913.webp" group-title="Argentina - Noticias",Aire de Santa Fe
+https://mdstrm.com/live-stream-playlist/6931a0eb06778645348008e0.m3u8
+#EXTINF:-1 tvg-id="alcance-tv" tvg-name="Alcance Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4367baff4a72af18ea16264bcca83e3c.webp" group-title="México - Evangélico",Alcance Tv
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-id="altar-tv" tvg-name="Altar Tv en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f42967ae19a4320d3585a6f6b9687c6e.webp" group-title="España - Música",Altar Tv en directo
+https://vidartv2.todostreaming.es/live/radiovida-altar724.m3u8
+#EXTINF:-1 tvg-id="anzoategui-tv" tvg-name="Anzoategui TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/489c9dd27452f764247bd240787723fc.webp" group-title="Venezuela - Noticias",Anzoategui TV
+https://vcp2.myplaytv.com/anzoateguitv/anzoateguitv/playlist.m3u8
+#EXTINF:-1 tvg-id="aragon-tv" tvg-name="Aragon Tv en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b56cfc18f75dda576862923a7519557.webp" group-title="España - Variedades",Aragon Tv en directo
+https://eu-a1-p-e-0b0e07cfe400b5ag3.cdn.mdstrm.com/live-stream-mp/d1hajab2w2oajq/504a744747b04321bc8042af57c2f7db/699341967864450d4f062ba9/index.m3u8
+#EXTINF:-1 tvg-id="atv-colombia" tvg-name="ATV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/95f76cd527a885a5860e573629ed72df.webp" group-title="Colombia - Variedades",ATV Colombia
+https://movil.ejeserver.com/live/atvcol.m3u8
+#EXTINF:-1 tvg-id="avivamiento-cce-tv" tvg-name="Avivamiento Mundial" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/23b94258ba98a26b602a2b261b046bd3.webp" group-title="República Dominicana - Evangélico",Avivamiento Mundial
+https://5bf8041cb3fed.streamlock.net/AvivamientoMundialTV/AvivamientoMundialTV/chunklist_w2018472318.m3u8
+#EXTINF:-1 tvg-id="atv-andina" tvg-name="ATV Andina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d28b2e810e8ca64d62096249189b6e9.webp" group-title="Perú - Noticias",ATV Andina
+https://ddycmnicl95kp.cloudfront.net/live/1wk5g7itgjof/master.m3u8
+#EXTINF:-1 tvg-id="aztv-anime-zone-tv" tvg-name="AZTV - Anime Zone TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c96848219e9020d88c67ea7c0e778504.webp" group-title="España - Niños",AZTV - Anime Zone TV en directo
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 tvg-id="barca-tv" tvg-name="Barça TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73cde5990fa4d395e807a2780b68b333.webp" group-title="España - Deportes",Barça TV en directo
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="azteca-deportes" tvg-name="Azteca Deportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ecbfa8a3f25cc1212dbcd975383b55a.webp" group-title="México - Deportes",Azteca Deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-id="beteve" tvg-name="Betevé en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/75aa0a57396904011aa7724cb5d6c5e8.webp" group-title="España - Variedades",Betevé en directo
+https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_vfibi2fe/format/applehttp/protocol/https/uiConfId/42816492/a.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0&playSessionId=8ff4d447-e1f7-eaf8-8d7e-31d55e58eff2
+#EXTINF:-1 tvg-id="boca-chica-tv3" tvg-name="Boca Chica TV 3" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/39a85dcf0d82cff970383b37dcdc73aa.webp" group-title="República Dominicana - Variedades",Boca Chica TV 3
+https://fox.hostlagarto.com:8081/bocachicatv/index.m3u8
+#EXTINF:-1 tvg-id="box-playlist" tvg-name="Box Playlist" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/79161d88661c0c2386c2366ddd2f8e13.webp" group-title="República Dominicana - Música",Box Playlist
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/BKFNLVLBL20NVRK6FYE0/hls3/now,-1m/playlist.m3u8
+#EXTINF:-1 tvg-id="bonao-tv" tvg-name="BONAO TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45006bfe063f1c21849c9b4960fe552b.webp" group-title="República Dominicana - Variedades",BONAO TV
+https://tele-stream.telecasa.net/live/st2/bonaotv-hd/index.m3u8
+#EXTINF:-1 tvg-id="bon-dia-tv" tvg-name="Bon Dia TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6abe8a796181e9791478f7f6b0b25259.webp" group-title="España - Cultura",Bon Dia TV en directo
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="c4-en-alerta" tvg-name="C4 En Alerta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d882d64619d956bcda038b9406ea7503.webp" group-title="México - Noticias",C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 tvg-id="c9ntv" tvg-name="C9NTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd180fa67fbbc27b255f8ce3afcc27e6.webp" group-title="México - Variedades",C9NTV
+https://cloudvideo.servers10.com:8081/8030/index.m3u8
+#EXTINF:-1 tvg-id="cadena-covers-clasicos" tvg-name="Cadena Covers Live" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11ac6717a72cf448fc022db8baef5427.webp" group-title="Bolivia - Música",Cadena Covers Live
+https://stmv4.voxtvhd.com.br/ccovers/ccovers/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-1-costa-rica" tvg-name="Canal 1" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/73554360254205350463a055324277bb.webp" group-title="Costa Rica - Noticias",Canal 1
+https://vid.canal1cr.com:3424/multi_live/play_1080.m3u8
+#EXTINF:-1 tvg-id="canal-10-mexico" tvg-name="Canal 10 México" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/54180956712b6af895812f6883e485a3.webp" group-title="México - Variedades",Canal 10 México
+https://5e50264bd6766.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-id="cali-tv" tvg-name="Cali TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5a1f746e2230ab876d6243f510aedb75.webp" group-title="Colombia - Cultura",Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-13-cultura" tvg-name="Canal 13 Cultura" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a64825f6e75f29a29c6965d52f626e52.webp" group-title="Chile - Cultura",Canal 13 Cultura
+https://dai.google.com/linear/hls/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+#EXTINF:-1 tvg-id="canal-21" tvg-name="Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/613222c4701ccaa72e659ede2602b270.webp" group-title="El Salvador - Noticias",Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/0/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="canal-24-horas-canarias" tvg-name="Canal 24 Horas Canarias en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9c9530289ad679184c40d4b8c8ec6dfc.webp" group-title="España - Noticias",Canal 24 Horas Canarias en directo
+https://ztnr.rtve.es/ztnr/5473142.m3u8
+#EXTINF:-1 tvg-id="canal-13-tele-series" tvg-name="Canal 13 Tele Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d229585ceb5e5f05774a74489ee51535.webp" group-title="Chile - Serie",Canal 13 Tele Series
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+#EXTINF:-1 tvg-id="canal-26" tvg-name="Canal 26" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8080c55292981f5d6afde5b756f59d51.webp" group-title="Argentina - Noticias",Canal 26
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="canal-24-horas-catalunya" tvg-name="Canal 24 Horas Catalunya en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb8ebd408c1192af421a7992b18fef7e.webp" group-title="España - Noticias",Canal 24 Horas Catalunya en directo
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main.m3u8
+#EXTINF:-1 tvg-id="canal-12-el-salvador" tvg-name="Canal 12 El Salvador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d6bc2a5cfa1a5e35236c5b228879b35f.webp" group-title="El Salvador - Noticias",Canal 12 El Salvador
+https://ddycmnicl95kp.cloudfront.net/live/rury2ckyqgw9/master.m3u8
+#EXTINF:-1 tvg-id="canal-26-aguascalientes" tvg-name="Canal 26 Aguascalientes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/08978ed6e75be6ff5e7ba42e5cb0b55f.webp" group-title="México - Variedades",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-27" tvg-name="Canal 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/19b1a2b9cf99084c8aa02329621840dd.webp" group-title="Guatemala - Evangélico",Canal 27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+#EXTINF:-1 tvg-id="canal-45" tvg-name="Canal 45 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86c62cda4ac3fb12bf379bbed11ebf6a.webp" group-title="España - Variedades",Canal 45 en directo
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="canal-324" tvg-name="Canal 324 (3/24) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c5e95e9beff32499ac3e84f1a876033.webp" group-title="España - Noticias",Canal 324 (3/24) en directo
+https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/bitrate_3.m3u8
+#EXTINF:-1 tvg-id="canal-5-tigre" tvg-name="Canal 5 Tigre" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b44404725a7d0bb2b994bd29547b82ec.webp" group-title="Argentina - Variedades",Canal 5 Tigre
+https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
+#EXTINF:-1 tvg-id="canal-5-telesol" tvg-name="Canal 5 Telesol" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91f3beefe0a90054fa5cb5db7a76d3d4.webp" group-title="Argentina - Noticias",Canal 5 Telesol
+https://cdn1.tvlin.net/open/telesol/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-cnc-medellin" tvg-name="Canal CNC Medellin" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/31c28bab206ce42f24d10e1640cb8b94.webp" group-title="Colombia - Variedades",Canal CNC Medellin
+http://cncmedellin.ddns.net:1935/canalcnc/canalcnc_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-c-del-zulia" tvg-name="Canal C Del Zulia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/913407037e0f53f91f6caf2e0fa348d1.webp" group-title="Venezuela - Variedades",Canal C Del Zulia
+https://calm-forest-3478.cristianbracho904.workers.dev/master.m3u8
+#EXTINF:-1 tvg-id="canal-7-jujuy" tvg-name="Canal 7 Jujuy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1f5dccec87c6619bba0c4e5a9d3fa6.webp" group-title="Argentina - Noticias",Canal 7 Jujuy
+https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-66" tvg-name="Canal 66" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9baf07428c3b38f0af29c4096cc2bb71.webp" group-title="México - Noticias",Canal 66
+https://5f1af61612fb5.streamlock.net/canal66/smil:canal66.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-blu" tvg-name="Canal Blu" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/350781ea46e63481460d4b9ced5e003c.webp" group-title="Argentina - Variedades",Canal Blu
+https://videostream.shockmedia.com.ar:19360/blumedios/blumedios.m3u8
+#EXTINF:-1 tvg-id="canal-de-noticias" tvg-name="Canal de Noticias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c4d7bbef858cc67dcb66ab52f0b0086e.webp" group-title="Argentina - Noticias",Canal de Noticias
+https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="canal-de-deportes-crtv-chile" tvg-name="Canal De Deportes CRTV Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dd1a297f1f16bf6cb34cf077ae7cd041.webp" group-title="Chile - Deportes",Canal De Deportes CRTV Chile
+https://stmv2.voxtvhd.com.br/crtvchile/crtvchile/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-extremadura" tvg-name="Canal Extremadura en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f88289e0677978cd48de37b5b32cb60.webp" group-title="España - Variedades",Canal Extremadura en directo
+https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/continuous/9be76611-d2cd-474d-bf19-ef702ba31b02/index.m3u8
+#EXTINF:-1 tvg-id="canal-diocesano" tvg-name="Canal Diocesano en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/341d40230e93ee03705583e80bceb8ea.webp" group-title="España - Católico",Canal Diocesano en directo
+https://nlb1-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/fragments/live-1000/index.m3u8
+#EXTINF:-1 tvg-id="canal-once" tvg-name="Canal Once" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d800ee1a28bbee6769de24c5c050c40c.webp" group-title="México - Público",Canal Once
+https://vivo.canaloncelive.tv/secureoncedos/oncedigital/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-mas" tvg-name="Canal Mas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/438e55201f5c93fccaa8dc0897434386.webp" group-title="Uruguay - Cine",Canal Mas
+https://tv.canalmasuruguay.com/hls/canalmas.m3u8
+#EXTINF:-1 tvg-id="canal-orbe-21" tvg-name="Canal Orbe 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/faca62843d0685d504f730e7410f53a5.webp" group-title="Argentina - Católico",Canal Orbe 21
+https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-parlamento" tvg-name="Canal Parlamento en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0d15642a23e748e7e39b7808d5fea77c.webp" group-title="España - Público",Canal Parlamento en directo
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/bitrate_1.m3u8
+#EXTINF:-1 tvg-id="canal-once-del-zulia" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c1a66d2a8875494eeca6a47a9f64a8d8.webp" group-title="Venezuela - Noticias",Canal Once Del Zulia
+https://tv.streamcasthd.com:3676/live/canal11delzulialive.m3u8
+#EXTINF:-1 tvg-id="canal-seis-el-salvador" tvg-name="Canal Seis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b37dbf75dfdf5f5c5b4cb3f06c4e5a9b.webp" group-title="El Salvador - Noticias",Canal Seis
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="caracol-mix" tvg-name="Caracol Mix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17d7292ee7ab875b0cec39567312475f.webp" group-title="Colombia - Variedades",Caracol Mix
+https://amg01433-amg01433c1-canelatv-international-8611.playouts.now.amagi.tv/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-id="canela-tv" tvg-name="Canela TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/86d786223e6cb417c86e17d4d7e61bc6.webp" group-title="México - Cine",Canela TV
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-music-hits" tvg-name="Canela Music Hits en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63d446607ef347bec9ee141d942bd9a7.webp" group-title="España - Música",Canela Music Hits en directo
+https://amg00658-amg00658c45-canelatv-international-7232.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelamusichits-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="canela-tv-novelas-legendarias" tvg-name="Canela Tv Novelas Legendarias" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3d0f9f44da201e5c7b904f4bc860f304.webp" group-title="Ecuador - Telenovelas",Canela Tv Novelas Legendarias
+https://amg00658-amg00658c49-canelatv-international-7982.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="carinosa-tv" tvg-name="Cariñosa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="Guatemala - Cine",Cariñosa TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+#EXTINF:-1 tvg-id="cci-channel" tvg-name="CCI CHANNEL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2c83300e43e1bf97a7857e17a89133a1.webp" group-title="Honduras - Evangélico",CCI CHANNEL
+https://livestream.mediacci.com/ccitv/index.m3u8
+#EXTINF:-1 tvg-id="cdm-internacional" tvg-name="CDM Internacional" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8c946ae92a720ec528070cc58dcaa5a7.webp" group-title="Puerto Rico - Evangélico",CDM Internacional
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 tvg-id="celestial-tv" tvg-name="Celestial TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ba9007531dcf585403c0d806bed538cf.webp" group-title="República Dominicana - Cine",Celestial TV
+https://kali1.everestcast.com:3371/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="celta-tv" tvg-name="Celta Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b4358822b3476096154398e16c8030d8.webp" group-title="Argentina - Variedades",Celta Tv
+https://vivo.solumedia.com:19360/celta/celta.m3u8
+#EXTINF:-1 tvg-id="cine-kids" tvg-name="Cine Kids" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eb23903cf0a778ea0a667ba01a9a8d05.webp" group-title="Ecuador - Cine",Cine Kids
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+#EXTINF:-1 tvg-id="cine-friki" tvg-name="Cine Friki en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="España - Cine",Cine Friki en directo
+https://zylo-cinefriki-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-cinefriki-rakuten/CDN/master.m3u8
+#EXTINF:-1 tvg-id="cine-feel-good-verdi-tv" tvg-name="Cine Feel Good Verdi TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5ade3c4ee69d36ea61f7cdfd1b4f1695.webp" group-title="España - Cine",Cine Feel Good Verdi TV en directo
+https://daiconnect.com/live/hls/tvup/tvfy-feelgood/b8ee129e0585ae0c1eb5b4187f8e4fa7/index.m3u8
+#EXTINF:-1 tvg-id="cine-romantico" tvg-name="Cine Romántico en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61bf055c59234dcf9591c1c8cb3657b4.webp" group-title="España - Cine",Cine Romántico en directo
+https://amg00658-amg00658c66-canelatv-international-5554.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-cineromanticoappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="cinema" tvg-name="Cinema" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6b5b7475d2d3ed8591864fe64d34e499.webp" group-title="México - Cine",Cinema
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5400
+#EXTINF:-1 tvg-id="cines-verdi-tv" tvg-name="Cines Verdi TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8d01f0cd8d7603c06cae1e95f73a669.webp" group-title="España - Cine",Cines Verdi TV en directo
+https://daiconnect.com/live/hls/tvup/futcineverdi/56f0832110a1bbaecc3a45a27ddba1d9/index.m3u8
+#EXTINF:-1 tvg-id="cine-ar" tvg-name="CINE.AR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1bb1c7e7f157b92df8d856ec607f5a7.webp" group-title="Argentina - Cine",CINE.AR
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
+#EXTINF:-1 tvg-id="clic" tvg-name="Clic" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e34f4cd1d9f10eee2b41c6eb0045b796.webp" group-title="Ecuador - Cine",Clic
+https://amg00658-amg00658c59-canelatv-international-5440.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-clictvaztecaappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="cmb-television" tvg-name="CMB Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b7d5803eda0a1cc55c3b38fe8a70b469.webp" group-title="Colombia - Evangélico",CMB Televisión
+https://cdn1.cmbcolombia.tv/bethesda/video.m3u8
+#EXTINF:-1 tvg-id="cnc-cajamarca" tvg-name="CNC Cajamarca" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7ff8062900bd1d76087bdd317a900d9d.webp" group-title="Perú - Variedades",CNC Cajamarca
+https://7.innovatestream.pe:19360/cnctv/cnctv.m3u8
+#EXTINF:-1 tvg-id="color-vision-canal-9" tvg-name="Color Vision Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ec05bd74826e90977bf051086434a04d.webp" group-title="República Dominicana - Noticias",Color Vision Canal 9
+https://cdn0.360playvid.com/CHVIDIDmutt54f7grpfvykjy3e/hls/index.m3u8
+#EXTINF:-1 tvg-id="codigo-tv" tvg-name="Codigo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/db915a4360bae6754dc699174c717e12.webp" group-title="República Dominicana - Variedades",Codigo Tv
+https://edge.essastream.com/codigotv/index.m3u8
+#EXTINF:-1 tvg-id="cnar-desportes" tvg-name="CnAr Desportes" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4070323f58f43a6c7aaa5ca9d323ff6.webp" group-title="Argentina - Deportes",CnAr Desportes
+https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8
+#EXTINF:-1 tvg-id="conectados-con-dios" tvg-name="Conectados Con Dios" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/570cee8289e39a981bfec75c3b7860e7.webp" group-title="Colombia - Evangélico",Conectados Con Dios
+https://cdn.oktvus.com/ConectadoConDios/index.m3u8
+#EXTINF:-1 tvg-id="corazon" tvg-name="Corazón" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/efd558116e424f19f92ce5633e256e6c.webp" group-title="México - Telenovelas",Corazón
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
+#EXTINF:-1 tvg-id="cotui-tv-canal-22" tvg-name="Cotui Tv Canal 22" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c56679d206dce1e48ddd4b767cd4ff9.webp" group-title="República Dominicana - Variedades",Cotui Tv Canal 22
+https://live20.bozztv.com/akamaissh101/ssh101/tvcotui/playlist.m3u8
+#EXTINF:-1 tvg-id="cosmos-tv" tvg-name="Cosmos Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f3e3ed0bf81dedf4ded72f1053268dc.webp" group-title="Argentina - Noticias",Cosmos Tv
+https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="dance-tv" tvg-name="Dance TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6e7c395ec27c9e9a275d4d1dd86a7536.webp" group-title="Argentina - Música",Dance TV
+https://stmv7.voxtvhd.com.br/dancetv/dancetv/playlist.m3u8
+#EXTINF:-1 tvg-id="deportes13-tv" tvg-name="Deportes13 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3a1a70a84b2355e19847dee9e5d76f4.webp" group-title="Chile - Deportes",Deportes13 TV
+https://dai.google.com/linear/hls/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8
+#EXTINF:-1 tvg-id="dios-te-ve" tvg-name="Dios Te Ve" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f7210712329868c632d38566a07c015d.webp" group-title="Honduras - Evangélico",Dios Te Ve
+https://s.emisoras.tv:8081/diostevetv/index.m3u8
+#EXTINF:-1 tvg-id="distrito-tv" tvg-name="Distrito TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c8a55262a4a49bd5a135035bc84a653c.webp" group-title="España - Cine",Distrito TV en directo
+https://nlb1-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="dotb-durangaldeko-telebista" tvg-name="dotb Durangaldeko Telebista en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/618a890bc6d63e91746ae4425ec8a73b.webp" group-title="España - Noticias",dotb Durangaldeko Telebista en directo
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="eco-tv-ar" tvg-name="Eco Tv de Tandil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8bac74d05e8793fd94cb5812dcb4c4de.webp" group-title="Argentina - Noticias",Eco Tv de Tandil
+https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ebenezer-tv" tvg-name="Ebenezer Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/367dce69c71ae47d73ab92638794369e.webp" group-title="Honduras - Evangélico",Ebenezer Tv
+https://5e85d90130e77.streamlock.net/6010/ngrp:6010_all/playlist.m3u8
+#EXTINF:-1 tvg-id="el-camino-tv" tvg-name="El Camino Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/529d918e9a55a4920a9ba738e9bb8606.webp" group-title="El Salvador - Evangélico",El Camino Tv
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="ecuador-tv" tvg-name="Ecuador Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e0c80f6d3c4256850b14f410e73711dc.webp" group-title="Ecuador - Noticias",Ecuador Tv
+https://video-eu1.streamerr.co/hls/s64029a8fdf/live.m3u8
+#EXTINF:-1 tvg-id="ecuavisa" tvg-name="Ecuavisa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29245c0a8f0259248c37d6d6ae1ec0c7.webp" group-title="Ecuador - Variedades",Ecuavisa
+https://dai.google.com/linear/hls/event/GyPkTVDZSXGhpOvxPK7m2g/master.m3u8
+#EXTINF:-1 tvg-id="elim-tv" tvg-name="Elim TV - Canal 27 Misión Cristiana Elim" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e9e9efbdb1837bd864dd5731bbd0f57e.webp" group-title="El Salvador - Evangélico",Elim TV - Canal 27 Misión Cristiana Elim
+https://stream.soporteccrtv.xyz/hls/master-dveo.m3u8
+#EXTINF:-1 tvg-id="el-toro-tv" tvg-name="El Toro TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/450cc795fa1f6ad450bfa0689c9f23e3.webp" group-title="España - Noticias",El Toro TV en directo
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+#EXTINF:-1 tvg-id="escuchame-radio-tv" tvg-name="Escuchame Radio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e49738a8073bf9b8d558abdeb0c17e76.webp" group-title="Nicaragua - Cine",Escuchame Radio Tv
+https://stmv1.transmissaodigital.com/pedro9800/pedro9800/playlist.m3u8
+#EXTINF:-1 tvg-id="etb-basque" tvg-name="ETB Basque en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c6b1bc17fcc7af36cf4c86087faa8765.webp" group-title="España - Noticias",ETB Basque en directo
+https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+#EXTINF:-1 tvg-id="euronews-en-espanol" tvg-name="Euronews En Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eae63ad4d1350713a595ac5bfccda027.webp" group-title="España - Noticias",Euronews En Español en directo
+https://9ca5d68b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UGxleF9FdXJvbmV3c1NwYW5pc2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-id="extrema-tv" tvg-name="Extrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" group-title="Costa Rica - Variedades",Extrema TV
+https://5bf8041cb3fed.streamlock.net/extrematv/extrematv/playlist.m3u8
+#EXTINF:-1 tvg-id="fifa-en-espanol" tvg-name="FIFA Plus en Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f23d808d5b3100d2feb3d5cb73c6b306.webp" group-title="España - Fútbol",FIFA Plus en Español en directo
+https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="faro-vision" tvg-name="Faro Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fcbc13062bd98383ec421386ea9b2ba1.webp" group-title="República Dominicana - Variedades",Faro Visión
+https://streamtv.intervenhosting.net:3754/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="fiestas-en-familia" tvg-name="Fiestas en Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed494f69316edb42f4205223d8922f2c.webp" group-title="Colombia - Cine",Fiestas en Familia
+https://amg00658-amg00658c86-canelatv-international-5891.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-seasonalappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="filmrise-peliculas-gratis" tvg-name="FilmRise Películas Gratis en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e793cb4dc38511f11aa456db33a7a866.webp" group-title="España - Cine",FilmRise Películas Gratis en directo
+https://d3rciv7av2te5a.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/master.m3u8?ads.xumo_channelId=88889309
+#EXTINF:-1 tvg-id="free-tv-accion" tvg-name="Free TV Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e3bb923a6e42d39bca3d8b1869e2eb3.webp" group-title="Colombia - Cine",Free TV Acción
+https://amg01024-olympusat-topcinelatam-ono-ad-99.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="franchs-tv" tvg-name="Franchs Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aba4c2c96aa61d01da41bcea5ed8072e.webp" group-title="Guatemala - Evangélico",Franchs Tv
+https://ms.iptvnet1.com/live/ftvweb/Zddm3gsEk2/2.m3u8
+#EXTINF:-1 tvg-id="free-tv-banda" tvg-name="Free TV Banda" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1fd0a7cc75dbdd8108bb37c58d94ce6a.webp" group-title="México - Música",Free TV Banda
+https://amg01024-olympusat-mmcfreetv-ono-ad-kj.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-drama" tvg-name="Free TV Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/508d57285ddb9547199cbede4ba72f19.webp" group-title="Colombia - Cine",Free TV Drama
+https://amg01024-olympusat-cinereallatam-ono-ad-z5.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-sureno" tvg-name="Free TV Sureño" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7e030786c319ae1f2f95da18b6cf634e.webp" group-title="México - Cine",Free TV Sureño
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="free-tv-familia" tvg-name="Free TV Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7b680a8c006f286330d002cbaf60aeaf.webp" group-title="México - Cine",Free TV Familia
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="fuente-de-agua-viva-tv" tvg-name="Fuente de Agua Viva Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cc4f6816ebdb9f23095c92721dd37a8f.webp" group-title="Panamá - Evangélico",Fuente de Agua Viva Tv
+https://mp.panelchs.com/hls/8044/8044.m3u8
+#EXTINF:-1 tvg-id="garage-tv" tvg-name="Garage TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad1ff26218bd5eae6959174fb296227b.webp" group-title="Argentina - Coches",Garage TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="fuego-tv" tvg-name="Fuego TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e305e10aa5db2b619987be7e4d298f9a.webp" group-title="República Dominicana - Música",Fuego TV
+https://streamunoapp.com:3553/live/cromtvlive.m3u8
+#EXTINF:-1 tvg-id="gex-tv-costa-rica" tvg-name="Gex TV - Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2192fd9fb246b825e8fb338e08228bd6.webp" group-title="Costa Rica - Música",Gex TV - Costa Rica
+https://lbgo.bozztv.com/ssh101/ssh101/gextvaccess/playlist.m3u8
+#EXTINF:-1 tvg-id="gracia-tv" tvg-name="Gracia Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb103ad07a6a03f96a377cfbeaa13002.webp" group-title="Chile - Evangélico",Gracia Tv
+https://v4.tustreaming.cl/graciatv/index.m3u8
+#EXTINF:-1 tvg-id="grjngo-espanol" tvg-name="Grjngo Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8733d77d3a29296b066646316f579c48.webp" group-title="España - Cine",Grjngo Español en directo
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="guaymate-tv" tvg-name="Guaymate Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c06eb0cf2c420d1709dbb62d1754381d.webp" group-title="República Dominicana - Cine",Guaymate Tv
+https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8
+#EXTINF:-1 tvg-id="hilando-fino-tv" tvg-name="Hilando Fino TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b7f082d10f05529b54cdcc733f052898.webp" group-title="República Dominicana - Variedades",Hilando Fino TV
+https://stream1.28tv.online/HilandoFinoTvcanal77/index.m3u8
+#EXTINF:-1 tvg-id="hch-tv" tvg-name="HCH TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1b1e779fc0552915b8024a47687ac16e.webp" group-title="Honduras - Noticias",HCH TV
+https://live.streamhch.com/live/streams/hch1.m3u8
+#EXTINF:-1 tvg-id="hechos-ecuador" tvg-name="Hechos Ecuador" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1a9dcc80fd1dd104f9bc3e57434086eb.webp" group-title="Ecuador - Noticias",Hechos Ecuador
+https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
+#EXTINF:-1 tvg-id="hosanna-vision" tvg-name="Hosanna Visión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9cd9050aaa379e69a7a066c1eea72042.webp" group-title="Panamá - Evangélico",Hosanna Visión
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
+#EXTINF:-1 tvg-id="hits-mexicanos" tvg-name="Hits Mexicanos" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/951029551eab1d4e6331addcb41c5ba0.webp" group-title="México - Música",Hits Mexicanos
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
+#EXTINF:-1 tvg-id="hispan-tv-en-vivo" tvg-name="Hispan TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c401897060d34194cab703c7ebfa15d.webp" group-title="España - Variedades",Hispan TV en directo
+https://live.presstv.co.uk/hls/hispantv.m3u8
+#EXTINF:-1 tvg-id="imagen-television" tvg-name="Imagen Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad26f1a3317c4e7101ad841a8442e6da.webp" group-title="México - Variedades",Imagen Televisión
+https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
+#EXTINF:-1 tvg-id="istmo-tv-panama" tvg-name="Istmo Tv Panamá" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce4b50d5c473359b7e887524d4f4c18b.webp" group-title="Panamá - Evangélico",Istmo Tv Panamá
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-id="jbn-tv" tvg-name="JBN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2d757302920bf10273df6534843fb00f.webp" group-title="Honduras - Evangélico",JBN TV
+https://tv.webmedialive.com/jbn_live/enlace/playlist.m3u8
+#EXTINF:-1 tvg-id="jehova-tv" tvg-name="Jehova Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a82c91d81f626cc0d417d5bd50250a7a.webp" group-title="Honduras - Evangélico",Jehova Tv
+https://mp.panelchs.com/hls/8038/8038.m3u8
+#EXTINF:-1 tvg-id="kanade-chile" tvg-name="Kanade Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/720e714bf4a182426448196aa78ac5d5.webp" group-title="Chile - Cine",Kanade Chile
+https://backend.energeek.cl/webtv/kanadeweb/tracks-v1a1/mono.m3u8?token=deM0kanADeweB
+#EXTINF:-1 tvg-id="la-urban-tv" tvg-name="La Urban TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f574f2f7b8cc8e5537c54dfa0374d7d.webp" group-title="España - Variedades",La Urban TV en directo
+https://www.urbanrevolution.es:8443/live/TV/playlist.m3u8
+#EXTINF:-1 tvg-id="la-red" tvg-name="La Red" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e17201722e9f6d0c9e20048036642f73.webp" group-title="Chile - Variedades",La Red
+https://ddycmnicl95kp.cloudfront.net/live/xmw27slnrnv8/master.m3u8
+#EXTINF:-1 tvg-id="lancelot-television" tvg-name="Lancelot Televisión en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71be55dca5e372c98998bebc8e2e1e45.webp" group-title="España - Noticias",Lancelot Televisión en directo
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+#EXTINF:-1 tvg-id="las-estrellas" tvg-name="Las Estrellas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf0b09469b863ba943590967bc25b9ed.webp" group-title="México - Variedades",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="lared-tv" tvg-name="LaRed TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca2fd644fd9d8d47df7ca5ea18c05d5f.webp" group-title="Chile - Variedades",LaRed TV
+https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="latina-tv-argentina" tvg-name="Latina Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="Argentina - Noticias",Latina Tv
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:-1 tvg-id="latele" tvg-name="LaTele" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cb41de706a8b6a9ce023a8a3bdd79495.webp" group-title="Paraguay - Noticias",LaTele
+https://copacotf.desdeparaguay.net/latele/latele_py_alta/playlist.m3u8?admin=tvaccion
+#EXTINF:-1 tvg-id="lapacho-tv" tvg-name="Lapacho Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad302eb3d14a8a64f833a7f0afd08354.webp" group-title="Argentina - Variedades",Lapacho Tv
+https://stmvideo6.livecastv.com/oncestream/oncestream/playlist.m3u8
+#EXTINF:-1 tvg-id="latina-tv-venezuela" tvg-name="Latina TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bd44c98898d196958426d7384494597f.webp" group-title="Venezuela - Noticias",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="life-fit" tvg-name="Life Fit" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/089e5326455ff15a05ad36a4c3bcff6e.webp" group-title="Colombia - Deportes",Life Fit
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8
+#EXTINF:-1 tvg-id="levante-tv" tvg-name="Levante TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1318eda0c05a4efe2d0e4d4bd5603154.webp" group-title="España - Variedades",Levante TV en directo
+https://cdn.jwplayer.com/manifests/JOBnA5Lk.m3u8
+#EXTINF:-1 tvg-id="love-wine" tvg-name="Love Wine en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/999031671dfbf04262fc9c57d42b8253.webp" group-title="España - Documentales",Love Wine en directo
+https://amg01821-lovetvchannels-lovewinespain-tivify-tivify-9ajng.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="love-the-planet" tvg-name="Love The Planet en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0051dffef6555ae2d69b59e63b301b3b.webp" group-title="España - Documentales",Love The Planet en directo
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="logos-tv" tvg-name="Logos Tv en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3fb8f120bf7ded0d498696c5ffc95f3d.webp" group-title="España - Variedades",Logos Tv en directo
+https://streamer1.streamhost.org/salive/logosH/chunklist_w168103485.m3u8
+#EXTINF:-1 tvg-id="lto-television" tvg-name="LTO Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/500afea21462743b38627a37e2a9a196.webp" group-title="Argentina - Variedades",LTO Televisión
+https://ltocatamarca.github.io/ltotv.m3u8
+#EXTINF:-1 tvg-id="canal-25-santiago" tvg-name="Luna Tv (Canal 25 Santiago)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/33859bfc49b78a8185f6143395d80d4f.webp" group-title="República Dominicana - Variedades",Luna Tv (Canal 25 Santiago)
+https://tv.wracanal10.com:3671/live/lunatvcanal53live.m3u8
+#EXTINF:-1 tvg-id="luz-naciente-tv" tvg-name="Luz Naciente Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c5d7d435d935a3353fd64265c25abe9.webp" group-title="Costa Rica - Evangélico",Luz Naciente Tv
+https://streeming.protoscr.com:3858/live/streeminglive.m3u8
+#EXTINF:-1 tvg-id="maria-vision" tvg-name="María Visíón" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/52b7a6d5ce26acac27801532dfd495cb.webp" group-title="México - Católico",María Visíón
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-id="megavision-canal-21" tvg-name="Megavision Canal 21" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/057c96768cc9672e72776bb88be5ecb3.webp" group-title="El Salvador - Noticias",Megavision Canal 21
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="master-video-tv" tvg-name="Master Video Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/00c2cce97c6a9f5d9f73dae4f37ffbc4.webp" group-title="Puerto Rico - Evangélico",Master Video Tv
+https://583ed2f226ac2.streamlock.net/222/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="mega-cine" tvg-name="Mega Cine en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webp" group-title="España - Cine",Mega Cine en directo
+https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
+#EXTINF:-1 tvg-id="microvision-tv" tvg-name="Microvision TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2ac398729a980195eae623e8c11206c1.webp" group-title="República Dominicana - Variedades",Microvision TV
+https://streaming.telecablecentral.com.do/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="milennio-tv" tvg-name="Milennio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91755f051c2778068efc2728f71989d6.webp" group-title="Argentina - Cine",Milennio Tv
+https://videostream.shockmedia.com.ar:19360/milenniotv/milenniotv.m3u8
+#EXTINF:-1 tvg-id="mexico-travel-channel" tvg-name="México Travel Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/35faaf06cbe451122d9e6bb954caa900.webp" group-title="México - Cultura",México Travel Channel
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-id="milenio-tv" tvg-name="Milenio Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9814d09f2ef1e8c452586c39f9390a55.webp" group-title="México - Noticias",Milenio Tv
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
+#EXTINF:-1 tvg-id="mision-vida-tv" tvg-name="Misión Vida TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/352e33e766ec2e3d17271c7faeac54c4.webp" group-title="Uruguay - Evangélico",Misión Vida TV
+https://5bf8041cb3fed.streamlock.net/zoefm/zoefm/playlist.m3u8
+#EXTINF:-1 tvg-id="mision-tv" tvg-name="Misión Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b8b57768baf334628fb98c9790dfd1be.webp" group-title="Honduras - Evangélico",Misión Tv
+https://5e85d90130e77.streamlock.net/6000/6000/playlist.m3u8
+#EXTINF:-1 tvg-id="motorvision-tv-espanol" tvg-name="Motorvision TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/85358cbfb4c84a0eb47a98f5c9ceca01.webp" group-title="España - Documentales",Motorvision TV en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=757
+#EXTINF:-1 tvg-id="movie-fe" tvg-name="Movie Fe" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp" group-title="Venezuela - Cine",Movie Fe
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+#EXTINF:-1 tvg-id="multivision" tvg-name="Multivisión Canal 9" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="Argentina - Noticias",Multivisión Canal 9
+https://videostream.shockmedia.com.ar:19360/multivisionfederal/multivisionfederal.m3u8
+#EXTINF:-1 tvg-id="multivision-republica-dominicana" tvg-name="Multivisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/76ff54b2338b91416aa96c138cf9193b.webp" group-title="República Dominicana - Variedades",Multivisión
+https://live20.bozztv.com/akamaissh101/ssh101/canalmulti24/chunks.m3u8
+#EXTINF:-1 tvg-id="multivision-television-digital" tvg-name="Multivisión Televisión Digital" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4be68a530a5a53cdb383d52d51b7fccd.webp" group-title="Argentina - Variedades",Multivisión Televisión Digital
+https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3u8
+#EXTINF:-1 tvg-id="musica-emergente" tvg-name="Musica Emergente" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/596d04978d402e30188638bb376e2ae7.webp" group-title="México - Variedades",Musica Emergente
+https://capomo01-enitv.eninetworks.com/qro_femenil_vbmedia_publico/video.m3u8
+#EXTINF:-1 tvg-id="my-turno-tv" tvg-name="My Turno Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/934b221050c26bed3735d90029633608.webp" group-title="República Dominicana - Variedades",My Turno Tv
+https://video.udwn.net:19360/miturnotv/miturnotv.m3u8
+#EXTINF:-1 tvg-id="music-top" tvg-name="Music TOP" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9512bacf6f14cf9e6a45dc35587fa12e.webp" group-title="Argentina - Música",Music TOP
+https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
+#EXTINF:-1 tvg-id="mytime-movie-network-spain" tvg-name="MyTime Movie Network (Spain) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21e3a56732a5a037eaceb6ef617b7aae.webp" group-title="España - Cine",MyTime Movie Network (Spain) en directo
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="naranja-tv" tvg-name="Naranja TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/39b62e1c32154bf91d3a6d64350b5572.webp" group-title="República Dominicana - Variedades",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="negocios-tv" tvg-name="Negocios TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c85fd0cf3f525e62451b720289c9851f.webp" group-title="España - Noticias",Negocios TV en directo
+https://negociostv-negociostv-samsunges.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="novelas-turcas" tvg-name="Novelas Turcas" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/63b8a8d7238cfada696985e64dae4d26.webp" group-title="Ecuador - Serie",Novelas Turcas
+https://amg00658-amg00658c102-canelatv-international-7231.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-novelasturcas-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="novelisima" tvg-name="Novelisima" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf12839a5db76743a7c2448b9bd68337.webp" group-title="Venezuela - Telenovelas",Novelisima
+https://dai.google.com/linear/hls/pa/event/8QpjAnHCQQqBxFVRdDQXCA/stream/f23ada38-6a27-428f-8346-b717e1ee7943:SCL2/variant/081f51567e9cf4e34cd83fdd282d2412/bandwidth/3071200.m3u8
+#EXTINF:-1 tvg-id="npy-noticias-paraguay" tvg-name="NPY - Noticias Paraguay" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ac32fe63580a7518eec2c91e1b6b0319.webp" group-title="Paraguay - Noticias",NPY - Noticias Paraguay
+https://rds3tf.desdeparaguay.net/npy/npy_int_baja/chunklist_w836206254.m3u8
+#EXTINF:-1 tvg-id="nubeh-tv" tvg-name="Nubeh TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71bb6055e20435a8bb030ba585e9a0c2.webp" group-title="Venezuela - Música",Nubeh TV
+https://master.myplaytv.com:2020/hls/nubehtv/nubehtv.m3u8
+#EXTINF:-1 tvg-id="nuestra-vision" tvg-name="Nuestra Vision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a2b92d66e30e8a806a9c32f344907405.webp" group-title="México - Variedades",Nuestra Vision
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="onda-digital-tv" tvg-name="Onda Digital Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d7cf352e11229ca097e2ddfbfbe53192.webp" group-title="Perú - Noticias",Onda Digital Tv
+https://live.ondadigitaltv.com/ODTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="oasis-tv" tvg-name="Oasis Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fc2208377c43d0cc89e86bfc5ee0e10c.webp" group-title="Colombia - Variedades",Oasis Tv
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+#EXTINF:-1 tvg-id="onda-cadiz" tvg-name="Onda Cádiz en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5d069e3b91b1b7b51f5ad7694ba90dd1.webp" group-title="España - Variedades",Onda Cádiz en directo
+https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
+#EXTINF:-1 tvg-id="orbita-tv" tvg-name="Orbita TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/318ba378425c6c7fea815b1c82eb70b2.webp" group-title="El Salvador - Variedades",Orbita TV
+https://live20.bozztv.com/akamaissh101/ssh101/OrbitaFM953/playlist.m3u8
+#EXTINF:-1 tvg-id="pando-net-tv" tvg-name="Pando Net TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/21a998a6fec9b6bf8a31708d1edde21e.webp" group-title="Bolivia - Variedades",Pando Net TV
+https://ssh101-fl.bozztv.com/ssh101/pandonettv4201/playlist.m3u8
+#EXTINF:-1 tvg-id="pakapaka" tvg-name="PAKAPAKA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cd4cd5373a32986cf3fe89c1788d1a99.webp" group-title="Argentina - Niños",PAKAPAKA
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+#EXTINF:-1 tvg-id="panc-tv-hd-tucuman" tvg-name="Panc Tv HD Tucuman" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2e5b75eaa601c8fc33d7cfb794772fee.webp" group-title="Argentina - Variedades",Panc Tv HD Tucuman
+https://panel.host-live.com:19360/20004/20004.m3u8
+#EXTINF:-1 tvg-id="pelimex" tvg-name="Pelimex" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/888486b6af657ca96c36ad57c7c7ee10.webp" group-title="México - Cine",Pelimex
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="peravia-vision" tvg-name="Peravia Vision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4abc4961f73e6c5f3381f2f1b94c42d.webp" group-title="República Dominicana - Variedades",Peravia Vision
+https://ss2.tvrdomi.com:1936/peraviavision/peraviavision/playlist.m3u8
+#EXTINF:-1 tvg-id="party-tyme-karaoke-es" tvg-name="Party Tyme Karaoke" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee62ade766edeae9eb13513094ed5d9a.webp" group-title="México - Música",Party Tyme Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+#EXTINF:-1 tvg-id="pitufo-tv" tvg-name="Pitufo TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b22af84bdf817ed88a396951cda5988b.webp" group-title="España - Niños",Pitufo TV en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211
+#EXTINF:-1 tvg-id="play-ibiza" tvg-name="Play Ibiza en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a0fed5fd6bbc785bbd8e5589a08023e.webp" group-title="España - Música",Play Ibiza en directo
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/JZ4Z9XTDAHRPC70E1XSB/hls3/now,-1m/master.m3u8
+#EXTINF:-1 tvg-id="planeta-tv" tvg-name="Planeta TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b047c9713a6e55d2169cc2c9bc9aadf2.webp" group-title="Chile - Música",Planeta TV
+https://tls-cl.cdnz.cl/envivo/live/playlist.m3u8
+#EXTINF:-1 tvg-id="planeta-channel" tvg-name="Planeta Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ee677c334aa6df2c9a215349a766c630.webp" group-title="Ecuador - Variedades",Planeta Channel
+https://vs20.live.opencaster.com/planetachannel_089eff6d/index.m3u8
+#EXTINF:-1 tvg-id="portal-foxmix" tvg-name="Portal Foxmix" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/417ee46eba4fe6161a809d808fa8e053.webp" group-title="Chile - Música",Portal Foxmix
+https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+#EXTINF:-1 tvg-id="popcorn-central" tvg-name="Popcorn Central" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f9dd7fbcec1e40c2b1b43f99c2d490f9.webp" group-title="México - Cine",Popcorn Central
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16640
+#EXTINF:-1 tvg-id="prensa-latina" tvg-name="Prensa Latina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94a4f605663df4beee0109e091aac289.webp" group-title="Cuba - Noticias",Prensa Latina
+https://eu1.servers10.com:8081/8192/index.m3u8
+#EXTINF:-1 tvg-id="presencia-tv-peru" tvg-name="Presencia TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7c32e4c6d73b63dd532a48dd4e17f634.webp" group-title="Perú - Evangélico",Presencia TV
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/chunks.m3u8
+#EXTINF:-1 tvg-id="power-tv-argentina" tvg-name="Power TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5f56d3c5c0b6d7c5e14dc78e68628f0c.webp" group-title="Argentina - Música",Power TV
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 tvg-id="promar-tv" tvg-name="Promar TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b56260b68f3ebe6b1601e56567d46831.webp" group-title="Venezuela - Noticias",Promar TV
+https://vcp.myplaytv.com/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="puruwa" tvg-name="Puruwa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6a0872e6e198720627e1a13752b097ac.webp" group-title="Ecuador - Étnico",Puruwa
+https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/playlist.m3u8
+#EXTINF:-1 tvg-id="quiero-tv" tvg-name="Quiero TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce1b28cfc508c709a01ac78c5b3475e6.webp" group-title="México - Noticias",Quiero TV
+https://stream.ontvmx.com/ontv/ghxTYEQmKkB2UJyVuW/playlist.m3u8
+#EXTINF:-1 tvg-id="quaere-tv" tvg-name="Quaere Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e52f7c821275065ac6c6e031826c1a9a.webp" group-title="Argentina - Variedades",Quaere Tv
+https://streamfour.cloudhostservers.com:3967/stream/play.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-sci-fi" tvg-name="Rakuten tv Sci-fi en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4091c4add779ccbf5c40eddff541ba23.webp" group-title="España - Cine",Rakuten tv Sci-fi en directo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6740/master.m3u8
+#EXTINF:-1 tvg-id="rakuten-tv-espanol" tvg-name="Rakuten TV En Familia en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/48a2bc5821e74c0b1861ec2287730dfe.webp" group-title="España - Cine",Rakuten TV En Familia en directo
+https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6205/master.m3u8
+#EXTINF:-1 tvg-id="rcc-tv" tvg-name="RCC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1dafbb3c727516c5ad7a17589b40d93c.webp" group-title="Paraguay - Evangélico",RCC TV
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+#EXTINF:-1 tvg-id="real-madrid" tvg-name="Real Madrid TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c871bb969e8076f811e7f7522ba7e545.webp" group-title="España - Deportes",Real Madrid TV en directo
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-id="reforma-tv" tvg-name="Reforma TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ae1a98ceb4fb2a10ae5f17c3fb7ace35.webp" group-title="Venezuela - Evangélico",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="renuevo-tv" tvg-name="Renuevo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/29d0cae4c8fb8d971d3ff7b7df70f3ce.webp" group-title="República Dominicana - Evangélico",Renuevo TV
+https://ss3.domint.net:3130/rtv_str/renuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="retro-plus-tv" tvg-name="Retro Plus TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="Chile - Música",Retro Plus TV
+https://video06.logicahost.com.br/aretroplustv01/aretroplustv01/playlist.m3u8
+#EXTINF:-1 tvg-id="ritmos-inolvidables" tvg-name="Ritmos Inolvidables en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/49ac78bf083f9a20585fd57ed48ccd53.webp" group-title="España - Música",Ritmos Inolvidables en directo
+https://amg00658-amg00658c44-canelatv-international-7299.playouts.now.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="retrox-tv" tvg-name="Retrox Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/82f8ee44b1e3425d884fa1efe6b9e5cd.webp" group-title="Costa Rica - Cine",Retrox Tv
+https://stream-retroxtv.site/w/YsgWSG6WtjajVhCmgkC9kkda.m3u8
+#EXTINF:-1 tvg-id="rnn-canal-27" tvg-name="RNN CANAL 27" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/af4dbf5a022896de9a77950a2edce69a.webp" group-title="República Dominicana - Noticias",RNN CANAL 27
+https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
+#EXTINF:-1 tvg-id="rtg-mexico" tvg-name="RTG" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/87b687a7f53f86f0412c026079b9d88c.webp" group-title="México - Variedades",RTG
+https://5e50264bd6766.streamlock.net/radtvguerrero/videoradtvguerrero/playlist.m3u8
+#EXTINF:-1 tvg-id="rtq" tvg-name="RTQ" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/44795a42e329e3ccb4dd02b9ea97c380.webp" group-title="México - Variedades",RTQ
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-id="ruidos-tv" tvg-name="Ruidos Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5e10bd9f3d4f7a1ff1d858903d1fd769.webp" group-title="Chile - Música",Ruidos Tv
+https://tv1.ruidosfm.cl/ruidostv/stream.m3u8
+#EXTINF:-1 tvg-id="runtime-curro-jimenez" tvg-name="Runtime - Curro Jiménez en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/71f6611eef3bf1a9db1f7a3bc78380ec.webp" group-title="España - Serie",Runtime - Curro Jiménez en directo
+https://run-cj-es.otteravision.com/run/cj_es/cj_es_720.m3u8
+#EXTINF:-1 tvg-id="rtv-vida" tvg-name="RTV Vida en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15301fd8fc44b36be2bd24c7c0d132ab.webp" group-title="España - Evangélico",RTV Vida en directo
+https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
+#EXTINF:-1 tvg-id="canal-4-republica-dominicana" tvg-name="RTVD - Canal 4" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e7580ed04529f9ff75fa34c89e78a55f.webp" group-title="República Dominicana - Variedades",RTVD - Canal 4
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ana-y-los-siete" tvg-name="Runtime - Ana y Los 7 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1b5d9fc2746ae2fe19c15e562a4540ae.webp" group-title="España - Serie",Runtime - Ana y Los 7 en directo
+https://run-al-es.otteravision.com/run/al_es/al_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-comedia-espanol" tvg-name="Runtime Comedia - Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ff89e686c06012903a0f2459566cf28.webp" group-title="España - Cine",Runtime Comedia - Español en directo
+https://run-rc-es.otteravision.com/run/rc_es/rc_es_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen-2" tvg-name="Runtime Crimen 2 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8a40c36d262b4f5ca7b67d869892f3c7.webp" group-title="España - Cine",Runtime Crimen 2 en directo
+https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
+#EXTINF:-1 tvg-id="runtime-espanol" tvg-name="Runtime Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bb42115ec41fea4ac36dec93b294d2e2.webp" group-title="España - Cine",Runtime Español en directo
+https://run-rt-uh.otteravision.com/run/rt_uh/rt_uh_720.m3u8
+#EXTINF:-1 tvg-id="runtime-crimen" tvg-name="Runtime Crimen en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3bf4e796388b24932482e7a2043f6c0d.webp" group-title="España - Cine",Runtime Crimen en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3527
+#EXTINF:-1 tvg-id="runtime-espanol-cine-y-series" tvg-name="Runtime Español - Cine Y Series en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4105f4374c811c5e233dddb029e79c0d.webp" group-title="España - Cine",Runtime Español - Cine Y Series en directo
+https://run-rt-es.otteravision.com/run/rt_es/rt_es_720p_high.m3u8
+#EXTINF:-1 tvg-id="runtime-rebelde" tvg-name="Runtime Rebelde" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/aa8655e78c75dff69283c942d86500b5.webp" group-title="México - Telenovelas",Runtime Rebelde
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=16288
+#EXTINF:-1 tvg-id="runtime-romance-espanol" tvg-name="Runtime Romance - Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/070aec7fcaa5f91945323fc9386162cf.webp" group-title="España - Cine",Runtime Romance - Español en directo
+https://run-rr-es.otteravision.com/run/rr_es/rr_es_720.m3u8
+#EXTINF:-1 tvg-id="salvacion-tv" tvg-name="Salvacion TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3b76b4b3db90a5eaf00311862f37084a.webp" group-title="Puerto Rico - Evangélico",Salvacion TV
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="san-roque-tv" tvg-name="San Roque Tv en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/847d7c74e0aca543d7431f3946ec346e.webp" group-title="España - Variedades",San Roque Tv en directo
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="san-isidro-tv" tvg-name="San Isidro TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/b6e7167ecc6a72b6e7ba95446d2ed742.webp" group-title="República Dominicana - Variedades",San Isidro TV
+https://5790d294af2dc.streamlock.net/expresooriental/expresooriental/playlist.m3u8
+#EXTINF:-1 tvg-id="sin-tv-peru" tvg-name="SIN TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ac1eabcec85a5924f0fec956a253a6e.webp" group-title="Perú - Música",SIN TV
+https://inliveserver.com:1936/19004/19004/playlist.m3u8
+#EXTINF:-1 tvg-id="si-tv" tvg-name="SI TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6600c565921f9eb27fc17ebf1b4eac88.webp" group-title="Honduras - Música",SI TV
+https://5e85d90130e77.streamlock.net/6024/6024/playlist.m3u8
+#EXTINF:-1 tvg-id="sintonia-publica-tv-smrt-tv" tvg-name="Sintonía Pública TV (SMRT TV)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3582bfee804be444541613d5dd719fb.webp" group-title="México - Variedades",Sintonía Pública TV (SMRT TV)
+https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
+#EXTINF:-1 tvg-id="sicardi-tv" tvg-name="Sicardi TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4e64179aa2f882c2525a7f64f1523c39.webp" group-title="Argentina - Variedades",Sicardi TV
+https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
+#EXTINF:-1 tvg-id="sol-musica" tvg-name="Sol Música en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2f4397219df0a5c564629999b3b313f4.webp" group-title="España - Música",Sol Música en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5760
+#EXTINF:-1 tvg-id="solidaria-tv" tvg-name="Solidaria TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/785c54be32ab49af286676da1cdf6fe7.webp" group-title="España - Evangélico",Solidaria TV en directo
+https://stream.visual777.com/hls/out_2000/index.m3u8
+#EXTINF:-1 tvg-id="src-media-tv" tvg-name="SRC Media Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a6189924888f328d513e6e0bb28549b5.webp" group-title="República Dominicana - Variedades",SRC Media Tv
+https://video.misistemareseller.com:19360/srctv/srctv.m3u8
+#EXTINF:-1 tvg-id="sublime-gracia" tvg-name="Sublime Gracia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3998cad6a882829fa55a37c9835bb422.webp" group-title="Argentina - Música",Sublime Gracia
+https://media.cdnvid.com/public/setentasietetv.m3u8
+#EXTINF:-1 tvg-id="tastemade-espanol" tvg-name="Tastemade Español" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9465caa97bfd3f8cb97caf81909e9b2.webp" group-title="México - Culinario",Tastemade Español
+https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="tdc" tvg-name="TDC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fce94fb74454f744e9fa8c7721e26b9c.webp" group-title="Argentina - Noticias",TDC
+https://tdcserver.com:19360/tdconlione-2/tdconlione-2.m3u8
+#EXTINF:-1 tvg-id="tbn-espana" tvg-name="TBN España en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a596f26828bae7b3c88c5411824bb881.webp" group-title="España - Evangélico",TBN España en directo
+https://edge.xn--tbnespaa-j3a.es/LiveApp/streams/tbnlive.m3u8
+#EXTINF:-1 tvg-id="tele-radio-norte" tvg-name="Tele Radio Norte" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/15f5b4bf728d6edb60ecf5a295f210da.webp" group-title="República Dominicana - Variedades",Tele Radio Norte
+https://angelistic.live:3785/live/tvoficiallive.m3u8
+#EXTINF:-1 tvg-id="telebendicion" tvg-name="Telebendicion" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fd4a5ef5a8d84c265b5fd26c8caae47f.webp" group-title="República Dominicana - Evangélico",Telebendicion
+https://ss2.tvrdomi.com:1936/telebendicion/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="telearagua" tvg-name="Telearagua" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a9d8a5767456b0a2e0382f9087d63914.webp" group-title="Venezuela - Noticias",Telearagua
+https://www.cxtv.com.br/proxy.php?url=http://45.173.198.59:8080/hls/nginx3.m3u8
+#EXTINF:-1 tvg-id="tele-clasicos" tvg-name="Teleclásica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8d518c7a8b190f28137df6e531fe842e.webp" group-title="México - Cine",Teleclásica
+https://vtm1.msinteractiva.com/teleclasica/teleclasica/playlist.m3u8
+#EXTINF:-1 tvg-id="teleformula" tvg-name="TeleFórmula" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/cf45e62409db8ccac319dff3261c5d02.webp" group-title="México - Noticias",TeleFórmula
+https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
+#EXTINF:-1 tvg-id="telediario-now" tvg-name="Telediario Now" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d5c32f2186578124d282b467dbe5a3d9.webp" group-title="México - Noticias",Telediario Now
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="telecondor" tvg-name="Telecondor" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a0ad17cee2ecc5963268d9ad1f328719.webp" group-title="Argentina - Noticias",Telecondor
+https://videostream.shockmedia.com.ar:19360/canal4telecondor/canal4telecondor.m3u8
+#EXTINF:-1 tvg-id="telediario-canal-6" tvg-name="Telediario Mx Canal 6" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a07b80778f25b274a127e3016bf2a111.webp" group-title="México - Noticias",Telediario Mx Canal 6
+https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="telefuturo" tvg-name="Telefuturo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/89c3db340826f67f3d37e8cd4df05a5e.webp" group-title="Paraguay - Noticias",Telefuturo
+https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_alta/playlist.m3u8
+#EXTINF:-1 tvg-id="teleganes" tvg-name="Teleganés  en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f8ebd146fccd40bd560ad9f6d84488d4.webp" group-title="España - Variedades",Teleganés  en directo
+https://nlb2-live.emitstream.com/hls/5z6oj7ziwxzfnj78vg2m/master.m3u8
+#EXTINF:-1 tvg-id="telemadrid" tvg-name="Telemadrid en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0f0ab1fbec7578dec0d7ea7561b58862.webp" group-title="España - Variedades",Telemadrid en directo
+https://live.telemadrid.cross-media.es/6389770581112/eu-central-1/6416060453001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiajI5YjgyLmVncmVzcy5haGc3NmwiLCJhY2NvdW50X2lkIjoiNjQxNjA2MDQ1MzAwMSIsImVobiI6ImxpdmUudGVsZW1hZHJpZC5jcm9zcy1tZWRpYS5lcyIsImlzcyI6ImJsaXZlLXBsYXliYWNrLXNvdXJjZS1hcGkiLCJzdWIiOiJwYXRobWFwdG9rZW4iLCJhdWQiOlsiNjQxNjA2MDQ1MzAwMSJdLCJqdGkiOiI2Mzg5NzcwNTgxMTEyIn0.kqriAMUkHT6m0V6wkCHJum_EUyL4PAi1zJMKlfmYHEU/playlist-hls.m3u8
+#EXTINF:-1 tvg-id="telemax" tvg-name="Telemax" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9943cba0698e35b241e90f3337804fa3.webp" group-title="México - Noticias",Telemax
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
+#EXTINF:-1 tvg-id="tlx-telemax" tvg-name="Telemax Argentina" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/60338c55a7abd351205be40937d8192c.webp" group-title="Argentina - Noticias",Telemax Argentina
+https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8
+#EXTINF:-1 tvg-id="telemar" tvg-name="Telemar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/291aa864facb2f41c2671da1517e8614.webp" group-title="México - Variedades",Telemar
+https://stream.ontvmx.com/ontv/rAygJEDYBNh0I3Rlx8/playlist.m3u8
+#EXTINF:-1 tvg-id="telemaxrd" tvg-name="TeleMaxRD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d4067ce39b2b17a2f6136b7c900d51df.webp" group-title="República Dominicana - Variedades",TeleMaxRD
+https://edge.essastream.com/telemax/index.m3u8
+#EXTINF:-1 tvg-id="telepacifico" tvg-name="Telepacífico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d01da97f93f1ef5131206034468f8efc.webp" group-title="Colombia - Noticias",Telepacífico
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+#EXTINF:-1 tvg-id="telesur-english" tvg-name="teleSUR English" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/45fae1bb180abdb47a2368a05b0848e0.webp" group-title="Ecuador - Noticias",teleSUR English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="telered" tvg-name="Telered" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f961845876fb4f362c592b4d958c1116.webp" group-title="Costa Rica - Cine",Telered
+https://k20.usastreams.com:8081/teleredcablera/video.m3u8
+#EXTINF:-1 tvg-id="telemundo-porto-rico" tvg-name="Telemundo Porto Rico" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ad0f6414f5eed7d0bc1aa3ee2e590ae5.webp" group-title="Puerto Rico - Variedades",Telemundo Porto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="telesur-costa-rica" tvg-name="Telesur Costa Rica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/02bfbf9e7c34ae9439fcefbb1247c42a.webp" group-title="Costa Rica - Niños",Telesur Costa Rica
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="teletrack" tvg-name="Teletrack" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f457ddce2f999c3f4b595e0966bd7f94.webp" group-title="Chile - Deportes",Teletrack
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+#EXTINF:-1 tvg-id="televisora-regional-unimar" tvg-name="Televisora Regional Unimar" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d3c94afdd8a77d70ff06821205234c9b.webp" group-title="Argentina - Noticias",Televisora Regional Unimar
+https://vivo.solumedia.com:19360/trutv/trutv.m3u8
+#EXTINF:-1 tvg-id="televida" tvg-name="Televida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/50397cf71b817f29eb7f6fed5c6edf33.webp" group-title="Chile - Evangélico",Televida
+https://tls-cl.cdnz.cl/televida/live/playlist.m3u8
+#EXTINF:-1 tvg-id="telpin-tv" tvg-name="Telpin Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5858054fefb39eecad5882b79d996f09.webp" group-title="Argentina - Variedades",Telpin Tv
+https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="television-catolica" tvg-name="Television Católica" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eaf4817a1a459c13f0eeaa40379dd3e8.webp" group-title="El Salvador - Católico",Television Católica
+https://live20.bozztv.com/akamaissh101/ssh101/tvcaelsalvador/chunks.m3u8
+#EXTINF:-1 tvg-id="terra-mia-tv" tvg-name="Terra Mia TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/298052f7d0c144e82b2750ad55289082.webp" group-title="Argentina - Música",Terra Mia TV
+https://stream-gtlc.telecentro.net.ar/hls/tierramiahls/main.m3u8
+#EXTINF:-1 tvg-id="the-retro-channel" tvg-name="The Retro Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f596e37208c32386b7be64b6697e30fb.webp" group-title="Puerto Rico - Música",The Retro Channel
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="todo-novelas-mas-pasiones" tvg-name="Todo Novelas, más Pasiones" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2011611b497db73fa9dfc7954871225f.webp" group-title="Ecuador - Telenovelas",Todo Novelas, más Pasiones
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="tne-tv" tvg-name="TNE TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0643ce5a17e51c474db83338ecd1d0fd.webp" group-title="Chile - Evangélico",TNE TV
+https://v2.tustreaming.cl/tnetv/index.m3u8
+#EXTINF:-1 tvg-id="todo-cine" tvg-name="Todo Cine" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="Ecuador - Cine",Todo Cine
+https://aegis-cloudfront-1.tubi.video/be9224ff-0bff-440d-aa84-40afcb2150b5/playlist.m3u8
+#EXTINF:-1 tvg-id="todo-novelas" tvg-name="Todo Novelas en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="España - Telenovelas",Todo Novelas en directo
+https://dtsszjrztq9ti.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yshah5p4v45g1/ToDoNovelas_ES.m3u8
+#EXTINF:-1 tvg-id="toon-goggles-en-espanol" tvg-name="Toon Goggles en Español en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e164c1f449172affe344cb1f7420adce.webp" group-title="España - Niños",Toon Goggles en Español en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514
+#EXTINF:-1 tvg-id="trailers" tvg-name="Trailers en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0cf002ed575e28fb68b6827a6bbb9b12.webp" group-title="España - Variedades",Trailers en directo
+https://amg01821-lovetvchannels-lovemagazinespain-tivify-tivify-8o5mz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="true-crime" tvg-name="True Crime en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6555db351697a64f1432c20888c7605e.webp" group-title="España - Documentales",True Crime en directo
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3985
+#EXTINF:-1 tvg-id="tu-universo-tv" tvg-name="Tu Universo Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/739a50b1dceef6584293d88b88d1ec92.webp" group-title="Colombia - Evangélico",Tu Universo Tv
+https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+#EXTINF:-1 tvg-id="tutv" tvg-name="TUTV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/178c759ece43186a94e69f30b17dca2d.webp" group-title="El Salvador - Variedades",TUTV
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="tu-musica-hd" tvg-name="Tu Musica HD" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/430a862c5c9cddbd3856cbdf8068b6be.webp" group-title="República Dominicana - Música",Tu Musica HD
+https://mlb.essastream.com:8081/tumusicahd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="turismo-travel-tv" tvg-name="Turismo Travel Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46cf76dd766eea9d1a8f8d3b541e7c21.webp" group-title="Chile - Cultura",Turismo Travel Tv
+https://stmv3.voxtvhd.com.br/turismotraveltv/turismotraveltv/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cinco" tvg-name="TV Cinco (5tv)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/05643f4bc6b3689b9a5833563c66729e.webp" group-title="Argentina - Variedades",TV Cinco (5tv)
+https://617c5175c970b.streamlock.net:4444/tvcinco/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-cret" tvg-name="Tv CRET" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8ee2b2ea9b1af3211e9f51ab1d8f87c2.webp" group-title="El Salvador - Evangélico",Tv CRET
+https://serversv.com:8080/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="tv-de-ultimo-minuto" tvg-name="TV De Último Minuto" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/eccc9216327bb98704cd4b7c7c5a54d1.webp" group-title="República Dominicana - Noticias",TV De Último Minuto
+https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
+#EXTINF:-1 tvg-id="tv-en-linea-cusco" tvg-name="Tv en Linea Cusco" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e89bcf69510679e9aad336693211e299.webp" group-title="Perú - Variedades",Tv en Linea Cusco
+https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-id="tv-familia-colombia" tvg-name="TV Familia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c19e13a54f89cace2b5c01ee2252a2c7.webp" group-title="Colombia - Católico",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_480p/tvfamilia_480p/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-la-voz-del-desierto" tvg-name="TV La Voz Del Desierto" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6d4baccd34602955fb4cd60d8290b8c0.webp" group-title="Argentina - Variedades",TV La Voz Del Desierto
+https://stmv1.liveplushd.com.br/lavozdeldesierto/lavozdeldesierto/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-mar-puerto-vallarta" tvg-name="TV Mar Puerto Vallarta" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/24d880caac52dd10a28045d1aae5b2b1.webp" group-title="México - Variedades",TV Mar Puerto Vallarta
+https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-norte-canal-14-tvn-14" tvg-name="TV Norte Canal 14 (TVN 14)" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69f23c1e1fd84e11e79ec40b6f7e7f71.webp" group-title="Costa Rica - Variedades",TV Norte Canal 14 (TVN 14)
+https://tvn14-21fa4.kxcdn.com/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-repretel-2" tvg-name="TV Repretel 2" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f681d21a7b2c7bded672c32a23ca7ee9.webp" group-title="Costa Rica - Variedades",TV Repretel 2
+https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="tv-repretel-6" tvg-name="TV Repretel 6" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a85b097e8761ccd4e3472650ca6c3744.webp" group-title="Costa Rica - Variedades",TV Repretel 6
+https://ddycmnicl95kp.cloudfront.net/live/w0wu3g4t42xb/master.m3u8
+#EXTINF:-1 tvg-id="tv-senado-chile" tvg-name="TV Senado Chile" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80ca59e009eaff38c8f1d0d10284b4f9.webp" group-title="Chile - Público",TV Senado Chile
+https://janux-tv.senado.cl/playlist/stream.m3u8?t=0&q=0&s=&p=&id=mmkmj9l5&d=w
+#EXTINF:-1 tvg-id="tv-telesur" tvg-name="TV Telesur" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="Venezuela - Noticias",TV Telesur
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="tv-unam" tvg-name="TV UNAM" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/90740042f10b769eb9368e0007125578.webp" group-title="México - Educación",TV UNAM
+https://5fc584f3f19c9.streamlock.net/tvunam/videotvunam/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="tv-unitel" tvg-name="TV Unitel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4b4266bdc3b2eb45f8b04c8cfb20382a.webp" group-title="Bolivia - Variedades",TV Unitel
+https://play.agenciastreaming.com:8081/uniteltv/index.m3u8
+#EXTINF:-1 tvg-id="tv3-cat" tvg-name="TV3 CAT en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f437f94e9d6d2e655e4544fecc10e7a.webp" group-title="España - Noticias",TV3 CAT en directo
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/master.m3u8
+#EXTINF:-1 tvg-id="tvc-ecuador" tvg-name="TVC" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1db0c4f5a350af9269a34b28e60f4969.webp" group-title="Ecuador - Noticias",TVC
+https://ddycmnicl95kp.cloudfront.net/live/br1r5varhysm/master.m3u8
+#EXTINF:-1 tvg-id="tve-la1" tvg-name="TVE - La1 en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d751a4cddec9ab99da5f207973f4f876.webp" group-title="España - Variedades",TVE - La1 en directo
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-id="tve-24h" tvg-name="TVE - 24h en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/701b2da0ad30234ee2844bc96021390c.webp" group-title="España - Noticias",TVE - 24h en directo
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-id="tve-internacional-tvei" tvg-name="TVE Internacional (TVEI) en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fdccf49eb2e2bc90fa506b7b560226f5.webp" group-title="España - Noticias",TVE Internacional (TVEI) en directo
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_576.m3u8
+#EXTINF:-1 tvg-id="tvg-television-de-galicia" tvg-name="TVG - Television de Galicia en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/11062ba47c721ab05226d6978fe68b54.webp" group-title="España - Variedades",TVG - Television de Galicia en directo
+https://crtvg-europa.flumotion.cloud/playlist.m3u8
+#EXTINF:-1 tvg-id="tvg-galicia-tv-america" tvg-name="TVG - Galicia TV América en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/377f2136f24732d051c33e83d92ba86f.webp" group-title="España - Variedades",TVG - Galicia TV América en directo
+https://crtvg-europa.flumotion.cloud/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="tvo-venezuela" tvg-name="TVO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a5b75e43e4ae2c4c2b44a34ee9045d9.webp" group-title="Venezuela - Variedades",TVO
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="tvmas" tvg-name="TVMÁS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4ba7909d3f253a8cd091ff01e17a13c5.webp" group-title="México - Variedades",TVMÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+#EXTINF:-1 tvg-id="tvn" tvg-name="TVN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0047fde3d74ba982f13c50ac23779cbb.webp" group-title="Colombia - Variedades",TVN
+https://videostreaming.vsgtech.co:3470/stream/play.m3u8
+#EXTINF:-1 tvg-id="culiacan" tvg-name="TVP Culiacán" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ca4e4c7fc41488897e625cb51630d8ae.webp" group-title="México - Variedades",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mochis" tvg-name="TVP - Los Mochis" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ed36f0ec143285dd2121808aa5bda326.webp" group-title="México - Variedades",TVP - Los Mochis
+https://5ca3e84a76d30.streamlock.net/gpacifico2/smil:mochis.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="mazatlan" tvg-name="TVP Mazatlán" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3170309f67306ef87946ce1e559e8e9a.webp" group-title="México - Variedades",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="tvs-retro" tvg-name="TVS Retro" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a39ae0962d6b0b34320db480996652b7.webp" group-title="Guatemala - Cine",TVS Retro
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-id="ucl-television" tvg-name="UCL Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6d7ba4b223053206d390f45275d71cd4.webp" group-title="Uruguay - Variedades",UCL Televisión
+https://streamingmcbo.ddns.net:8081/ucltelevision/index.m3u8
+#EXTINF:-1 tvg-id="uaa-tv" tvg-name="UAA TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1cf5cc7bd7969ea5afd513ed35211a93.webp" group-title="México - Cultura",UAA TV
+https://5fe2654d6127d.streamlock.net/uaa2/videouaa2/playlist.m3u8
+#EXTINF:-1 tvg-id="obregon" tvg-name="TVP Obregon" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/61992eeef95a230b22faffa1a29c42ef.webp" group-title="México - Variedades",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w622754042_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-id="ucv-tv" tvg-name="UCV TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d2fbf871871ee4c5242237f9bc396dcb.webp" group-title="Chile - Variedades",UCV TV
+https://unlimited1-us.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="une-tv-hn" tvg-name="Une TV HN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f7a011032d35bbe2a51f265fe83f8578.webp" group-title="Honduras - Noticias",Une TV HN
+https://amixtv.com:8081/unetvhn/index.m3u8
+#EXTINF:-1 tvg-id="vale-tv" tvg-name="Vale TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d7bdc6587cc56c0f0a7e72309a15c21.webp" group-title="Venezuela - Cultura",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="vb-media-tv" tvg-name="VB Media TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0ef2cd419b3dff29cba04c1249bce0c9.webp" group-title="México - Noticias",VB Media TV
+https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
+#EXTINF:-1 tvg-id="valle-nuevo-tv" tvg-name="Valle Nuevo TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f9a4c73378a25ffb9c69bf2a6e4e827.webp" group-title="República Dominicana - Cine",Valle Nuevo TV
+https://stmv6.voxtvhd.com.br/vallenuevotv/vallenuevotv/playlist.m3u8
+#EXTINF:-1 tvg-id="vepaco-tv" tvg-name="Vepaco Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91ce8a6df9674a7ff01fa203cdca71c9.webp" group-title="Venezuela - Variedades",Vepaco Tv
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="vclassic-tv" tvg-name="Vclassic Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7a80e50a4516a948ce4dd6ac10912ec2.webp" group-title="Chile - Música",Vclassic Tv
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+#EXTINF:-1 tvg-id="vclassic-tv-tropical" tvg-name="Vclassic Tv Tropical" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e1d35c895ad041e28f8691f6a9e392e2.webp" group-title="Chile - Música",Vclassic Tv Tropical
+https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8
+#EXTINF:-1 tvg-id="veo-television" tvg-name="Veo Televisión" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/88bc90960b9ec42ad23d87725a578d53.webp" group-title="Colombia - Variedades",Veo Televisión
+https://movil.ejeserver.com/live/veotv.m3u8
+#EXTINF:-1 tvg-id="venevision" tvg-name="Venevision" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d1eddd04945b864b02a236f6444606db.webp" group-title="Venezuela - Noticias",Venevision
+https://pubads.g.doubleclick.net/ssai/event/xl2VClgXQmKB5abFGlmyZQ/master.m3u8
+#EXTINF:-1 tvg-id="vc-online" tvg-name="VC Online" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/28b055714d92d9a071941311c5443a96.webp" group-title="Chile - Evangélico",VC Online
+https://panel.tvstream.cl:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="ver-tv" tvg-name="Ver TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/80fc9199ef9ca303119a213b082e8055.webp" group-title="Argentina - Variedades",Ver TV
+https://media.cdnvid.com/public/uovlwqzikeyf.m3u8
+#EXTINF:-1 tvg-id="vision-tv-guatemala" tvg-name="Visión Tv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8e9799a2e6f3ed1713bcf0403c24bfcf.webp" group-title="Guatemala - Variedades",Visión Tv
+https://cdn.streamhispanatv.net:3076/live/visiontvlive.m3u8
+#EXTINF:-1 tvg-id="vivo-tv-uruguay" tvg-name="VIVO Tv Uruguay" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7d5ec141d0c55e60c14afc237d9adcbe.webp" group-title="Uruguay - Variedades",VIVO Tv Uruguay
+https://stream.vivotv.uy/hls/stream.m3u8
+#EXTINF:-1 tvg-id="voice-over-radio-tv" tvg-name="Voice Over Radio TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7fbdb09be22e06899065cf52ce3485dd.webp" group-title="Costa Rica - Música",Voice Over Radio TV
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+#EXTINF:-1 tvg-id="wapp-tv" tvg-name="Wapp TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/327c0c3f4213e300e08d3ef77e661469.webp" group-title="Chile - Variedades",Wapp TV
+https://stream.wapptv.cl/video/index.m3u8
+#EXTINF:-1 tvg-id="wipr-tv" tvg-name="WIPR TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e133cc3ad3fe7dd93c09b15991712506.webp" group-title="Puerto Rico - Variedades",WIPR TV
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
+#EXTINF:-1 tvg-id="world-poker-tour" tvg-name="World Poker Tour" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7f3b270811bac641f93aef78399d2304.webp" group-title="México - Deportes",World Poker Tour
+https://amg00218-amg00218c2-canelatv-international-5827.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-id="xpresso-joven-radio" tvg-name="Xpresso Joven Radio" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/84817a0f4aa6c9c75a89e5ba5c637e82.webp" group-title="Costa Rica - Música",Xpresso Joven Radio
+https://stmv1.novacasthd.in/xpressotv/xpressotv/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv" tvg-name="Xtrema TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b8ba4e4d62638b77f1e34a316b213e1.webp" group-title="Argentina - Documentales",Xtrema TV
+https://stmv6.voxtvhd.com.br/canal1/canal1/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-accion" tvg-name="Xtrema TV - Cine Acción" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/16f8ed90cfdce23eb93131280ab06426.webp" group-title="Argentina - Cine",Xtrema TV - Cine Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cartoons" tvg-name="Xtrema TV - Cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/def4d6a960fc00da49db5898c4a41e48.webp" group-title="Argentina - Niños",Xtrema TV - Cartoons
+https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-asia" tvg-name="Xtrema TV - Cine Asia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/332189b8722e494b651f16c7591490c7.webp" group-title="Argentina - Cine",Xtrema TV - Cine Asia
+https://stmv6.voxtvhd.com.br/cineasia/cineasia/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-comedy" tvg-name="Xtrema TV - Cine Comedy" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/241d1d48bf46902c3aa0b334a0791a8d.webp" group-title="Argentina - Cine",Xtrema TV - Cine Comedy
+https://stmv6.voxtvhd.com.br/cinecomedia/cinecomedia/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-retro-cartoons" tvg-name="Xtrema TV - Retro Cartoons" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="Argentina - Niños",Xtrema TV - Retro Cartoons
+https://stmv3.voxtvhd.com.br/xtremaretrocartoons/xtremaretrocartoons/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-drama" tvg-name="Xtrema TV - Cine Drama" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c9ffb33bd89b04d6c1fd9326ddcadd7.webp" group-title="Argentina - Cine",Xtrema TV - Cine Drama
+https://stmv6.voxtvhd.com.br/cinedrama/cinedrama/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-family" tvg-name="Xtrema TV - Cine Family" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/553ae67ca541fdc09dd6f918351f04be.webp" group-title="Argentina - Cine",Xtrema TV - Cine Family
+https://stmv6.voxtvhd.com.br/cinefamiliy/cinefamiliy/playlist.m3u8
+#EXTINF:-1 tvg-id="yuna-vision-tv" tvg-name="Yuna Vision TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7cb4fe875256bcd90298582f99d72527.webp" group-title="República Dominicana - Variedades",Yuna Vision TV
+https://tele-stream.telecasa.net/live/st1/yunavision-hd/index.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-hindi" tvg-name="Xtrema TV - Cine Hindi" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c3bba42e9a945b67ba4857976265fe73.webp" group-title="Argentina - Cine",Xtrema TV - Cine Hindi
+https://stmv6.voxtvhd.com.br/cinehindi/cinehindi/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-latino" tvg-name="Xtrema TV - Cine Latino" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/648b8e02363dd3c97a5d0e8afd3ef60d.webp" group-title="Argentina - Cine",Xtrema TV - Cine Latino
+https://stmv6.voxtvhd.com.br/cinelatino/cinelatino/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-animal" tvg-name="Xtrema TV - Xphere Wild" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2af4dd316afda72cb7c982a399289623.webp" group-title="Argentina - Documentales",Xtrema TV - Xphere Wild
+https://stmv2.voxtvhd.com.br/xpherewild/xpherewild/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-retro-series" tvg-name="Xtrema TV - Retro Series" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/67fef669159d2e980c3bbc5d4edde22f.webp" group-title="Argentina - Serie",Xtrema TV - Retro Series
+https://stmv7.voxtvhd.com.br/xtremaretroseries/xtremaretroseries/playlist.m3u8
+#EXTINF:-1 tvg-id="xtrema-tv-cine-europa" tvg-name="Xtrema TV - Cine Europa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e29e609e680318eba7bddbaa71febf7d.webp" group-title="Argentina - Cine",Xtrema TV - Cine Europa
+https://stmv6.voxtvhd.com.br/cineeuropa/cineeuropa/playlist.m3u8
+#EXTINF:-1 tvg-id="zapping-music" tvg-name="Zapping Music" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4d2696770a1daf9373c5414f784650e6.webp" group-title="Chile - Música",Zapping Music
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="zoom-tv" tvg-name="ZOOM TV Colombia" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/22482eef1cf795dcd9867576d7ee6057.webp" group-title="Colombia - Educación",ZOOM TV Colombia
+https://cast-zoomtv.vdatacenter.io:19360/streaming1/streaming1.m3u8
