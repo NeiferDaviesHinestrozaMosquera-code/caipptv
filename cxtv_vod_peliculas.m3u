@@ -1,0 +1,29 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# CXTv IPTV Playlist: Películas y Series a la Carta VOD
+# Guía EPG: Colombia y LATAM integrada
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="vod-sintel" tvg-name="Sintel (En Busca del Dragón) (2010)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Sintel_poster.jpg" group-title="🌐 Internacional (VOD)",Sintel (En Busca del Dragón) (2010)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4
+#EXTINF:-1 tvg-id="vod-tears-of-steel" tvg-name="Tears of Steel (Lágrimas de Acero) (2012)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Tears_of_Steel_poster.jpg/800px-Tears_of_Steel_poster.jpg" group-title="🌐 Internacional (VOD)",Tears of Steel (Lágrimas de Acero) (2012)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4
+#EXTINF:-1 tvg-id="vod-big-buck-bunny" tvg-name="Big Buck Bunny (2008)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Big_buck_bunny_poster_big.jpg" group-title="🌐 Internacional (VOD)",Big Buck Bunny (2008)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4
+#EXTINF:-1 tvg-id="vod-elephants-dream" tvg-name="Elephant's Dream (2006)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Elephants_Dream_poster.jpg" group-title="🌐 Internacional (VOD)",Elephant's Dream (2006)
+https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
+#EXTINF:-1 tvg-id="vod-night-living-dead" tvg-name="La Noche de los Muertos Vivientes (1968)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Night_of_the_Living_Dead_%281968%29_poster.jpg/800px-Night_of_the_Living_Dead_%281968%29_poster.jpg" group-title="🌐 Internacional (VOD)",La Noche de los Muertos Vivientes (1968)
+https://archive.org/download/night_of_the_living_dead/night_of_the_living_dead_512kb.mp4
+#EXTINF:-1 tvg-id="vod-nosferatu" tvg-name="Nosferatu, el Vampiro (1922)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Nosferatu%2C_eine_Symphonie_des_Grauens_%281922%29_-_poster.jpg/800px-Nosferatu%2C_eine_Symphonie_des_Grauens_%281922%29_-_poster.jpg" group-title="🌐 Internacional (VOD)",Nosferatu, el Vampiro (1922)
+https://archive.org/download/Nosferatu_1922_remastered/Nosferatu_1922_remastered_512kb.mp4
+#EXTINF:-1 tvg-id="vod-charade" tvg-name="Charada (Audrey Hepburn & Cary Grant) (1963)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Charade_poster_1963.jpg/800px-Charade_poster_1963.jpg" group-title="🌐 Internacional (VOD)",Charada (Audrey Hepburn & Cary Grant) (1963)
+https://archive.org/download/Charade1963/Charade_512kb.mp4
+#EXTINF:-1 tvg-id="vod-the-general" tvg-name="El Maquinista de la General (1926)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/The_General_%281926%29_poster.jpg/800px-The_General_%281926%29_poster.jpg" group-title="🌐 Internacional (VOD)",El Maquinista de la General (1926)
+https://archive.org/download/TheGeneral_BusterKeaton/TheGeneral_512kb.mp4
+#EXTINF:-1 tvg-id="vod-gold-rush" tvg-name="La Quimera del Oro (Charles Chaplin) (1925)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Gold_Rush_poster.jpg/800px-The_Gold_Rush_poster.jpg" group-title="🌐 Internacional (VOD)",La Quimera del Oro (Charles Chaplin) (1925)
+https://archive.org/download/TheGoldRush_1925/TheGoldRush_512kb.mp4
+#EXTINF:-1 tvg-id="vod-voyage-dans-la-lune" tvg-name="Viaje a la Luna (Georges Méliès) (1902)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Le_Voyage_dans_la_lune.jpg/800px-Le_Voyage_dans_la_lune.jpg" group-title="🌐 Internacional (VOD)",Viaje a la Luna (Georges Méliès) (1902)
+https://archive.org/download/A_Trip_to_the_Moon_1902/A_Trip_to_the_Moon_1902_512kb.mp4
+#EXTINF:-1 tvg-id="vod-house-haunted-hill" tvg-name="La Mansión de los Horrores (Vincent Price) (1959)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/House_on_haunted_hill.jpg/800px-House_on_haunted_hill.jpg" group-title="🌐 Internacional (VOD)",La Mansión de los Horrores (Vincent Price) (1959)
+https://archive.org/download/House_on_Haunted_Hill_1959/House_on_Haunted_Hill_512kb.mp4
+#EXTINF:-1 tvg-id="vod-little-shop-horrors" tvg-name="La Pequeña Tienda de los Horrores (1960)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Little_Shop_of_Horrors_%281960%29_poster.jpg/800px-Little_Shop_of_Horrors_%281960%29_poster.jpg" group-title="🌐 Internacional (VOD)",La Pequeña Tienda de los Horrores (1960)
+https://archive.org/download/TheLittleShopOfHorrors1960/TheLittleShopOfHorrors_512kb.mp4

@@ -143,5 +143,27 @@ def generate_playlists():
     write_m3u("cxtv_todos.m3u", hls_channels, "Todos los canales directos HLS")
     write_m3u("cxtv_completa_web.m3u", all_with_web, "Completa (Directos + Web/YouTube)")
 
+    # 8. VOD Movies & Series
+    vod_file = "vod_catalog.json"
+    if os.path.exists(vod_file):
+        try:
+            with open(vod_file, "r", encoding="utf-8") as vf:
+                vod_items = json.load(vf)
+            vod_channels = []
+            for v in vod_items:
+                vod_channels.append({
+                    "id": v["id"],
+                    "name": f"{v['title']} ({v.get('year', '')})",
+                    "country": "VOD",
+                    "categories": [v.get("category", "Cine"), "Películas"],
+                    "group": f"🍿 Cine VOD - {v.get('category', 'Películas')}",
+                    "logo": v.get("poster", ""),
+                    "stream_url": v["stream_url"],
+                    "stream_type": v.get("stream_type", "mp4")
+                })
+            write_m3u("cxtv_vod_peliculas.m3u", vod_channels, "Películas y Series a la Carta VOD")
+        except Exception as e:
+            print(f"Error generating VOD m3u: {e}")
+
 if __name__ == "__main__":
     generate_playlists()

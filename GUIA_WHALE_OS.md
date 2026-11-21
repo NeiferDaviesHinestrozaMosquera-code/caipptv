@@ -8,15 +8,13 @@
 
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
-| **`cxtv_caixun_smarttv.m3u`** | **⭐ Lista recomendada para tu TV Caixun.** Seleccionada con canales en español, Colombia, deportes, películas, series y noticias con streams HLS directos de alta compatibilidad y carga rápida. |
-| **`cxtv_colombia.m3u`** | Lista exclusiva de canales de Colombia (Caracol, RCN/Mix, CityTV, Canal Capital, Telepacífico, etc.). |
+| **`cxtv_caixun_smarttv.m3u`** | **⭐ Lista recomendada para tu TV Caixun.** Canales en español, Colombia, deportes, películas, series y noticias con streams HLS directos de alta compatibilidad y guía EPG integrada. |
+| **`cxtv_colombia.m3u`** | Lista exclusiva de canales de Colombia (Caracol, RCN, Señal Colombia, Win Sports, Teleantioquia, etc.). |
+| **`cxtv_vod_peliculas.m3u`** | **🍿 Lista VOD Películas:** Catálogo de películas clásicas y de dominio público a la carta bajo demanda. |
+| **`cxtv_pluto_tv.m3u`** | Canales FAST 24/7 de Pluto TV Latinoamérica con streaming verificado. |
 | **`cxtv_latam.m3u`** | Lista completa en Español (Colombia, México, Argentina, España, Chile, Perú, etc.). |
-| **`cxtv_todos.m3u`** | Lista con todos los canales directos HLS a nivel mundial extraídos de CXTv. |
-| **`cxtv_completa_web.m3u`** | Lista extendida con señales directas y transmisiones web/YouTube. |
-| **`copiar_a_usb.bat`** | Script de 1 clic para detectar tu memoria USB y copiar todas las listas e instrucciones automáticamente. |
-| **`iniciar_servidor.bat`** | Inicia el servidor local en tu PC Windows para transmitir por Wi-Fi a tu TV y abrir el reproductor Web. |
-| **`actualizar_canales.bat`** | Vuelve a consultar CXTv y actualiza las listas M3U con nuevos enlaces en cualquier momento. |
-| **`player/index.html`** | Reproductor Web OTT moderno tipo Smart TV con buscador, filtros y modo oscuro. |
+| **`cxtv_todos.m3u`** | Lista con todos los canales directos HLS a nivel mundial. |
+| **`player/index.html`** | Reproductor Web OTT moderno tipo Smart TV con pestañas En Vivo y VOD, Modo Cine, Selector de Calidad y guía EPG. |
 
 ---
 
