@@ -1,0 +1,111 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# CXTv IPTV Playlist: Canales Deportes y Premium TVporInternet
+# Guía EPG: Colombia y LATAM integrada
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="liga-1-max.tvpi" tvg-name="Liga 1 Max (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/liga1max.webp" group-title="⚽ Deportes Premium (TVpI)",Liga 1 Max (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/22/index.m3u8?token=ef2eb166d34d234174c8f74bf08e6f7e4f875e6a-760a5116fb057ac6ab665b67b638aa63-1795298750-1795277150
+#EXTINF:-1 tvg-id="tyc-sports.tvpi" tvg-name="TyC Sports (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tycsports.webp" group-title="⚽ Deportes Premium (TVpI)",TyC Sports (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/6/index.m3u8?token=6375ec3df64a184936d437fddc204b6f52e52708-de09da8131c749fec340d670e7d98adc-1795298750-1795277150
+#EXTINF:-1 tvg-id="sky-sports-la-liga.tvpi" tvg-name="Sky Sports La Liga (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/skysportslaliga.webp" group-title="⚽ Deportes Premium (TVpI)",Sky Sports La Liga (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/37/index.m3u8?token=e8017feabe53930603b9169b3bf028c590c072f9-ecca8b1091fd9f50ba46b44e0c717631-1795298750-1795277150
+#EXTINF:-1 tvg-id="directv-sports-2.tvpi" tvg-name="Directv Sports 2 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/directvsports2.webp" group-title="⚽ Deportes Premium (TVpI)",Directv Sports 2 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/7/index.m3u8?token=2a20dbc1f7222342b5b5be0008ecd78c0a7eeb8a-887fa68e41f1d51ed0ea5d7eba71bc64-1795298750-1795277150
+#EXTINF:-1 tvg-id="directv-sports.tvpi" tvg-name="Directv Sports (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/directvsports.webp" group-title="⚽ Deportes Premium (TVpI)",Directv Sports (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/3/index.m3u8?token=82735dc4f7841f92ee969885d0d23d6b21c74f6b-0ac9cbbff2a769ac8c91dfa7f486529c-1795298750-1795277150
+#EXTINF:-1 tvg-id="directv-sports-plus.tvpi" tvg-name="Directv Sports Plus (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/directvsportsplus.webp" group-title="⚽ Deportes Premium (TVpI)",Directv Sports Plus (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/11/index.m3u8?token=47ee148655401fc1119af471fd0592ff0244aed6-90f63106c945fdb7832e03243eb0fa1d-1795298750-1795277150
+#EXTINF:-1 tvg-id="liga-1.tvpi" tvg-name="Liga 1 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/liga1.webp" group-title="⚽ Deportes Premium (TVpI)",Liga 1 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/39/index.m3u8?token=25b54c3025f0aff56ecbbaf51649661c54d334f9-90d31411dc88c42fa005e78c331b2291-1795298750-1795277150
+#EXTINF:-1 tvg-id="tudn.tvpi" tvg-name="TUDN (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tudn.webp" group-title="⚽ Deportes Premium (TVpI)",TUDN (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/1/index.m3u8?token=1a59d772120bcecac9530de447e9fff06aba3f24-577f59371821b821705d41d9b6ef91bf-1795298750-1795277150
+#EXTINF:-1 tvg-id="espn-2.tvpi" tvg-name="ESPN 2 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn2.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 2 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/14/index.m3u8?token=814fe2758a24034d57b97b25742ce27cdd024ade-5bf82f72306462c04935ed67a12367b7-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-5.tvpi" tvg-name="ESPN 5 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn5.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 5 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/24/index.m3u8?token=6bd11d94bfd6af1f4668ba39016dbf4b759a82a6-32f7a1ef1bea6fe91146dbc1075539b0-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-4.tvpi" tvg-name="ESPN 4 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn4.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 4 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/23/index.m3u8?token=64d3a188c82a4272ad9a185cab60ba82ee760c2e-b23706e733f7171a148ac7b854748d7a-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-3.tvpi" tvg-name="ESPN 3 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn3.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 3 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/15/index.m3u8?token=d781cd124abd838b6ceedc0b4acdff05fd1e8273-f465ffe6a572b181a8f70d3b792d34a4-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-2-mexico.tvpi" tvg-name="ESPN 2 Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn2mexico.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 2 Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/20/index.m3u8?token=e533d58ff166d4963215fbf6318b7292f8923b8d-d893f29d335aa893d81b91637edb3a83-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-7.tvpi" tvg-name="ESPN 7 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn7.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 7 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/26/index.m3u8?token=9ccf1fb3c8e0571bd3ab86fd02fbdf4618d3aa22-0e2468d9f7948191ceac1a38a4307d18-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-mexico.tvpi" tvg-name="ESPN Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espnmexico.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/19/index.m3u8?token=a9462a27a0289f21fb33a26328446b45146fa95e-991bd632aa33b3a9897a26712bb7d2f3-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-3-mexico.tvpi" tvg-name="ESPN 3 Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn3mexico.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 3 Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/21/index.m3u8?token=6c43a822c9cac760402072ced66aed2659366904-88aab74cf62bcf608ea9ed3c73615271-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-6.tvpi" tvg-name="ESPN 6 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn6.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 6 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/25/index.m3u8?token=54cb767a21ac27f9b36a62f83983114420367398-dc2422a84a42353fc4b4862c52dfefe9-1795298751-1795277151
+#EXTINF:-1 tvg-id="espn-4-mexico.tvpi" tvg-name="ESPN 4 Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/espn4mexico.webp" group-title="⚽ Deportes Premium (TVpI)",ESPN 4 Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/33/index.m3u8?token=58fef0e33b5aa9d9aa196ab178979beb613f1e14-bfc1d7b5da94a19703b72fefd2de2507-1795298752-1795277152
+#EXTINF:-1 tvg-id="fox-sports.tvpi" tvg-name="Fox Sports (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsports.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/8/index.m3u8?token=abfbd4baa69a667e40e84694785319b3f14d42af-8b6f5f42d24d224f00ca7c8650d7c9c2-1795298752-1795277152
+#EXTINF:-1 tvg-id="fox-sports-2.tvpi" tvg-name="Fox Sports 2 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsports2.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports 2 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/9/index.m3u8?token=cb1829a2bfc92e4d8caeea8098191fbc72e40e93-7fcfef1343818aac8785ff82b396a210-1795298752-1795277152
+#EXTINF:-1 tvg-id="fox-sports-3.tvpi" tvg-name="Fox Sports 3 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsports3.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports 3 (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/10/index.m3u8?token=60f938a0e9b266d41c90f9517710518b029bdf3f-d813cee997747051f9ee98ff5e34f030-1795298753-1795277153
+#EXTINF:-1 tvg-id="fox-sports-3-mexico.tvpi" tvg-name="Fox Sports 3 Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsports3mexico.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports 3 Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/18/index.m3u8?token=22984d0e80a3bcc833e9a06a6e10e0557d84f325-cc458033eaf797e3ec0b169625f558e2-1795298753-1795277153
+#EXTINF:-1 tvg-id="fox-sports-2-mexico.tvpi" tvg-name="Fox Sports 2 Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsports2mx.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports 2 Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/17/index.m3u8?token=de523fe9f39a3696d74cb8b9eff6890b392619af-8374822565157665b334edc2cb75d1ed-1795298753-1795277153
+#EXTINF:-1 tvg-id="el-trece.tvpi" tvg-name="El Trece (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/eltrece.webp" group-title="🌎 Variedades Premium (TVpI)",El Trece (TVpI)
+https://regionales.saohgdassregions.com/playlist/4/index.m3u8?token=c7bac0d611ad4de8b1f0021a0af9985a7dc6248f-74b6ab2c769ae5b8746e571bfa2a267d-1795298753-1795277153
+#EXTINF:-1 tvg-id="telefe.tvpi" tvg-name="Telefe (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/telefe.webp" group-title="🌎 Variedades Premium (TVpI)",Telefe (TVpI)
+https://regionales.saohgdassregions.com/playlist/3/index.m3u8?token=6be3a6d37f92b593e2555e909d2454c505553274-3cdaeed3cf131777e355e90f72dca61b-1795298753-1795277153
+#EXTINF:-1 tvg-id="fox-sports-mexico.tvpi" tvg-name="Fox Sports Mexico (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/foxsportsmx.webp" group-title="⚽ Deportes Premium (TVpI)",Fox Sports Mexico (TVpI)
+https://deportes.ksdjugfssddeports.com/playlist/16/index.m3u8?token=4419cfd96cf1df8f92857a3341bae938e493cd97-af74babc41fa3576a5e297d4a0d543ce-1795298753-1795277153
+#EXTINF:-1 tvg-id="telemundo-51.tvpi" tvg-name="Telemundo 51 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/telemundo51.webp" group-title="🌎 Variedades Premium (TVpI)",Telemundo 51 (TVpI)
+https://regionales.saohgdassregions.com/playlist/6/index.m3u8?token=37e7668eb2f5fd086da146e1fade6a56149863ed-557cb9a0a8f918ce60ef0d625d8f03e7-1795298753-1795277153
+#EXTINF:-1 tvg-id="tlnovelas.tvpi" tvg-name="Tlnovelas (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tlnovelas.webp" group-title="🌎 Variedades Premium (TVpI)",Tlnovelas (TVpI)
+https://regionales.saohgdassregions.com/playlist/12/index.m3u8?token=0f0ae2566963b2004805b1ed82d825a39587ea76-43318400e175667d5e09f3578fcf5bfd-1795298753-1795277153
+#EXTINF:-1 tvg-id="las-estrellas.tvpi" tvg-name="Las Estrellas (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/lasestrellas.webp" group-title="🌎 Variedades Premium (TVpI)",Las Estrellas (TVpI)
+https://regionales.saohgdassregions.com/playlist/13/index.m3u8?token=00bbfef4e912b6f04b48ef37acdbc8134bf52f83-fb78164fa36b7f265f9a3fd75da044d0-1795298753-1795277153
+#EXTINF:-1 tvg-id="rcn.tvpi" tvg-name="RCN (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/rcn.webp" group-title="🌎 Variedades Premium (TVpI)",RCN (TVpI)
+https://regionales.saohgdassregions.com/playlist/18/index.m3u8?token=d4dd9136531924b13d91a234ade2387d993a9155-13c0892e0f73d4acb66a94cdc1b0fdca-1795298754-1795277154
+#EXTINF:-1 tvg-id="canal-5.tvpi" tvg-name="Canal 5 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/canal5.webp" group-title="🌎 Variedades Premium (TVpI)",Canal 5 (TVpI)
+https://regionales.saohgdassregions.com/playlist/2/index.m3u8?token=8da8f5fa3fe47fdfbcda762c85b4a22d401cbd9e-0b2df3c2efb4e4ff71f88a0af5df437b-1795298754-1795277154
+#EXTINF:-1 tvg-id="america-tv.tvpi" tvg-name="América TV (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/americatv.webp" group-title="🌎 Variedades Premium (TVpI)",América TV (TVpI)
+https://regionales.saohgdassregions.com/playlist/20/index.m3u8?token=abc8807f36cf420e5551c4c1c79bbda90a501e71-b8ee254b79c59864f592caa2a5a1484a-1795298754-1795277154
+#EXTINF:-1 tvg-id="disney-channel.tvpi" tvg-name="Disney Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/disneychannel.webp" group-title="👶 Niños e Infantil (TVpI)",Disney Channel (TVpI)
+https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=ec728bfa0142cc934f22b3a7970309d5e3bd0f81-81d87580c8586378c1de228c52614820-1795298754-1795277154
+#EXTINF:-1 tvg-id="latina.tvpi" tvg-name="Latina (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/latina.webp" group-title="🌎 Variedades Premium (TVpI)",Latina (TVpI)
+https://regionales.saohgdassregions.com/playlist/19/index.m3u8?token=7334783b91b76df06c6b0a98929b3528b6f7d79a-a6d327379fb47a12074b7e8f7c2108b0-1795298754-1795277154
+#EXTINF:-1 tvg-id="azteca-7.tvpi" tvg-name="Azteca 7 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/azteca7.webp" group-title="🌎 Variedades Premium (TVpI)",Azteca 7 (TVpI)
+https://regionales.saohgdassregions.com/playlist/1/index.m3u8?token=46ffa5fb10cb01d25426f97ed2c86386a7025a2c-732729d0f7192b84a1832c5b0c0f1016-1795298754-1795277154
+#EXTINF:-1 tvg-id="tooncast.tvpi" tvg-name="Tooncast (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tooncast.webp" group-title="👶 Niños e Infantil (TVpI)",Tooncast (TVpI)
+https://regionales.saohgdassregions.com/playlist/32/index.m3u8?token=11775f641f1c52ebc3a273daf78306391d7c463e-5b6569d637062c765087ce5f74b685eb-1795298754-1795277154
+#EXTINF:-1 tvg-id="cartoon-network.tvpi" tvg-name="Cartoon Network (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cartoonnetwork.webp" group-title="👶 Niños e Infantil (TVpI)",Cartoon Network (TVpI)
+https://regionales.saohgdassregions.com/playlist/31/index.m3u8?token=fc6b5873b142c215529e67a771184bfdb69ef978-746e22b52e6f8ac407f83f4af86880dc-1795298754-1795277154
+#EXTINF:-1 tvg-id="history-2.tvpi" tvg-name="History 2 (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/history2.webp" group-title="📚 Documentales (TVpI)",History 2 (TVpI)
+https://regionales.saohgdassregions.com/playlist/45/index.m3u8?token=e7d760ffc3c4411b28b1e1c83e67c02ba1d15dc8-017274a80c2905d49c7393ca497ef1e9-1795298755-1795277155
+#EXTINF:-1 tvg-id="history.tvpi" tvg-name="History (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/history.webp" group-title="📚 Documentales (TVpI)",History (TVpI)
+https://regionales.saohgdassregions.com/playlist/44/index.m3u8?token=d19322d39281d5e1594d96b8667e5edd7d90d5f4-833a698dc8d9aa9b5879ab77c5412c7f-1795298755-1795277155
+#EXTINF:-1 tvg-id="star-channel.tvpi" tvg-name="Star Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/starchannel.webp" group-title="🎬 Cine y Series Premium (TVpI)",Star Channel (TVpI)
+https://regionales.saohgdassregions.com/playlist/54/index.m3u8?token=03525e406b7b6e4897b61e0b4f0a78c62b74984b-f1f353e161449337bcead2bf1bcf02e8-1795298755-1795277155
+#EXTINF:-1 tvg-id="tnt-series.tvpi" tvg-name="TNT Series (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tntseries.webp" group-title="🎬 Cine y Series Premium (TVpI)",TNT Series (TVpI)
+https://regionales.saohgdassregions.com/playlist/53/index.m3u8?token=40d630050eb5313a05fc379487e787ba6e5ea5f8-2e0d2a17883e62e294fa9b939c766cf2-1795298755-1795277155
+#EXTINF:-1 tvg-id="tnt.tvpi" tvg-name="TNT (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tnt.webp" group-title="🎬 Cine y Series Premium (TVpI)",TNT (TVpI)
+https://regionales.saohgdassregions.com/playlist/52/index.m3u8?token=38746f5d382edb1638776df31e7d0a556025c5bf-111356f537c7095574a8753687e503e9-1795298755-1795277155
+#EXTINF:-1 tvg-id="cinemax.tvpi" tvg-name="Cinemax (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cinemax.webp" group-title="🎬 Cine y Series Premium (TVpI)",Cinemax (TVpI)
+https://regionales.saohgdassregions.com/playlist/55/index.m3u8?token=02c479643a51e67ff42940699829cd92ddeb812e-07ea6450855810f0b4eb780561a2f595-1795298756-1795277156
+#EXTINF:-1 tvg-id="warner-channel.tvpi" tvg-name="Warner Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/warnerbrostv.webp" group-title="🎬 Cine y Series Premium (TVpI)",Warner Channel (TVpI)
+https://regionales.saohgdassregions.com/playlist/58/index.m3u8?token=1ae49a31b9ffa636950e9129365434b68ce6905d-4287bc98099ccc208a8b037f655c51fd-1795298756-1795277156
+#EXTINF:-1 tvg-id="space.tvpi" tvg-name="Space (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/space.webp" group-title="🎬 Cine y Series Premium (TVpI)",Space (TVpI)
+https://regionales.saohgdassregions.com/playlist/56/index.m3u8?token=09192f368bd8e884a9304c95ecaaa116f6b0b52d-70b0d5014f211e969da615ac94df9773-1795298756-1795277156
+#EXTINF:-1 tvg-id="fx.tvpi" tvg-name="FX (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/fx.webp" group-title="🎬 Cine y Series Premium (TVpI)",FX (TVpI)
+https://regionales.saohgdassregions.com/playlist/60/index.m3u8?token=105916af96087a47ef906a8259e34d3ae98a2db3-c04f60a761dcf8c41352c0753a3a9e78-1795298757-1795277157
+#EXTINF:-1 tvg-id="axn.tvpi" tvg-name="AXN (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/axn.webp" group-title="🎬 Cine y Series Premium (TVpI)",AXN (TVpI)
+https://regionales.saohgdassregions.com/playlist/61/index.m3u8?token=53b2d3bfa9900c6aaab6777ac7990dbf038a1a6c-07ee7e603502178e375fe402f6f8246f-1795298757-1795277157
+#EXTINF:-1 tvg-id="amc.tvpi" tvg-name="AMC (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/amc.webp" group-title="🎬 Cine y Series Premium (TVpI)",AMC (TVpI)
+https://regionales.saohgdassregions.com/playlist/63/index.m3u8?token=48073234ae8e772a4dc1a3fa15d59d9a8f473aa6-3fff2e53deb53df1350d3983114fff9c-1795298757-1795277157
+#EXTINF:-1 tvg-id="cinecanal.tvpi" tvg-name="Cinecanal (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cinecanal.webp" group-title="🎬 Cine y Series Premium (TVpI)",Cinecanal (TVpI)
+https://regionales.saohgdassregions.com/playlist/59/index.m3u8?token=d3a408c408bde54a11d01d150392296d0e127eb7-f80fc8bbe7ad8afec61c9113f106f325-1795298757-1795277157
+#EXTINF:-1 tvg-id="studio-universal.tvpi" tvg-name="Studio Universal (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/studiouniversal.webp" group-title="🎬 Cine y Series Premium (TVpI)",Studio Universal (TVpI)
+https://regionales.saohgdassregions.com/playlist/64/index.m3u8?token=f39e0a630f17182b8798fa5d2aa5745646cfc916-9a0e42bfee54186d6cdf980024299fde-1795298757-1795277157
+#EXTINF:-1 tvg-id="golden.tvpi" tvg-name="Golden (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/golden.webp" group-title="🎬 Cine y Series Premium (TVpI)",Golden (TVpI)
+https://regionales.saohgdassregions.com/playlist/67/index.m3u8?token=f33e93aeab3c11c9f6163e7eb5becaa4b2b0b6ab-084f6f5ad94d0bc365abc529ebc229f6-1795298758-1795277158
+#EXTINF:-1 tvg-id="golden-edge.tvpi" tvg-name="Golden Edge (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/goldenedge.webp" group-title="🎬 Cine y Series Premium (TVpI)",Golden Edge (TVpI)
+https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=dbdf080e6748dee6db0b4f05ca2f687a086a692e-989270ae75f5363ef850c1536bc8bf1e-1795298758-1795277158
+#EXTINF:-1 tvg-id="canal-sony.tvpi" tvg-name="Canal Sony (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/canalsony.webp" group-title="🎬 Cine y Series Premium (TVpI)",Canal Sony (TVpI)
+https://regionales.saohgdassregions.com/playlist/72/index.m3u8?token=f4a7888993745f6b63f5451d1df7ecf234e5619c-492bc245fbccf82272b6a558016c8c12-1795298758-1795277158

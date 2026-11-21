@@ -1,0 +1,171 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+# CXTv IPTV Playlist: Canales Teleonline e Internacionales
+# Guía EPG: Colombia y LATAM integrada
+# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
+
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-name="24 Horas (720p) (TLO)" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="🇪🇸 España TDT (Teleonline)",24 Horas (720p) (TLO)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8
+#EXTINF:-1 tvg-id="3CatInfo.es@SD" tvg-name="3CatInfo (1080p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/3CatInfo_logo.svg/960px-3CatInfo_logo.svg.png" group-title="🇪🇸 España TDT (Teleonline)",3CatInfo (1080p) (TLO)
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 tvg-id="3CatCameresdeltemps.es@SD" tvg-name="3Cat Cameres del temps (1080p) (TLO)" tvg-logo="https://i.imgur.com/zXy2kbe.png" group-title="🇪🇸 España TDT (Teleonline)",3Cat Cameres del temps (1080p) (TLO)
+https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8
+#EXTINF:-1 tvg-id="3CatPlatsbruts.es@SD" tvg-name="3Cat Plats bruts (1080p) (TLO)" tvg-logo="https://i.imgur.com/49ZENis.png" group-title="🇪🇸 España TDT (Teleonline)",3Cat Plats bruts (1080p) (TLO)
+https://fast-tailor.3catdirectes.cat/v1/channel/ccma-channel2/hls.m3u8
+#EXTINF:-1 tvg-id="APunt.es@SD" tvg-name="A Punt (720p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logotip_d%27%C3%80_Punt_%282017-%29.svg/960px-Logotip_d%27%C3%80_Punt_%282017-%29.svg.png" group-title="🇪🇸 España TDT (Teleonline)",A Punt (720p) (TLO)
+https://fastly.live.brightcove.com/1846756479408303045/eu-central-1/6057955885001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZWFxNWh4LmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNjA1Nzk1NTg4NTAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI2MDU3OTU1ODg1MDAxIl0sImp0aSI6IjE4NDY3NTY0Nzk0MDgzMDMwNDUifQ.o6wb_VA-TVxl3ERgr7FKLlaTjY7smErmsf73QAydySE/playlist-hls-dvr.m3u8
+#EXTINF:-1 tvg-id="8LaMarinaTV.es@SD" tvg-name="8 La Marina TV (576p) (TLO)" tvg-logo="https://i.imgur.com/BTJvvBK.png" group-title="🇪🇸 España TDT (Teleonline)",8 La Marina TV (576p) (TLO)
+https://streaming005.gestec-video.com/hls/canal24.m3u8
+#EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" tvg-name="24 Horas Catalunya (720p) (TLO)" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="🇪🇸 España TDT (Teleonline)",24 Horas Catalunya (720p) (TLO)
+https://rtvelivestream.rtve.es/rtvesec/cat/24h_cat_main_dvr.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Sevilla" tvg-name="7TV Sevilla (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV Sevilla (TLO)
+https://especial7tv.gestec-video.com/hls/7TVSEVILLA.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Malaga" tvg-name="7TV Malaga (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV Malaga (TLO)
+https://streaming004.gestec-video.com/hls/7TVMALAGA.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Cordoba" tvg-name="7TV Cordoba (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV Cordoba (TLO)
+https://streaming004.gestec-video.com/hls/7TVCORDOBA.m3u8
+#EXTINF:-1 tvg-id="AlcarriaTV.es@SD" tvg-name="Alcarria TV (576p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/pzJAYan.png" group-title="🇪🇸 España TDT (Teleonline)",Alcarria TV (576p) [Not 24/7] (TLO)
+http://217.182.77.27/live/alcarriatv-livestream.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Jerez" tvg-name="7TV Jerez (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV Jerez (TLO)
+https://streaming004.gestec-video.com/hls/7TVJEREZ.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Jaen" tvg-name="7TV Jaen (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV Jaen (TLO)
+https://streaming004.gestec-video.com/hls/7TVJAEN.m3u8
+#EXTINF:-1 tvg-id="7TV.es@Andalucia" tvg-name="7TV (TLO)" tvg-logo="https://i.imgur.com/rnzMR9R.png" group-title="🇪🇸 España TDT (Teleonline)",7TV (TLO)
+https://especial7tv.gestec-video.com/hls/regional.m3u8
+#EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-name="Actualidad 360 (TLO)" tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="🇪🇸 España TDT (Teleonline)",Actualidad 360 (TLO)
+https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+#EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7 (TLO)" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="🇪🇸 España TDT (Teleonline)",Ana y los 7 (TLO)
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-name="Andromeda (TLO)" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="🇪🇸 España TDT (Teleonline)",Andromeda (TLO)
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+#EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-name="Az Corazon (720p) (TLO)" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="🇪🇸 España TDT (Teleonline)",Az Corazon (720p) (TLO)
+http://200.115.120.1:8000/play/ca020/index.m3u8
+#EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-name="BBC Drama (1080p) (TLO)" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="🇪🇸 España TDT (Teleonline)",BBC Drama (1080p) (TLO)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlacantiTV.es@SD" tvg-name="Alacanti TV (576p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/pcWU6e1.png" group-title="🇪🇸 España TDT (Teleonline)",Alacanti TV (576p) [Not 24/7] (TLO)
+https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
+#EXTINF:-1 tvg-id="ActivaTV.es@SD" tvg-name="Activa TV (720p) (TLO)" tvg-logo="https://i.imgur.com/VCUZKiw.png" group-title="🇪🇸 España TDT (Teleonline)",Activa TV (720p) (TLO)
+https://streamtv.mediasector.es/hls/activatv/index.m3u8
+#EXTINF:-1 tvg-id="ArchivosForenses.us@Spain" tvg-name="Archivos Forenses (TLO)" tvg-logo="https://i.imgur.com/Pxrl9Ug.png" group-title="🇪🇸 España TDT (Teleonline)",Archivos Forenses (TLO)
+https://jmp2.uk/plu-5f984f4a09e92d0007d74647.m3u8
+#EXTINF:-1 tvg-id="BonDiaTV.es@SD" tvg-name="Bon Dia TV (1080p) (TLO)" tvg-logo="https://i.imgur.com/VgRCu2U.png" group-title="🇪🇸 España TDT (Teleonline)",Bon Dia TV (1080p) (TLO)
+https://directes-tv-int.3catdirectes.cat/live-content/bondia-hls/master.m3u8
+#EXTINF:-1 tvg-id="ArabiTV.es@SD" tvg-name="Arabi TV (1080p) (TLO)" tvg-logo="https://i.ibb.co/9Vp9Ghg/LOGO-WEB-ARABI-TV-3.png" group-title="🇪🇸 España TDT (Teleonline)",Arabi TV (1080p) (TLO)
+https://streamtv2.elitecomunicacion.cloud:3628/live/arabitv2025live.m3u8
+#EXTINF:-1 tvg-id="Canal3TVBiar.es@SD" tvg-name="Canal 3 TV Biar (480p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/cnKCZkK.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 3 TV Biar (480p) [Not 24/7] (TLO)
+https://avantstreaming.es/hls/canal3.m3u8
+#EXTINF:-1 tvg-id="Canal4Mallorca.es@SD" tvg-name="Canal 4 Mallorca (1080p) (TLO)" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 4 Mallorca (1080p) (TLO)
+https://limited35.todostreaming.es/live/mitjans-livestream1.m3u8
+#EXTINF:-1 tvg-id="Canal4Catalunya.es@SD" tvg-name="Canal 4 Catalunya (1080p) (TLO)" tvg-logo="https://i.imgur.com/tQh8C3s.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 4 Catalunya (1080p) (TLO)
+https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
+#EXTINF:-1 tvg-id="12tv.es@SD" tvg-name="12tv (1080p) (TLO)" tvg-logo="https://i.imgur.com/VSTgXsh.png" group-title="🇪🇸 España TDT (Teleonline)",12tv (1080p) (TLO)
+https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8
+#EXTINF:-1 tvg-id="Canal45.es@SD" tvg-name="Canal 45 (576p) (TLO)" tvg-logo="https://i.imgur.com/yEfSnGt.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 45 (576p) (TLO)
+https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
+#EXTINF:-1 tvg-id="Canal10Emporda.es@SD" tvg-name="Canal 10 Emporda (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/ojQ6wzX.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 10 Emporda (360p) [Not 24/7] (TLO)
+https://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1 tvg-id="BTLTV.nl@SD" tvg-name="BTL TV (Netherlands) (1080p) (TLO)" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZYgQTsDhkbaqmPRCPZIf0UgZqF1wa6aG2eo8ti=s176-c-k-c0x00ffffff-no-rj-mo" group-title="🇪🇸 España TDT (Teleonline)",BTL TV (Netherlands) (1080p) (TLO)
+https://cdn.liveplustv.com/v1/live/btl-tv/master.m3u8
+#EXTINF:-1 tvg-id="Canal33Madrid.es@SD" tvg-name="Canal 33 Madrid (720p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_33_Madrid_2025.jpg/960px-Logo_Canal_33_Madrid_2025.jpg" group-title="🇪🇸 España TDT (Teleonline)",Canal 33 Madrid (720p) (TLO)
+https://media2.streambrothers.com:1936/8140/8140/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal1MarMenorTorrePacheco.es@SD" tvg-name="Canal 1 Mar Menor Torre Pacheco (1080p) (TLO)" tvg-logo="https://i.imgur.com/MQOwCdZ.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 1 Mar Menor Torre Pacheco (1080p) (TLO)
+https://directo.tuwebtv.es/canal1.m3u8
+#EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine (576p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" group-title="🇪🇸 España TDT (Teleonline)",Bom Cine (576p) (TLO)
+https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
+#EXTINF:-1 tvg-id="Canal56.es@SD" tvg-name="Canal 56 (576p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/pwRVbCz.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 56 (576p) [Not 24/7] (TLO)
+https://videos.canal56.com/directe/stream/index.m3u8
+#EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-name="Bob Esponja (720p) (TLO)" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="🇪🇸 España TDT (Teleonline)",Bob Esponja (720p) (TLO)
+https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
+#EXTINF:-1 tvg-id="Canal4ManchaCentro.es@SD" tvg-name="Canal 4 Mancha Centro (720p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/t3O3O9M.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 4 Mancha Centro (720p) [Not 24/7] (TLO)
+https://5924d3ad0efcf.streamlock.net/canal4/canal4live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSierradeCadiz.es@SD" tvg-name="Canal Sierra de Cadiz (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/94rn7pb.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Sierra de Cadiz (1080p) [Not 24/7] (TLO)
+https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
+#EXTINF:-1 tvg-id="CanalDiocesano.es@SD" tvg-name="Canal Diocesano (576p) (TLO)" tvg-logo="https://i.imgur.com/uWhVKL3.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Diocesano (576p) (TLO)
+https://nlb2-live.emitstream.com/hls/5i3pxfuz4az356yu22ij/master.m3u8
+#EXTINF:-1 tvg-id="CanalCoinTV.es@SD" tvg-name="Canal Coin TV (1080p) (TLO)" tvg-logo="https://i.imgur.com/3QPJIpa.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Coin TV (1080p) (TLO)
+https://canalcoin.garjim.es/hls/directo.m3u8
+#EXTINF:-1 tvg-id="CanalSur2.es@SD" tvg-name="Canal Sur 2 (720p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Canal_Sur_2_-_2017_logo.png/500px-Canal_Sur_2_-_2017_logo.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Sur 2 (720p) (TLO)
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal7TeleValencia.es@SD" tvg-name="Canal 7 TeleValencia (576p) (TLO)" tvg-logo="https://i.imgur.com/ILfXDRs.png" group-title="🇪🇸 España TDT (Teleonline)",Canal 7 TeleValencia (576p) (TLO)
+https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Spanish" tvg-name="Angel TV Spanish (720p) (TLO)" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🇪🇸 España TDT (Teleonline)",Angel TV Spanish (720p) (TLO)
+https://janya-digimix.akamaized.net/vglive-sk-351398/spanish/ngrp:angelspanish_all/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSanRoque.es@SD" tvg-name="Canal San Roque (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/SN9kFKh.png" group-title="🇪🇸 España TDT (Teleonline)",Canal San Roque (1080p) [Not 24/7] (TLO)
+https://cdnlivevlc.codev8.net/aytosanroquelive/smil:channel1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalMalagaRTV.es@SD" tvg-name="Canal Malaga RTV (720p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/QSUOxtM.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Malaga RTV (720p) [Not 24/7] (TLO)
+https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurNoticias.es@SD" tvg-name="Canal Sur Noticias (TLO)" tvg-logo="https://i.imgur.com/A3JscwS.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Sur Noticias (TLO)
+https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalSurAndalucia.es@SD" tvg-name="Canal Sur Andalucia (1080p) (TLO)" tvg-logo="https://i.imgur.com/lznnA4v.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Sur Andalucia (1080p) (TLO)
+https://dfk2a268yviz9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ddiii1m6jt6of/CanalSurAndaluciaES.m3u8
+#EXTINF:-1 tvg-id="CanalParlamento.es@SD" tvg-name="Canal Parlamento (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/BUO0wH6.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Parlamento (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2037973/canalparlamento/master.m3u8
+#EXTINF:-1 tvg-id="CanalDonana.es@SD" tvg-name="Canal Donana (720p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/0WrKIxm.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Donana (720p) [Not 24/7] (TLO)
+https://secure5.todostreaming.es/live/division-alm.m3u8
+#EXTINF:-1 tvg-id="CetelmonTV.es@SD" tvg-name="Cetelmon TV (404p) (TLO)" tvg-logo="https://i.imgur.com/GGn7itj.png" group-title="🇪🇸 España TDT (Teleonline)",Cetelmon TV (404p) (TLO)
+http://player.cetelmon.tv/protecteddfd43c2f3a8b41f3f28582bf8993aca6/992_high.m3u8
+#EXTINF:-1 tvg-id="Clan.es@SD" tvg-name="Clan (1080p) (TLO)" tvg-logo="https://i.ibb.co/vv3FC2Nv/clan.png" group-title="🇪🇸 España TDT (Teleonline)",Clan (1080p) (TLO)
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 tvg-id="CMMTV.es@HD" tvg-name="CMM TV HD (1080p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/960px-CMMedia.svg.png" group-title="🇪🇸 España TDT (Teleonline)",CMM TV HD (1080p) (TLO)
+https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_gnz6ity9/protocol/https/format/applehttp/flavorIds/1_a9gxgxzy,1_v71ryg4b,1_vbfvtjw6,1_obo1bqsx,1_3shk3s5d/a.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki (1080p) (TLO)" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="🇪🇸 España TDT (Teleonline)",Cine Friki (1080p) (TLO)
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
+#EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-name="Cine Western (Spain) (1080p) (TLO)" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="🇪🇸 España TDT (Teleonline)",Cine Western (Spain) (1080p) (TLO)
+https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="CanalTaronjaComarquesCentrals.es@SD" tvg-name="Canal Taronja Comarques Centrals (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/RP8VcqZ.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Taronja Comarques Centrals (1080p) [Not 24/7] (TLO)
+https://ingest1-video.streaming-pro.com/canaltaronja/central/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalTerrassa.es@SD" tvg-name="Canal Terrassa (1080p) (TLO)" tvg-logo="https://i.imgur.com/5fc5ZyI.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Terrassa (1080p) (TLO)
+https://ingest2-video.streaming-pro.com/canalterrassa/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CiudadesdelOcioTV.es@SD" tvg-name="Ciudades del Ocio TV (720p) (TLO)" tvg-logo="https://i.imgur.com/CTQgqsM.png" group-title="🇪🇸 España TDT (Teleonline)",Ciudades del Ocio TV (720p) (TLO)
+https://cloudvideo.servers10.com:8081/8024/index.m3u8
+#EXTINF:-1 tvg-id="CanalTaronjaOsonaiMoianes.es@SD" tvg-name="Canal Taronja Osona i Moianes (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/RP8VcqZ.png" group-title="🇪🇸 España TDT (Teleonline)",Canal Taronja Osona i Moianes (1080p) [Not 24/7] (TLO)
+https://ingest1-video.streaming-pro.com/canaltaronja/osona/playlist.m3u8
+#EXTINF:-1 tvg-id="ComediaalobestiadePlutoTV.de@ES" tvg-name="Comedia a lo bestia de Pluto TV (TLO)" tvg-logo="https://images.pluto.tv/channels/68de3db35fc0afe85de0b843/colorLogoPNG_1759402494389.png" group-title="🇪🇸 España TDT (Teleonline)",Comedia a lo bestia de Pluto TV (TLO)
+https://jmp2.uk/plu-68de3db35fc0afe85de0b843.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados3.es@SD" tvg-name="Congreso de los Diputados 3 (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="🇪🇸 España TDT (Teleonline)",Congreso de los Diputados 3 (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2038276/canal3/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados1.es@SD" tvg-name="Congreso de los Diputados 1 (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/3Qxpe72.png" group-title="🇪🇸 España TDT (Teleonline)",Congreso de los Diputados 1 (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2038274/canal1/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados2.es@SD" tvg-name="Congreso de los Diputados 2 (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/ffN2LE3.png" group-title="🇪🇸 España TDT (Teleonline)",Congreso de los Diputados 2 (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2038275/canal2/master.m3u8
+#EXTINF:-1 tvg-id="CurroJimenez.us@Spain" tvg-name="Curro Jimenez (TLO)" tvg-logo="https://i.imgur.com/e3biTY5.png" group-title="🇪🇸 España TDT (Teleonline)",Curro Jimenez (TLO)
+https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
+#EXTINF:-1 tvg-id="CostaNoroesteTV.es@SD" tvg-name="Costa Noroeste TV (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/iM9AN6Z.png" group-title="🇪🇸 España TDT (Teleonline)",Costa Noroeste TV (1080p) [Not 24/7] (TLO)
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados4.es@SD" tvg-name="Congreso de los Diputados 4 (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="🇪🇸 España TDT (Teleonline)",Congreso de los Diputados 4 (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2038277/canal4/master.m3u8
+#EXTINF:-1 tvg-id="DMAX.es@SD" tvg-name="DMAX (Spain) (TLO)" tvg-logo="https://i.imgur.com/En2sLlW.png" group-title="🇪🇸 España TDT (Teleonline)",DMAX (Spain) (TLO)
+http://90.163.85.113:8093/stream/51/index.m3u8
+#EXTINF:-1 tvg-id="DistritoTV.es@SD" tvg-name="Distrito TV (1080p) (TLO)" tvg-logo="https://i.imgur.com/AqGIoIt.png" group-title="🇪🇸 España TDT (Teleonline)",Distrito TV (1080p) (TLO)
+https://nlb2-live.emitstream.com/hls/3mn7wpcv7hbmxmdzaxap/master.m3u8
+#EXTINF:-1 tvg-id="CongresodelosDiputados5.es@SD" tvg-name="Congreso de los Diputados 5 (360p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/2LAzcH8.jpg" group-title="🇪🇸 España TDT (Teleonline)",Congreso de los Diputados 5 (360p) [Not 24/7] (TLO)
+https://congresodirecto.akamaized.net/hls/live/2038278/canal5/master.m3u8
+#EXTINF:-1 tvg-id="DurangaldekoTelebista.es@SD" tvg-name="Durangaldeko Telebista (576p) (TLO)" tvg-logo="https://i.imgur.com/qdlW6cg.png" group-title="🇪🇸 España TDT (Teleonline)",Durangaldeko Telebista (576p) (TLO)
+https://nlb2-live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 tvg-id="DiezTVUbeda.es@SD" tvg-name="Diez TV Ubeda (1080p) (TLO)" tvg-logo="https://i.imgur.com/o2a7s4W.png" group-title="🇪🇸 España TDT (Teleonline)",Diez TV Ubeda (1080p) (TLO)
+https://streaming.cloud.innovasur.es/mmj/index.m3u8
+#EXTINF:-1 tvg-id="DiezTVLasVillas.es@SD" tvg-name="Diez TV Las Villas (1080p) (TLO)" tvg-logo="https://i.imgur.com/QTA40lP.png" group-title="🇪🇸 España TDT (Teleonline)",Diez TV Las Villas (1080p) (TLO)
+https://streaming.cloud.innovasur.es/mmj2/index.m3u8
+#EXTINF:-1 tvg-id="El33.es@Originals" tvg-name="El 33 Originals (1080p) [Not 24/7] (TLO)" tvg-logo="https://i.imgur.com/frKCBTN.png" group-title="🇪🇸 España TDT (Teleonline)",El 33 Originals (1080p) [Not 24/7] (TLO)
+https://directes-tv-int.3catdirectes.cat/live-content/c33-super3-hls/master.m3u8
+#EXTINF:-1 tvg-id="DetectiveConan.us@Spain" tvg-name="Detective Conan (TLO)" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" group-title="🇪🇸 España TDT (Teleonline)",Detective Conan (TLO)
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-id="CrimenHistoria.es@SD" tvg-name="Crimen & Historia (720p) (TLO)" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="🇪🇸 España TDT (Teleonline)",Crimen & Historia (720p) (TLO)
+https://jmp2.uk/plu-64ddcbb14c5ed80008fad416.m3u8
+#EXTINF:-1 tvg-id="Esport3.es@Originals" tvg-name="Esport3 Originals (1080p) [Not 24/7] (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/960px-Esport3.svg.png" group-title="🇪🇸 España TDT (Teleonline)",Esport3 Originals (1080p) [Not 24/7] (TLO)
+https://directes-tv-int.3catdirectes.cat/live-content/esport3-hls/master.m3u8
+#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" tvg-name="Empenos a lo bestia (TLO)" tvg-logo="https://i.imgur.com/EOttSdW.png" group-title="🇪🇸 España TDT (Teleonline)",Empenos a lo bestia (TLO)
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
+#EXTINF:-1 tvg-id="ElComisario.us@Spain" tvg-name="El Comisario (TLO)" tvg-logo="https://i.imgur.com/XYt8utn.png" group-title="🇪🇸 España TDT (Teleonline)",El Comisario (TLO)
+https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
+#EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-name="El encantador de perros (TLO)" tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="🇪🇸 España TDT (Teleonline)",El encantador de perros (TLO)
+https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+#EXTINF:-1 tvg-id="EmpordaTV.es@SD" tvg-name="Emporda TV (1080p) (TLO)" tvg-logo="https://i.imgur.com/jc0lUbX.png" group-title="🇪🇸 España TDT (Teleonline)",Emporda TV (1080p) (TLO)
+https://video3.lhdserver.es/empordatv2/live.m3u8
+#EXTINF:-1 tvg-id="ElMueble.es@SD" tvg-name="El Mueble (720p) (TLO)" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d64983e2-55b1-410b-9599-98a28f7b94ba/Logo_ElMueble_1500x1000_AllWhite_-_Belen_Bruno.png" group-title="🇪🇸 España TDT (Teleonline)",El Mueble (720p) (TLO)
+https://jmp2.uk/plu-690dd10a37b131228d76d5b1.m3u8
+#EXTINF:-1 tvg-id="Elche7TV.es@SD" tvg-name="Elche 7 TV (576p) (TLO)" tvg-logo="https://i.imgur.com/tjI0dLx.png" group-title="🇪🇸 España TDT (Teleonline)",Elche 7 TV (576p) (TLO)
+https://elche7tv.gestec-video.com/hls/canal2.m3u8
+#EXTINF:-1 tvg-id="Enelpuntodemira.us@Spain" tvg-name="En el punto de mira (TLO)" tvg-logo="https://i.imgur.com/E9grXd9.png" group-title="🇪🇸 España TDT (Teleonline)",En el punto de mira (TLO)
+https://jmp2.uk/plu-61922be835f3910007fc58f6.m3u8
+#EXTINF:-1 tvg-id="ElToroTV.es@SD" tvg-name="El Toro TV (720p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eltorotv.png" group-title="🇪🇸 España TDT (Teleonline)",El Toro TV (720p) (TLO)
+https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8

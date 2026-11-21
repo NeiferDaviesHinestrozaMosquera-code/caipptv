@@ -51,6 +51,8 @@ def main():
 
     files_to_copy = [
         "cxtv_caixun_smarttv.m3u",
+        "cxtv_tvporinternet.m3u",
+        "cxtv_teleonline.m3u",
         "cxtv_colombia.m3u",
         "cxtv_latam.m3u",
         "cxtv_pluto_tv.m3u",

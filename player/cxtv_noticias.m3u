@@ -6,7 +6,7 @@
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - General",Caracol TV HD
 http://138.121.15.230:9002/CARACOL/index.m3u8
 #EXTINF:-1 tvg-id="Caracol.co" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - General",Caracol Internacional
-http://167.249.23.102:8000/play/a0ax/index.m3u8
+https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="Canal RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RCN_Television_logo.svg" group-title="🇨🇴 Colombia - General",Canal RCN HD
 http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-id="Canal.Institucional.co" tvg-name="Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal_Institucional_logo_2020.svg" group-title="🇨🇴 Colombia - Público",Canal Institucional
@@ -26,11 +26,25 @@ http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
 #EXTINF:-1 tvg-id="Cablenoticias.co" tvg-name="Cablenoticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo_Cablenoticias.png" group-title="📰 Noticias",Cablenoticias HD
 http://181.78.211.244:8005/play/a09u/index.m3u8
 #EXTINF:-1 tvg-id="NTN24.co" tvg-name="NTN24 Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/NTN24_logo.png" group-title="📰 Noticias",NTN24 Noticias HD
-http://181.78.12.119:16123/play/ch80/index.m3u8
+https://stream1.bitred.cl/ntn24/index.m3u8
 #EXTINF:-1 tvg-id="BluRadio.co" tvg-name="Blu Radio TV en Vivo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Blu_Radio_logo.png" group-title="🇨🇴 Colombia - Noticias",Blu Radio TV en Vivo
 https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 #EXTINF:-1 tvg-id="Red+.co" tvg-name="Red+ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Red%2B_logo.png" group-title="🇨🇴 Colombia - General",Red+ TV
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHD)/index.m3u8
+#EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-name="Actualidad 360 (TLO)" tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="🇪🇸 España TDT (Teleonline)",Actualidad 360 (TLO)
+https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+#EXTINF:-1 tvg-id="pluto-euronews-espanol" tvg-name="Euronews Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="📰 Noticias",Euronews Español
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=978a4d62-e8bb-4ec6-8643-75c8dc384a3a&sid=87751e6d-2ce8-4b77-9d5d-e6db90cd200a
+#EXTINF:-1 tvg-id="pluto-cbs-news-ptv1" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png" group-title="📰 Noticias",CBS News 24/7
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=3081c990-1f39-48b0-bf8f-174d60347c68&sid=16667c89-9d32-4a40-99a1-c2bb2fa2bd5e
+#EXTINF:-1 tvg-id="pluto-teleformula" tvg-name="TeleFórmula" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="📰 Noticias",TeleFórmula
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=e9e05a83-88c1-43b6-a0ee-9b600a1db130&sid=6336da5f-e48b-416f-b627-e6603b672e4d
+#EXTINF:-1 tvg-id="pluto-milenio-television" tvg-name="Milenio Televisión" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png" group-title="📰 Noticias",Milenio Televisión
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652e922db4b047000825f975/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=816220dd-81c4-4577-9103-fb69648e60b9&sid=06fd9d0d-f350-4cdf-8fd3-1b97e96f4fe2
+#EXTINF:-1 tvg-id="pluto-c4-en-alerta" tvg-name="C4 en Alerta" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="📰 Noticias",C4 en Alerta
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=fd3e88e9-fed5-4c2a-a045-4abe14e0e214&sid=452c0612-c8dc-4981-8342-bbcd7dd4b90c
+#EXTINF:-1 tvg-id="pluto-rcn-noticias" tvg-name="RCN Noticias" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1785346064037.png" group-title="📰 Noticias",RCN Noticias
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=edd1c0eb-80a7-485f-8dcf-dcd19d03e692&sid=382a39f3-3dba-45f6-90b6-d50d9724a617
 #EXTINF:-1 tvg-id="15-tv" tvg-name="15 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e277fbff1d036a1c11aa18f8befee081.webp" group-title="📰 Noticias",15 TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-id="12-news-mesa" tvg-name="12 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/20d0f2c57f5f03080aff57ed31650dd5.webp" group-title="📰 Noticias",12 News
@@ -763,15 +777,3 @@ https://content.uplynk.com/channel/6fa0a800fced48afa1746a3be559dd0e.m3u8
 https://yahoofina-yahoofinance-plex-kgckp.amagi.tv/playlist/yahoofina-yahoofinance-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="zee-news" tvg-name="Zee News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/dda03267507597e91bb61e316f34f44a.webp" group-title="📰 Noticias",Zee News
 https://dknttpxmr0dwf.cloudfront.net/index_3.m3u8
-#EXTINF:-1 tvg-id="pluto-euronews-espanol" tvg-name="Euronews Español" tvg-logo="https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG_1781045575622.png" group-title="📰 Noticias",Euronews Español
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=c9b2e13c-f911-43cd-84ff-7c8470f01d3e&sid=d24858f8-edf8-47be-a00f-4fc888ae70fc
-#EXTINF:-1 tvg-id="pluto-cbs-news-ptv1" tvg-name="CBS News 24/7" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1778002301638.png" group-title="📰 Noticias",CBS News 24/7
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=d7d32798-89c1-416b-8c1c-90a479226626&sid=0fc48211-e20f-455d-827d-52131d939131
-#EXTINF:-1 tvg-id="pluto-teleformula" tvg-name="TeleFórmula" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png" group-title="📰 Noticias",TeleFórmula
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=cd9623f8-4ba4-451e-a5f5-48af2f38ee06&sid=4ff18bfb-3e9d-4c0d-b774-66615d812c35
-#EXTINF:-1 tvg-id="pluto-milenio-television" tvg-name="Milenio Televisión" tvg-logo="https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG_1785346213587.png" group-title="📰 Noticias",Milenio Televisión
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/652e922db4b047000825f975/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=30447027-7ed1-4445-b635-07e4700df83b&sid=e32eebad-efa0-48e7-8e7d-d1dfed1fbbf6
-#EXTINF:-1 tvg-id="pluto-c4-en-alerta" tvg-name="C4 en Alerta" tvg-logo="https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png" group-title="📰 Noticias",C4 en Alerta
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=a7d8548e-1479-4905-8b7a-e3d8890fff04&sid=881eb3eb-ec84-4728-8d4e-ae9060a1c0f1
-#EXTINF:-1 tvg-id="pluto-rcn-noticias" tvg-name="RCN Noticias" tvg-logo="https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1785346064037.png" group-title="📰 Noticias",RCN Noticias
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=62e159b3-7769-4509-b08f-b0efa503c868&sid=e949d0d7-3191-4691-9956-a4909d73f525

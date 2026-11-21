@@ -8,20 +8,48 @@ SPANISH_COUNTRIES = [
     "Colombia", "México", "Mejico", "Argentina", "España", "Chile", "Perú", "Peru",
     "Ecuador", "Venezuela", "Bolivia", "Uruguay", "Paraguay", "Panamá", "Panama",
     "Costa Rica", "Guatemala", "Honduras", "El Salvador", "Nicaragua",
-    "República Dominicana", "Puerto Rico", "Cuba"
+    "República Dominicana", "Puerto Rico", "Cuba", "Latinoamérica"
 ]
 
 def clean_string(s):
     return re.sub(r'[\r\n\t]+', ' ', s).strip()
 
 def get_canonical_category(channel):
-    # If channel already has a designated emoji category, preserve it
-    if channel.get('group') and any(channel.get('group', '').startswith(e) for e in ['🇨🇴', '⚽', '🎬', '📰', '👶', '🎵', '📺', '📚', '🙏', '👾', '✨', '🌎', '🌐']):
+    # Preserved designated emoji category
+    if channel.get('group') and any(channel.get('group', '').startswith(e) for e in ['🇨🇴', '⚽', '🎬', '📰', '👶', '🎵', '📺', '📚', '🙏', '👾', '✨', '🌎', '🌐', '🇪🇸', '🍿']):
         return channel['group']
 
-    country = channel.get('country', 'Internacional')
+    cid = channel.get('id', '')
+    cat = channel.get('category', '')
     categories = [c.lower() for c in channel.get('categories', [])]
-    
+    if cat:
+        categories.append(cat.lower())
+    country = channel.get('country', 'Internacional')
+
+    # TVporInternet Premium Channels
+    if cid.startswith('tvpi-') or channel.get('source') == 'TVporInternet.org':
+        if 'deportes' in categories:
+            return "⚽ Deportes Premium (TVpI)"
+        if any(k in categories for k in ['cine', 'cine y series', 'series']):
+            return "🎬 Cine y Series Premium (TVpI)"
+        if 'infantil' in categories:
+            return "👶 Niños e Infantil (TVpI)"
+        if 'documentales' in categories:
+            return "📚 Documentales (TVpI)"
+        return "🌎 Variedades Premium (TVpI)"
+
+    # Teleonline Channels
+    if cid.startswith('tlo-') or 'Teleonline' in channel.get('source', ''):
+        if country == "España":
+            return "🇪🇸 España TDT (Teleonline)"
+        if country == "Colombia":
+            return "🇨🇴 Colombia (Teleonline)"
+        if any(k in categories for k in ['sports', 'deportes']):
+            return "⚽ Deportes (Teleonline)"
+        if any(k in categories for k in ['news', 'noticias']):
+            return "📰 Noticias (Teleonline)"
+        return f"🌎 {country} (Teleonline)"
+
     # Priority for Colombia
     if country == "Colombia":
         if any(k in categories for k in ['deportes', 'deportes1', 'futbol']):
@@ -30,19 +58,19 @@ def get_canonical_category(channel):
             return "🇨🇴 Colombia - Noticias"
         return "🇨🇴 Colombia"
         
-    if any(k in categories for k in ['deportes', 'deportes1', 'futbol', 'coches']):
+    if any(k in categories for k in ['deportes', 'deportes1', 'futbol', 'coches', 'sports']):
         return "⚽ Deportes"
-    if any(k in categories for k in ['cine', 'serie', 'telenovelas']):
+    if any(k in categories for k in ['cine', 'serie', 'telenovelas', 'movies', 'series']):
         return "🎬 Cine y Series"
-    if any(k in categories for k in ['noticias', 'clima']):
+    if any(k in categories for k in ['noticias', 'clima', 'news']):
         return "📰 Noticias"
-    if any(k in categories for k in ['niños', 'ninos']):
+    if any(k in categories for k in ['niños', 'ninos', 'kids', 'animation']):
         return "👶 Niños e Infantil"
-    if any(k in categories for k in ['música', 'musica']):
+    if any(k in categories for k in ['música', 'musica', 'music']):
         return "🎵 Música"
-    if any(k in categories for k in ['documentales', 'educación', 'educacion', 'cultura']):
+    if any(k in categories for k in ['documentales', 'educación', 'educacion', 'cultura', 'documentary']):
         return "📚 Cultura y Documentales"
-    if any(k in categories for k in ['católico', 'catolico', 'evangélico', 'evangelico']):
+    if any(k in categories for k in ['católico', 'catolico', 'evangélico', 'evangelico', 'religious']):
         return "🙏 Religión y Fe"
     if country in SPANISH_COUNTRIES:
         return f"🌎 {country} - Variedades"
@@ -73,41 +101,58 @@ def generate_playlists():
     # 1. Direct HLS streams only
     hls_channels = [c for c in channels if c.get('stream_type') == 'hls' and c.get('stream_url')]
     
-    # 2. Colombia channels
+    # 2. Source-specific channels
+    tvpi_channels = [c for c in hls_channels if c.get('id', '').startswith('tvpi-') or c.get('source') == 'TVporInternet.org']
+    teleonline_channels = [c for c in hls_channels if c.get('id', '').startswith('tlo-') or 'Teleonline' in c.get('source', '')]
+    pluto_channels = [c for c in hls_channels if 'pluto' in c.get('id', '') or 'Pluto TV' in c.get('categories', [])]
+
+    # 3. Colombia channels
     colombia_channels = [c for c in hls_channels if c.get('country') == 'Colombia']
 
-    # 3. Spanish / LATAM channels
+    # 4. Spanish / LATAM channels
     latam_channels = [
         c for c in hls_channels 
-        if any(sc.lower() in c.get('country', '').lower() for sc in SPANISH_COUNTRIES)
+        if any(sc.lower() in c.get('country', '').lower() for sc in SPANISH_COUNTRIES) or c.get('id', '').startswith(('tvpi-', 'tlo-'))
     ]
 
-    # 4. Smart TV Curated list (Latin America + Top Entertainment / Sports / News)
+    # 5. Smart TV Curated list (Latin America + Top Entertainment / Sports / News)
     # Exclude streams verified as dead/offline
     active_hls = [c for c in hls_channels if c.get('is_active') is not False]
-    active_latam = [c for c in latam_channels if c.get('is_active') is not False]
-
+    
     smart_tv_channels = []
-    smart_tv_channels.extend(active_latam)
+    # Add TVporInternet premium first (ESPN, Directv Sports, Warner, etc.)
+    for c in tvpi_channels:
+        if c.get('is_active') is not False and c not in smart_tv_channels:
+            smart_tv_channels.append(c)
+            
+    # Add Colombia HD
+    for c in colombia_channels:
+        if c.get('is_active') is not False and c not in smart_tv_channels:
+            smart_tv_channels.append(c)
+
+    # Add verified Teleonline (Spain / Latam)
+    for c in teleonline_channels:
+        if c.get('is_active') is not False and c not in smart_tv_channels:
+            smart_tv_channels.append(c)
+
+    # Add Latam and Pluto
     for c in active_hls:
         if c not in smart_tv_channels:
-            cats = [cat.lower() for cat in c.get('categories', [])]
-            if any(k in cats for k in ['cine', 'serie', 'musica', 'deportes1', 'futbol', 'documentales']):
+            if any(sc.lower() in c.get('country', '').lower() for sc in SPANISH_COUNTRIES) or c.get('id', '').startswith('pluto-'):
                 smart_tv_channels.append(c)
 
-    # 5. Specialized Category Playlists (All direct HLS)
+    # 6. Specialized Category Playlists (All direct HLS)
     def match_cat(c, keywords):
         cats = [k.lower() for k in c.get('categories', [])]
+        if c.get('category'):
+            cats.append(c.get('category').lower())
         return any(k in cats for k in keywords)
 
-    deportes_channels = [c for c in hls_channels if match_cat(c, ['deportes', 'deportes1', 'futbol', 'coches'])]
-    cine_channels = [c for c in hls_channels if match_cat(c, ['cine', 'serie', 'telenovelas'])]
-    noticias_channels = [c for c in hls_channels if match_cat(c, ['noticias', 'clima'])]
-    infantil_channels = [c for c in hls_channels if match_cat(c, ['niños', 'ninos'])]
-    musica_channels = [c for c in hls_channels if match_cat(c, ['música', 'musica'])]
-
-    # 6. Pluto TV channels
-    pluto_channels = [c for c in hls_channels if 'pluto' in c.get('id', '') or 'Pluto TV' in c.get('categories', [])]
+    deportes_channels = [c for c in hls_channels if match_cat(c, ['deportes', 'deportes1', 'futbol', 'coches', 'sports'])]
+    cine_channels = [c for c in hls_channels if match_cat(c, ['cine', 'serie', 'telenovelas', 'movies', 'series', 'cine y series'])]
+    noticias_channels = [c for c in hls_channels if match_cat(c, ['noticias', 'clima', 'news'])]
+    infantil_channels = [c for c in hls_channels if match_cat(c, ['niños', 'ninos', 'infantil', 'kids', 'animation'])]
+    musica_channels = [c for c in hls_channels if match_cat(c, ['música', 'musica', 'music'])]
 
     # 7. Full list including web & youtube
     all_with_web = [c for c in channels if c.get('stream_url')]
@@ -132,6 +177,8 @@ def generate_playlists():
         print(f"-> Generated {filename} with {len(channel_list)} channels.")
 
     write_m3u("cxtv_caixun_smarttv.m3u", smart_tv_channels, "Optimizado para Caixun Whale OS con Categorías")
+    write_m3u("cxtv_tvporinternet.m3u", tvpi_channels, "Canales Deportes y Premium TVporInternet")
+    write_m3u("cxtv_teleonline.m3u", teleonline_channels, "Canales Teleonline e Internacionales")
     write_m3u("cxtv_colombia.m3u", colombia_channels, "Canales de Colombia")
     write_m3u("cxtv_latam.m3u", latam_channels, "Canales en Español y Latinoamérica")
     write_m3u("cxtv_pluto_tv.m3u", pluto_channels, "Canales FAST Gratuitos Pluto TV Latino")

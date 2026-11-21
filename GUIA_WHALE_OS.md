@@ -9,6 +9,8 @@
 | Archivo / Carpeta | Descripción |
 | :--- | :--- |
 | **`cxtv_caixun_smarttv.m3u`** | **⭐ Lista recomendada para tu TV Caixun.** Canales en español, Colombia, deportes, películas, series y noticias con streams HLS directos de alta compatibilidad y guía EPG integrada. |
+| **`cxtv_tvporinternet.m3u`** | **⚽ Canales Premium & Deportes TVporInternet:** ESPN (1-7), Fox Sports (1-3), Directv Sports (1, 2, Plus), Sky Sports, TyC, Star Channel, Warner, Cinecanal, etc. |
+| **`cxtv_teleonline.m3u`** | **📺 Canales Teleonline / iptv-org:** Canales verificados en abierto de España (TDT RTVE), Colombia y Latinoamérica. |
 | **`cxtv_colombia.m3u`** | Lista exclusiva de canales de Colombia (Caracol, RCN, Señal Colombia, Win Sports, Teleantioquia, etc.). |
 | **`cxtv_vod_peliculas.m3u`** | **🍿 Lista VOD Películas:** Catálogo de películas clásicas y de dominio público a la carta bajo demanda. |
 | **`cxtv_pluto_tv.m3u`** | Canales FAST 24/7 de Pluto TV Latinoamérica con streaming verificado. |
