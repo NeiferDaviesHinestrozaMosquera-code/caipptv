@@ -191,12 +191,12 @@ def generate_playlists():
     write_m3u("cxtv_completa_web.m3u", all_with_web, "Completa (Directos + Web/YouTube)")
 
     # 8. VOD Movies & Series
+    vod_channels = []
     vod_file = "vod_catalog.json"
     if os.path.exists(vod_file):
         try:
             with open(vod_file, "r", encoding="utf-8") as vf:
                 vod_items = json.load(vf)
-            vod_channels = []
             for v in vod_items:
                 vod_channels.append({
                     "id": v["id"],
@@ -211,6 +211,66 @@ def generate_playlists():
             write_m3u("cxtv_vod_peliculas.m3u", vod_channels, "Películas y Series a la Carta VOD")
         except Exception as e:
             print(f"Error generating VOD m3u: {e}")
+
+    # 9. Master Playlist for VLC (All Live channels + VOD + VLC Optimizations)
+    def write_vlc_master(filename):
+        content = '#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n'
+        content += '# ============================================================\n'
+        content += '# CXTv IPTV MASTER PLAYLIST - OPTIMIZADA PARA VLC MEDIA PLAYER\n'
+        content += '# Canales En Vivo (Colombia, Deportes, TVporInternet, Teleonline, Pluto) + VOD\n'
+        content += '# ============================================================\n\n'
+
+        # Master channels ordered logically:
+        # 1. Colombia HD
+        # 2. TVporInternet Premium Sports & Entertainment
+        # 3. Teleonline TDT / Spain
+        # 4. Pluto TV Latino
+        # 5. VOD Movies
+        # 6. All remaining active Latin American & International HLS streams
+        master_channels = []
+        seen_urls = set()
+
+        def add_unique(ch_list):
+            for c in ch_list:
+                s_url = c.get('stream_url', '')
+                if s_url and s_url not in seen_urls:
+                    seen_urls.add(s_url)
+                    master_channels.append(c)
+
+        add_unique(colombia_channels)
+        add_unique(tvpi_channels)
+        add_unique(teleonline_channels)
+        add_unique(vod_channels)
+        add_unique(pluto_channels)
+        add_unique([c for c in hls_channels if any(sc.lower() in c.get('country', '').lower() for sc in SPANISH_COUNTRIES)])
+        add_unique(hls_channels)
+
+        for c in master_channels:
+            name = clean_string(c.get('name', 'Canal'))
+            logo = c.get('logo', '')
+            group_title = get_canonical_category(c)
+            stream_url = c.get('stream_url', '')
+            tvg_id = c.get('tvg_id') or c.get('id', name.replace(' ', ''))
+            referer = c.get('referer', '')
+
+            content += f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group_title}",{name}\n'
+            content += '#EXTVLCOPT:network-caching=2500\n'
+            content += '#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36\n'
+            if referer:
+                content += f'#EXTVLCOPT:http-referrer={referer}\n'
+            content += f'{stream_url}\n'
+
+        with open(filename, 'w', encoding='utf-8') as f:
+            f.write(content)
+
+        player_dir = "player"
+        if os.path.exists(player_dir):
+            with open(os.path.join(player_dir, filename), 'w', encoding='utf-8') as pf:
+                pf.write(content)
+
+        print(f"-> Generated {filename} (VLC Master) with {len(master_channels)} channels & movies.")
+
+    write_vlc_master("cxtv_master_vlc.m3u")
 
 if __name__ == "__main__":
     generate_playlists()

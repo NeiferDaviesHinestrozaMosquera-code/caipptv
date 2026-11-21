@@ -50,6 +50,8 @@ def main():
     print(f"\nCopiando archivos IPTV a: {target_dir} ...\n")
 
     files_to_copy = [
+        "cxtv_master_vlc.m3u",
+        "ver_en_vlc.bat",
         "cxtv_caixun_smarttv.m3u",
         "cxtv_tvporinternet.m3u",
         "cxtv_teleonline.m3u",
