@@ -1,10 +1,11 @@
 import requests
 from concurrent.futures import ThreadPoolExecutor
 
-# Curated candidates for top Colombian channels (tested and working)
+# Curated candidates for top Colombian channels (tested and working with EPG IDs)
 CANDIDATES = [
     {
         "id": "caracol-tv-hd",
+        "tvg_id": "Caracol.co",
         "name": "Caracol TV HD",
         "country": "Colombia",
         "categories": ["General", "Noticias", "Variedades"],
@@ -20,6 +21,7 @@ CANDIDATES = [
     },
     {
         "id": "caracol-hd2",
+        "tvg_id": "Caracol.co",
         "name": "Caracol HD2",
         "country": "Colombia",
         "categories": ["Deportes", "Variedades"],
@@ -32,6 +34,7 @@ CANDIDATES = [
     },
     {
         "id": "caracol-internacional",
+        "tvg_id": "Caracol.co",
         "name": "Caracol Internacional",
         "country": "Colombia",
         "categories": ["Noticias", "Variedades"],
@@ -45,6 +48,7 @@ CANDIDATES = [
     },
     {
         "id": "rcn-television-hd",
+        "tvg_id": "RCN.co",
         "name": "Canal RCN HD",
         "country": "Colombia",
         "categories": ["General", "Noticias", "Telenovelas"],
@@ -60,6 +64,7 @@ CANDIDATES = [
     },
     {
         "id": "senal-colombia",
+        "tvg_id": "Señal.Colombia.co",
         "name": "Señal Colombia",
         "country": "Colombia",
         "categories": ["Cultura", "Educación", "Deportes"],
@@ -73,6 +78,7 @@ CANDIDATES = [
     },
     {
         "id": "canal-institucional",
+        "tvg_id": "Canal.Institucional.co",
         "name": "Canal Institucional",
         "country": "Colombia",
         "categories": ["Público", "Noticias"],
@@ -87,6 +93,7 @@ CANDIDATES = [
     },
     {
         "id": "canal-1-hd",
+        "tvg_id": "Canal.1.co",
         "name": "Canal 1 HD",
         "country": "Colombia",
         "categories": ["General", "Noticias", "Variedades"],
@@ -100,6 +107,7 @@ CANDIDATES = [
     },
     {
         "id": "canal-trece",
+        "tvg_id": "Canal.Trece.co",
         "name": "Canal Trece",
         "country": "Colombia",
         "categories": ["Cultura", "Música", "Jóvenes"],
@@ -111,6 +119,7 @@ CANDIDATES = [
     },
     {
         "id": "teleantioquia-hd",
+        "tvg_id": "Teleantioquia.co",
         "name": "Teleantioquia HD",
         "country": "Colombia",
         "categories": ["Regional", "Noticias", "Cultura"],
@@ -125,6 +134,7 @@ CANDIDATES = [
     },
     {
         "id": "telecaribe-hd",
+        "tvg_id": "Telecaribe.co",
         "name": "Telecaribe HD",
         "country": "Colombia",
         "categories": ["Regional", "Noticias", "Cultura"],
@@ -138,6 +148,7 @@ CANDIDATES = [
     },
     {
         "id": "telecafe-hd",
+        "tvg_id": "Telecafe.co",
         "name": "Telecafé HD",
         "country": "Colombia",
         "categories": ["Regional", "Noticias", "Cultura"],
@@ -152,6 +163,7 @@ CANDIDATES = [
     },
     {
         "id": "telepacifico-hd",
+        "tvg_id": "Telepacifico.co",
         "name": "Telepacífico HD",
         "country": "Colombia",
         "categories": ["Regional", "Noticias", "Cultura"],
@@ -164,6 +176,7 @@ CANDIDATES = [
     },
     {
         "id": "canal-capital-hd",
+        "tvg_id": "CanalCapital.co",
         "name": "Canal Capital HD",
         "country": "Colombia",
         "categories": ["Regional", "Noticias", "Bogotá"],
@@ -176,6 +189,7 @@ CANDIDATES = [
     },
     {
         "id": "win-sports-hd",
+        "tvg_id": "Win.Sports.co",
         "name": "Win Sports HD",
         "country": "Colombia",
         "categories": ["Deportes", "Fútbol"],
@@ -188,6 +202,7 @@ CANDIDATES = [
     },
     {
         "id": "cablenoticias-hd",
+        "tvg_id": "Cablenoticias.co",
         "name": "Cablenoticias HD",
         "country": "Colombia",
         "categories": ["Noticias"],
@@ -199,6 +214,7 @@ CANDIDATES = [
     },
     {
         "id": "ntn24-hd",
+        "tvg_id": "NTN24.co",
         "name": "NTN24 Noticias HD",
         "country": "Colombia",
         "categories": ["Noticias"],
@@ -211,6 +227,7 @@ CANDIDATES = [
     },
     {
         "id": "blu-radio-tv",
+        "tvg_id": "BluRadio.co",
         "name": "Blu Radio TV en Vivo",
         "country": "Colombia",
         "categories": ["Noticias", "Radio"],
@@ -222,6 +239,7 @@ CANDIDATES = [
     },
     {
         "id": "red-mas-tv",
+        "tvg_id": "Red+.co",
         "name": "Red+ TV",
         "country": "Colombia",
         "categories": ["Noticias", "Variedades"],
@@ -253,6 +271,7 @@ def verify_channel(cand):
         if test_url(u):
             return {
                 "id": cand["id"],
+                "tvg_id": cand.get("tvg_id", cand["id"]),
                 "name": cand["name"],
                 "country": cand["country"],
                 "categories": cand["categories"],
@@ -265,6 +284,7 @@ def verify_channel(cand):
     # Fallback to first URL even if head was slow
     return {
         "id": cand["id"],
+        "tvg_id": cand.get("tvg_id", cand["id"]),
         "name": cand["name"],
         "country": cand["country"],
         "categories": cand["categories"],
@@ -281,7 +301,7 @@ def get_colombia_channels():
     with ThreadPoolExecutor(max_workers=8) as executor:
         for res in executor.map(verify_channel, CANDIDATES):
             results.append(res)
-            print(f"  [OK] {res['name']} -> {res['stream_url']}")
+            print(f"  [OK] {res['name']} (EPG: {res['tvg_id']}) -> {res['stream_url']}")
     return results
 
 if __name__ == "__main__":

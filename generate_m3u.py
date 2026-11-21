@@ -55,7 +55,7 @@ def build_m3u_entry(channel, epg_url=""):
     group_title = get_canonical_category(channel)
     stream_url = channel.get('stream_url', '')
 
-    tvg_id = channel.get('id', name.replace(' ', ''))
+    tvg_id = channel.get('tvg_id') or channel.get('id', name.replace(' ', ''))
     
     entry = f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{group_title}",{name}\n{stream_url}\n'
     return entry
@@ -83,9 +83,13 @@ def generate_playlists():
     ]
 
     # 4. Smart TV Curated list (Latin America + Top Entertainment / Sports / News)
+    # Exclude streams verified as dead/offline
+    active_hls = [c for c in hls_channels if c.get('is_active') is not False]
+    active_latam = [c for c in latam_channels if c.get('is_active') is not False]
+
     smart_tv_channels = []
-    smart_tv_channels.extend(latam_channels)
-    for c in hls_channels:
+    smart_tv_channels.extend(active_latam)
+    for c in active_hls:
         if c not in smart_tv_channels:
             cats = [cat.lower() for cat in c.get('categories', [])]
             if any(k in cats for k in ['cine', 'serie', 'musica', 'deportes1', 'futbol', 'documentales']):
@@ -110,8 +114,9 @@ def generate_playlists():
 
     # Write files
     def write_m3u(filename, channel_list, header_title="CXTv IPTV"):
-        content = f'#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"\n'
+        content = f'#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"\n'
         content += f'# CXTv IPTV Playlist: {header_title}\n'
+        content += f'# Guía EPG: Colombia y LATAM integrada\n'
         content += f'# Generado para Smart TV Caixun (Whale OS) y reproductores compatibles\n\n'
         for c in channel_list:
             content += build_m3u_entry(c)

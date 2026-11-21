@@ -1,8 +1,9 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 # CXTv IPTV Playlist: Canales de Música y Videos
+# Guía EPG: Colombia y LATAM integrada
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
-#EXTINF:-1 tvg-id="canal-trece" tvg-name="Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canal_Trece_Colombia_logo_2018.png" group-title="🇨🇴 Colombia - Regional",Canal Trece
+#EXTINF:-1 tvg-id="Canal.Trece.co" tvg-name="Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canal_Trece_Colombia_logo_2018.png" group-title="🇨🇴 Colombia - Regional",Canal Trece
 http://190.60.46.228:8888/play/a030/index.m3u8
 #EXTINF:-1 tvg-id="30a-tv-music-channel" tvg-name="30A TV - Music Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d8d049e8a770a9f01754e7861c70fd33.webp" group-title="🎵 Música",30A TV - Music Channel
 https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8

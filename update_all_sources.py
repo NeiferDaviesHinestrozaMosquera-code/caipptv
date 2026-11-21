@@ -2,6 +2,7 @@ import os
 import json
 from fetch_pluto import get_pluto_channels
 from fetch_colombia import get_colombia_channels
+import validate_streams
 import generate_m3u
 
 MASTER_JSON = "cxtv_channels.json"
@@ -64,8 +65,17 @@ def merge_sources():
 
     print(f"\n[+] Archivos JSON actualizados con éxito.")
 
-    # 4. Regenerate all M3U playlists
-    print("\n[+] Regenerando todas las listas M3U / M3U8...")
+    # 4. Fast Stream Health Check on channels
+    print("\n[4/4] Ejecutando validación de señales activas (Health Check)...")
+    # Validate Latin America, Colombia and Pluto TV channels for fast verification
+    latam_and_priority = [
+        c for c in merged_list 
+        if c.get("country") in ["Colombia", "Latinoamérica", "México", "Argentina", "España"] or c.get("id", "").startswith("pluto-")
+    ]
+    validate_streams.validate_all_streams(max_workers=35, target_channels=latam_and_priority)
+
+    # 5. Regenerate all M3U playlists with EPG
+    print("\n[+] Regenerando todas las listas M3U / M3U8 con guía EPG integrada...")
     generate_m3u.generate_playlists()
 
     print("\n" + "=" * 60)

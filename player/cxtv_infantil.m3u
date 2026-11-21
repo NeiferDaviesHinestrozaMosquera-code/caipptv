@@ -1,5 +1,6 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 # CXTv IPTV Playlist: Canales para Niños e Infantiles
+# Guía EPG: Colombia y LATAM integrada
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
 #EXTINF:-1 tvg-id="3-abn-kids" tvg-name="3ABN KIDS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="👶 Niños e Infantil",3ABN KIDS

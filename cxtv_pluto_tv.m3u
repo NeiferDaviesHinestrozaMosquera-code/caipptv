@@ -1,5 +1,6 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iptv-org/epg/master/sites/directv.com.ar.epg.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz" x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_CO1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 # CXTv IPTV Playlist: Canales FAST Gratuitos Pluto TV Latino
+# Guía EPG: Colombia y LATAM integrada
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
 #EXTINF:-1 tvg-id="pluto-pluto-tv-cine-accion" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1760378798093.png" group-title="🎬 Cine y Series",Pluto TV Cine Acción
