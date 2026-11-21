@@ -2,6 +2,42 @@
 # CXTv IPTV Playlist: Canales en Español y Latinoamérica
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
+#EXTINF:-1 tvg-id="caracol-tv-hd" tvg-name="Caracol TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - General",Caracol TV HD
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-id="caracol-hd2" tvg-name="Caracol HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - Deportes",Caracol HD2
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="caracol-internacional" tvg-name="Caracol Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - General",Caracol Internacional
+https://streaming.onnethn.com/CARACOL_INTERNACIONAL/playlist.m3u8
+#EXTINF:-1 tvg-id="rcn-television-hd" tvg-name="Canal RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RCN_Television_logo.svg" group-title="🇨🇴 Colombia - General",Canal RCN HD
+http://138.121.15.230:9002/RCN/index.m3u8
+#EXTINF:-1 tvg-id="senal-colombia" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Se%C3%B1al_Colombia_logo_2020.svg" group-title="🇨🇴 Colombia - Público",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-institucional" tvg-name="Canal Institucional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Canal_Institucional_logo_2020.svg" group-title="🇨🇴 Colombia - Público",Canal Institucional
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="canal-1-hd" tvg-name="Canal 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Canal_1_Colombia_logo.svg" group-title="🇨🇴 Colombia - General",Canal 1 HD
+http://190.109.2.92:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="canal-trece" tvg-name="Canal Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Canal_Trece_Colombia_logo_2018.png" group-title="🇨🇴 Colombia - Regional",Canal Trece
+http://190.60.46.228:8888/play/a030/index.m3u8
+#EXTINF:-1 tvg-id="teleantioquia-hd" tvg-name="Teleantioquia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Teleantioquia_logo.svg" group-title="🇨🇴 Colombia - Regional",Teleantioquia HD
+http://138.121.15.230:9002/TELEANTIOQUIA/index.m3u8
+#EXTINF:-1 tvg-id="telecaribe-hd" tvg-name="Telecaribe HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Telecaribe_logo_2018.png" group-title="🇨🇴 Colombia - Regional",Telecaribe HD
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 tvg-id="telecafe-hd" tvg-name="Telecafé HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Telecaf%C3%A9_logo.png" group-title="🇨🇴 Colombia - Regional",Telecafé HD
+http://138.121.15.230:9002/TELECAFE/index.m3u8
+#EXTINF:-1 tvg-id="telepacifico-hd" tvg-name="Telepacífico HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Telepac%C3%ADfico_logo_2020.svg" group-title="🇨🇴 Colombia - Regional",Telepacífico HD
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
+#EXTINF:-1 tvg-id="canal-capital-hd" tvg-name="Canal Capital HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Canal_Capital_logo_2020.png" group-title="🇨🇴 Colombia - Regional",Canal Capital HD
+http://138.121.15.230:9002/CANAL-CAPITAL/index.m3u8
+#EXTINF:-1 tvg-id="win-sports-hd" tvg-name="Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Win_Sports_logo.svg" group-title="⚽ Deportes y Fútbol",Win Sports HD
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-id="cablenoticias-hd" tvg-name="Cablenoticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Logo_Cablenoticias.png" group-title="📰 Noticias",Cablenoticias HD
+http://181.78.211.244:8005/play/a09u/index.m3u8
+#EXTINF:-1 tvg-id="ntn24-hd" tvg-name="NTN24 Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/NTN24_logo.png" group-title="📰 Noticias",NTN24 Noticias HD
+https://stream1.bitred.cl/ntn24/index.m3u8
+#EXTINF:-1 tvg-id="blu-radio-tv" tvg-name="Blu Radio TV en Vivo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Blu_Radio_logo.png" group-title="🇨🇴 Colombia - Noticias",Blu Radio TV en Vivo
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+#EXTINF:-1 tvg-id="red-mas-tv" tvg-name="Red+ TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/Red%2B_logo.png" group-title="🇨🇴 Colombia - General",Red+ TV
+https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHD)/index.m3u8
 #EXTINF:-1 tvg-id="15-tv" tvg-name="15 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e277fbff1d036a1c11aa18f8befee081.webp" group-title="📰 Noticias",15 TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-id="13-tv" tvg-name="13 TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f5d4a433a6402346d4390128d7a518.webp" group-title="🎬 Cine y Series",13 TV en directo

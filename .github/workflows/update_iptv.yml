@@ -30,9 +30,9 @@ jobs:
         run: |
           python cxtv_scraper.py
 
-      - name: Generar listas M3U / M3U8
+      - name: Integrar Multi-fuente (Pluto TV, Colombia HD) y generar M3U
         run: |
-          python generate_m3u.py
+          python update_all_sources.py
 
       - name: Guardar y subir cambios al repositorio
         run: |

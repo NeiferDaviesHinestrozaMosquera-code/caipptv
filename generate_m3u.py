@@ -15,6 +15,10 @@ def clean_string(s):
     return re.sub(r'[\r\n\t]+', ' ', s).strip()
 
 def get_canonical_category(channel):
+    # If channel already has a designated emoji category, preserve it
+    if channel.get('group') and any(channel.get('group', '').startswith(e) for e in ['🇨🇴', '⚽', '🎬', '📰', '👶', '🎵', '📺', '📚', '🙏', '👾', '✨', '🌎', '🌐']):
+        return channel['group']
+
     country = channel.get('country', 'Internacional')
     categories = [c.lower() for c in channel.get('categories', [])]
     
@@ -98,7 +102,10 @@ def generate_playlists():
     infantil_channels = [c for c in hls_channels if match_cat(c, ['niños', 'ninos'])]
     musica_channels = [c for c in hls_channels if match_cat(c, ['música', 'musica'])]
 
-    # 6. Full list including web & youtube
+    # 6. Pluto TV channels
+    pluto_channels = [c for c in hls_channels if 'pluto' in c.get('id', '') or 'Pluto TV' in c.get('categories', [])]
+
+    # 7. Full list including web & youtube
     all_with_web = [c for c in channels if c.get('stream_url')]
 
     # Write files
@@ -122,6 +129,7 @@ def generate_playlists():
     write_m3u("cxtv_caixun_smarttv.m3u", smart_tv_channels, "Optimizado para Caixun Whale OS con Categorías")
     write_m3u("cxtv_colombia.m3u", colombia_channels, "Canales de Colombia")
     write_m3u("cxtv_latam.m3u", latam_channels, "Canales en Español y Latinoamérica")
+    write_m3u("cxtv_pluto_tv.m3u", pluto_channels, "Canales FAST Gratuitos Pluto TV Latino")
     write_m3u("cxtv_deportes.m3u", deportes_channels, "Canales de Deportes y Fútbol")
     write_m3u("cxtv_cine.m3u", cine_channels, "Canales de Cine, Series y Telenovelas")
     write_m3u("cxtv_noticias.m3u", noticias_channels, "Canales de Noticias en Vivo")

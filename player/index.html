@@ -309,6 +309,7 @@
       <div class="filter-pills" id="country-pills">
         <div class="pill active" data-country="all">Todos</div>
         <div class="pill" data-country="Colombia">🇨🇴 Colombia</div>
+        <div class="pill" data-country="Pluto">✨ Pluto TV</div>
         <div class="pill" data-country="México">🇲🇽 México</div>
         <div class="pill" data-country="Argentina">🇦🇷 Argentina</div>
         <div class="pill" data-country="España">🇪🇸 España</div>
@@ -318,6 +319,7 @@
         <div class="pill active" data-cat="all">Todas las Categorías</div>
         <div class="pill" data-cat="Deportes">⚽ Deportes</div>
         <div class="pill" data-cat="Cine">🎬 Cine y Series</div>
+        <div class="pill" data-cat="Anime">👾 Animé</div>
         <div class="pill" data-cat="Noticias">📰 Noticias</div>
         <div class="pill" data-cat="Niños">👶 Niños</div>
         <div class="pill" data-cat="Música">🎵 Música</div>
@@ -404,7 +406,11 @@
       let filtered = allChannels;
 
       if (currentCountry !== 'all') {
-        filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentCountry.toLowerCase()));
+        if (currentCountry.toLowerCase() === 'pluto') {
+          filtered = filtered.filter(c => (c.id && c.id.startsWith('pluto-')) || (c.categories && c.categories.includes('Pluto TV')));
+        } else {
+          filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentCountry.toLowerCase()));
+        }
       }
 
       if (currentCategory !== 'all') {
@@ -413,6 +419,7 @@
           const cats = (c.categories || []).map(cat => cat.toLowerCase());
           if (catKey === 'cine') return cats.some(cat => ['cine', 'serie', 'telenovelas'].includes(cat));
           if (catKey === 'deportes') return cats.some(cat => ['deportes', 'deportes1', 'futbol', 'coches'].includes(cat));
+          if (catKey === 'anime') return cats.some(cat => ['anime', 'animé', 'animé & gaming', 'animación'].includes(cat));
           if (catKey === 'niños') return cats.some(cat => ['niños', 'ninos'].includes(cat));
           if (catKey === 'música') return cats.some(cat => ['música', 'musica'].includes(cat));
           if (catKey === 'noticias') return cats.some(cat => ['noticias', 'clima'].includes(cat));

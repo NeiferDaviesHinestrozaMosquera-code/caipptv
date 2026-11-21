@@ -53,6 +53,7 @@ def main():
         "cxtv_caixun_smarttv.m3u",
         "cxtv_colombia.m3u",
         "cxtv_latam.m3u",
+        "cxtv_pluto_tv.m3u",
         "cxtv_deportes.m3u",
         "cxtv_cine.m3u",
         "cxtv_noticias.m3u",

@@ -2,6 +2,12 @@
 # CXTv IPTV Playlist: Canales de Deportes y Fútbol
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
+#EXTINF:-1 tvg-id="caracol-hd2" tvg-name="Caracol HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Caracol_Televisi%C3%B3n_logo.svg" group-title="🇨🇴 Colombia - Deportes",Caracol HD2
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 tvg-id="senal-colombia" tvg-name="Señal Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Se%C3%B1al_Colombia_logo_2020.svg" group-title="🇨🇴 Colombia - Público",Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="win-sports-hd" tvg-name="Win Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Win_Sports_logo.svg" group-title="⚽ Deportes y Fútbol",Win Sports HD
+http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-id="accdn" tvg-name="ACCDN" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3abf938e35ab3f86b10656fc9fb0a7c5.webp" group-title="⚽ Deportes",ACCDN
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="acelerados" tvg-name="Acelerados" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b1e4a1432456ddb189674469166fcf7.webp" group-title="⚽ Deportes",Acelerados
@@ -228,3 +234,27 @@ https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 https://amg00218-amg00218c2-canelatv-international-5827.playouts.now.amagi.tv/playlist/amg00218-wptenterprisesfast-worldpokertourespanol-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-id="xfc-tv" tvg-name="XFC TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f252a142da339ed4842d9604f38334.webp" group-title="⚽ Deportes",XFC TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2351
+#EXTINF:-1 tvg-id="pluto-pluto-tv-deportes" tvg-name="Pluto TV Deportes" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG_1766080575034.png" group-title="⚽ Deportes",Pluto TV Deportes
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=a638bb93-f978-4610-81ce-b4b25ea15ae3&sid=1218adea-5ae2-465a-926e-07da46b71e97
+#EXTINF:-1 tvg-id="pluto-pluto-tv-peleas" tvg-name="Pluto TV Peleas" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png" group-title="⚽ Deportes",Pluto TV Peleas
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=c2134c59-5744-47cd-be31-c772cd884e4b&sid=6fbf5d3f-1152-4fba-963f-29534bad02a1
+#EXTINF:-1 tvg-id="pluto-claro-sports" tvg-name="Claro Sports FAST" tvg-logo="https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG_1791496367503.png" group-title="⚽ Deportes",Claro Sports FAST
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=4093b25a-0c52-4660-ae37-d4333afd0c89&sid=93840a1a-ec26-4b04-ac05-b3e18f9b072e
+#EXTINF:-1 tvg-id="pluto-futbol" tvg-name="Pluto TV Fútbol" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG_1777492822828.png" group-title="⚽ Deportes",Pluto TV Fútbol
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=34535c6d-471e-4aaa-b889-462a1700735b&sid=349a0e77-9bf7-48d3-bfc1-c9e2398c8eaf
+#EXTINF:-1 tvg-id="pluto-itv-deportes" tvg-name="AYM Sports 3" tvg-logo="https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG_1787686705454.png" group-title="⚽ Deportes",AYM Sports 3
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=a123edb2-7862-4825-ac55-563ecd521b33&sid=321b9ae5-4040-43d9-9fce-a31f200951df
+#EXTINF:-1 tvg-id="pluto-pfl-mma" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png" group-title="⚽ Deportes",PFL MMA
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=5ca832f5-cc32-4587-8e34-44ceadd253c1&sid=288db6fa-f702-4cca-b914-7b1cc4cbc20f
+#EXTINF:-1 tvg-id="pluto-fifa" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png" group-title="⚽ Deportes",FIFA+
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=e11b3932-8048-4674-9819-9a56295fd901&sid=d4a4c247-d939-42d8-a667-3e0e55f0af06
+#EXTINF:-1 tvg-id="pluto-red-bull-tv-ptv1" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/67813f893886aa863497733d/colorLogoPNG.png" group-title="⚽ Deportes",Red Bull TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67813f893886aa863497733d/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=dda9f923-686d-4a85-be68-87ea14482f18&sid=9fbac812-44f3-4bea-8f16-194ee7da6f33
+#EXTINF:-1 tvg-id="pluto-realmadrid-tv-ptv1" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/67a3b45a21af380008133aa4/colorLogoPNG.png" group-title="⚽ Deportes",Realmadrid TV
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a3b45a21af380008133aa4/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=b0ef3b39-f799-448f-9b61-3e6e96954931&sid=972a5002-e7ac-451f-a7e1-25c3894991b3
+#EXTINF:-1 tvg-id="pluto-top-barca" tvg-name="Barça 24H" tvg-logo="https://images.pluto.tv/channels/67a52c8397782f00081879aa/colorLogoPNG_1793619685355.png" group-title="⚽ Deportes",Barça 24H
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a52c8397782f00081879aa/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=036ce635-cf20-412e-bbce-6788165e1829&sid=2dda20b5-e2e0-42dc-964b-3ed9a06a3abc
+#EXTINF:-1 tvg-id="pluto-ufc-ptv1" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG_1772478524925.png" group-title="⚽ Deportes",UFC
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=d4455363-901a-442e-9313-c0580dec8322&sid=62f7583f-53e6-443a-8eb3-4bccdac20441
+#EXTINF:-1 tvg-id="pluto-nfl-channel-ptv1" tvg-name="NFL Channel" tvg-logo="https://images.pluto.tv/channels/6a68cb5a116cd6d17dba0b95/colorLogoPNG_1785253726745.png" group-title="⚽ Deportes",NFL Channel
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6a68cb5a116cd6d17dba0b95/master.m3u8?deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=120.0&deviceDNT=0&appVersion=5.0.0&appName=web&deviceId=00250cd1-edbe-4cec-b851-57660c363c5b&sid=d1369335-1c0e-434d-84d2-82a30552128e
