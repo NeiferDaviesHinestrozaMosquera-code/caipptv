@@ -37,7 +37,7 @@ def merge_sources():
 
     # 5. Fetch Pluto TV Latin America
     print("\n[5/5] Obteniendo canales FAST gratuitos de Pluto TV...")
-    pluto_channels = get_pluto_channels()
+    pluto_channels = get_pluto_channels(verify=True, max_workers=12)
 
     # Merge strategy:
     # Priority order:

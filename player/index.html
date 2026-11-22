@@ -463,7 +463,7 @@
       <div class="filter-pills" id="country-pills">
         <div class="pill active" data-country="all">Todos</div>
         <div class="pill" data-country="Colombia">🇨🇴 Colombia</div>
-        <div class="pill" data-country="Pluto">✨ Pluto TV</div>
+        <div class="pill" data-country="Premium">⚡ Deportes Premium</div>
         <div class="pill" data-country="México">🇲🇽 México</div>
         <div class="pill" data-country="Argentina">🇦🇷 Argentina</div>
         <div class="pill" data-country="España">🇪🇸 España</div>
@@ -610,7 +610,9 @@
       let filtered = allChannels;
 
       if (currentCountry !== 'all') {
-        if (currentCountry.toLowerCase() === 'pluto') {
+        if (currentCountry.toLowerCase() === 'premium') {
+          filtered = filtered.filter(c => (c.id && (c.id.startsWith('tvpi-') || c.id.startsWith('tlo-'))) || (c.source && c.source.includes('TVporInternet')) || (c.group && c.group.includes('TVpI')));
+        } else if (currentCountry.toLowerCase() === 'pluto') {
           filtered = filtered.filter(c => (c.id && c.id.startsWith('pluto-')) || (c.categories && c.categories.includes('Pluto TV')));
         } else {
           filtered = filtered.filter(c => c.country && c.country.toLowerCase().includes(currentCountry.toLowerCase()));
