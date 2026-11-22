@@ -766,6 +766,17 @@
         iframeEl.style.display = 'none';
         videoEl.style.display = 'block';
 
+        function getPlayableUrl(url) {
+          if (!url) return url;
+          // Canales de Pluto TV y CDNs restrictivos requieren proxy CORS en navegadores
+          if (url.includes('pluto.tv') || url.includes('stitcher')) {
+            if (window.location.protocol.startsWith('http')) {
+              return `${window.location.origin}/proxy?url=${encodeURIComponent(url)}`;
+            }
+          }
+          return url;
+        }
+
         if (Hls.isSupported()) {
           if (hls) hls.destroy();
           hls = new Hls({
@@ -773,7 +784,9 @@
             lowLatencyMode: true,
             backBufferLength: 90
           });
-          hls.loadSource(item.stream_url);
+          
+          let targetStream = getPlayableUrl(item.stream_url);
+          hls.loadSource(targetStream);
           hls.attachMedia(videoEl);
 
           hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
@@ -802,12 +815,23 @@
             }
           });
 
+          let proxyRetryAttempted = targetStream.includes('/proxy?url=');
+
           hls.on(Hls.Events.ERROR, function (event, data) {
             if (data.fatal) {
               switch (data.type) {
                 case Hls.ErrorTypes.NETWORK_ERROR:
-                  showStatus("Error de red. Reconectando...");
-                  hls.startLoad();
+                  if (!proxyRetryAttempted && window.location.protocol.startsWith('http')) {
+                    proxyRetryAttempted = true;
+                    console.warn("Fallo de red/CORS. Reintentando señal a través del proxy CORS...");
+                    showStatus("Conectando señal vía Proxy de alta compatibilidad...");
+                    targetStream = `${window.location.origin}/proxy?url=${encodeURIComponent(item.stream_url)}`;
+                    hls.loadSource(targetStream);
+                    hls.startLoad();
+                  } else {
+                    showStatus("Error de red. Reconectando...");
+                    hls.startLoad();
+                  }
                   break;
                 case Hls.ErrorTypes.MEDIA_ERROR:
                   hls.recoverMediaError();
@@ -820,7 +844,7 @@
             }
           });
         } else if (videoEl.canPlayType('application/vnd.apple.mpegurl')) {
-          videoEl.src = item.stream_url;
+          videoEl.src = getPlayableUrl(item.stream_url);
           videoEl.addEventListener('loadedmetadata', function () {
             hideStatus();
             videoEl.play();
