@@ -4,11 +4,11 @@
 # Generado para Smart TV Caixun (Whale OS) y reproductores compatibles
 
 #EXTINF:-1 tvg-id="disney-channel.tvpi" tvg-name="Disney Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/disneychannel.webp" group-title="👶 Niños e Infantil (TVpI)",Disney Channel (TVpI)
-https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=ec728bfa0142cc934f22b3a7970309d5e3bd0f81-81d87580c8586378c1de228c52614820-1795298754-1795277154
-#EXTINF:-1 tvg-id="tooncast.tvpi" tvg-name="Tooncast (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tooncast.webp" group-title="👶 Niños e Infantil (TVpI)",Tooncast (TVpI)
-https://regionales.saohgdassregions.com/playlist/32/index.m3u8?token=11775f641f1c52ebc3a273daf78306391d7c463e-5b6569d637062c765087ce5f74b685eb-1795298754-1795277154
+https://regionales.saohgdassregions.com/playlist/28/index.m3u8?token=48e6902d4834b93cb490b6cf65fd50cee82a960f-05c77f87a6fa2160c75a0e91725aba02-1795469556-1795447956
 #EXTINF:-1 tvg-id="cartoon-network.tvpi" tvg-name="Cartoon Network (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cartoonnetwork.webp" group-title="👶 Niños e Infantil (TVpI)",Cartoon Network (TVpI)
-https://regionales.saohgdassregions.com/playlist/31/index.m3u8?token=fc6b5873b142c215529e67a771184bfdb69ef978-746e22b52e6f8ac407f83f4af86880dc-1795298754-1795277154
+https://regionales.saohgdassregions.com/playlist/31/index.m3u8?token=d70873d47b56690eef58202cbfabb79c5420b8fe-3b71580925b27341b9310e559246a0b2-1795469556-1795447956
+#EXTINF:-1 tvg-id="tooncast.tvpi" tvg-name="Tooncast (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tooncast.webp" group-title="👶 Niños e Infantil (TVpI)",Tooncast (TVpI)
+https://regionales.saohgdassregions.com/playlist/32/index.m3u8?token=2bd67c6c08c9949852add4ae4ca5b1ca54a51062-b2b16d09b589eb071e5fe2d5c9a2b7ad-1795469556-1795447956
 #EXTINF:-1 tvg-id="BobEsponja.de@ES" tvg-name="Bob Esponja (720p) (TLO)" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="🇪🇸 España TDT (Teleonline)",Bob Esponja (720p) (TLO)
 https://jmp2.uk/plu-5f1aca0b4e448e00075e7c5e.m3u8
 #EXTINF:-1 tvg-id="3-abn-kids" tvg-name="3ABN KIDS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/42de800d69d78117b03852bac7ae3818.webp" group-title="👶 Niños e Infantil",3ABN KIDS

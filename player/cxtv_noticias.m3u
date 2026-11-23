@@ -33,6 +33,8 @@ https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
 https://inforedvos.lcdn.claro.net.co/Content/HLS_HLS_DIR/Live/channel(REDMASHD)/index.m3u8
 #EXTINF:-1 tvg-id="Actualidad360.es@SD" tvg-name="Actualidad 360 (TLO)" tvg-logo="https://i.imgur.com/3YeTu0n.png" group-title="🇪🇸 España TDT (Teleonline)",Actualidad 360 (TLO)
 https://jmp2.uk/plu-67517fae5534bb0008187997.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-name="France 24 Spanish (1080p) (TLO)" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="🇪🇸 España TDT (Teleonline)",France 24 Spanish (1080p) (TLO)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="15-tv" tvg-name="15 TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e277fbff1d036a1c11aa18f8befee081.webp" group-title="📰 Noticias",15 TV
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-id="12-news-mesa" tvg-name="12 News" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/20d0f2c57f5f03080aff57ed31650dd5.webp" group-title="📰 Noticias",12 News

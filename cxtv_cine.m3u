@@ -5,56 +5,56 @@
 
 #EXTINF:-1 tvg-id="RCN.co" tvg-name="Canal RCN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/RCN_Television_logo.svg" group-title="🇨🇴 Colombia - General",Canal RCN HD
 http://138.121.15.230:9002/RCN/index.m3u8
-#EXTINF:-1 tvg-id="star-channel.tvpi" tvg-name="Star Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/starchannel.webp" group-title="🎬 Cine y Series Premium (TVpI)",Star Channel (TVpI)
-https://regionales.saohgdassregions.com/playlist/54/index.m3u8?token=03525e406b7b6e4897b61e0b4f0a78c62b74984b-f1f353e161449337bcead2bf1bcf02e8-1795298755-1795277155
 #EXTINF:-1 tvg-id="tnt-series.tvpi" tvg-name="TNT Series (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tntseries.webp" group-title="🎬 Cine y Series Premium (TVpI)",TNT Series (TVpI)
-https://regionales.saohgdassregions.com/playlist/53/index.m3u8?token=40d630050eb5313a05fc379487e787ba6e5ea5f8-2e0d2a17883e62e294fa9b939c766cf2-1795298755-1795277155
+https://regionales.saohgdassregions.com/playlist/53/index.m3u8?token=a34bbd85d7a14b4efdc9395c145a00bf12a2bb7a-25fac77889753e909d50a839188bb264-1795469557-1795447957
 #EXTINF:-1 tvg-id="tnt.tvpi" tvg-name="TNT (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/tnt.webp" group-title="🎬 Cine y Series Premium (TVpI)",TNT (TVpI)
-https://regionales.saohgdassregions.com/playlist/52/index.m3u8?token=38746f5d382edb1638776df31e7d0a556025c5bf-111356f537c7095574a8753687e503e9-1795298755-1795277155
-#EXTINF:-1 tvg-id="cinemax.tvpi" tvg-name="Cinemax (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cinemax.webp" group-title="🎬 Cine y Series Premium (TVpI)",Cinemax (TVpI)
-https://regionales.saohgdassregions.com/playlist/55/index.m3u8?token=02c479643a51e67ff42940699829cd92ddeb812e-07ea6450855810f0b4eb780561a2f595-1795298756-1795277156
+https://regionales.saohgdassregions.com/playlist/52/index.m3u8?token=8c715e62860f66732a3f0a3d1c42219b2a204902-54371d5ebce336a5ef363edb7240adce-1795469557-1795447957
+#EXTINF:-1 tvg-id="star-channel.tvpi" tvg-name="Star Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/starchannel.webp" group-title="🎬 Cine y Series Premium (TVpI)",Star Channel (TVpI)
+https://regionales.saohgdassregions.com/playlist/54/index.m3u8?token=72b80eb6662a84d13571d9fe6d68ecac098d1df5-4ee5d303af415b9a5d38efdb3c406265-1795469557-1795447957
 #EXTINF:-1 tvg-id="warner-channel.tvpi" tvg-name="Warner Channel (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/warnerbrostv.webp" group-title="🎬 Cine y Series Premium (TVpI)",Warner Channel (TVpI)
-https://regionales.saohgdassregions.com/playlist/58/index.m3u8?token=1ae49a31b9ffa636950e9129365434b68ce6905d-4287bc98099ccc208a8b037f655c51fd-1795298756-1795277156
+https://regionales.saohgdassregions.com/playlist/58/index.m3u8?token=ca4139430383979c6504de442237d50017df8d9f-98b7dc358ec50c64bd1348ec5260502c-1795469557-1795447957
 #EXTINF:-1 tvg-id="space.tvpi" tvg-name="Space (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/space.webp" group-title="🎬 Cine y Series Premium (TVpI)",Space (TVpI)
-https://regionales.saohgdassregions.com/playlist/56/index.m3u8?token=09192f368bd8e884a9304c95ecaaa116f6b0b52d-70b0d5014f211e969da615ac94df9773-1795298756-1795277156
-#EXTINF:-1 tvg-id="fx.tvpi" tvg-name="FX (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/fx.webp" group-title="🎬 Cine y Series Premium (TVpI)",FX (TVpI)
-https://regionales.saohgdassregions.com/playlist/60/index.m3u8?token=105916af96087a47ef906a8259e34d3ae98a2db3-c04f60a761dcf8c41352c0753a3a9e78-1795298757-1795277157
-#EXTINF:-1 tvg-id="axn.tvpi" tvg-name="AXN (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/axn.webp" group-title="🎬 Cine y Series Premium (TVpI)",AXN (TVpI)
-https://regionales.saohgdassregions.com/playlist/61/index.m3u8?token=53b2d3bfa9900c6aaab6777ac7990dbf038a1a6c-07ee7e603502178e375fe402f6f8246f-1795298757-1795277157
-#EXTINF:-1 tvg-id="amc.tvpi" tvg-name="AMC (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/amc.webp" group-title="🎬 Cine y Series Premium (TVpI)",AMC (TVpI)
-https://regionales.saohgdassregions.com/playlist/63/index.m3u8?token=48073234ae8e772a4dc1a3fa15d59d9a8f473aa6-3fff2e53deb53df1350d3983114fff9c-1795298757-1795277157
+https://regionales.saohgdassregions.com/playlist/56/index.m3u8?token=923567b880083ef80bb6e3880b5374314d180366-0d40b0ba4e8cc1f48698676ac971cdc8-1795469557-1795447957
+#EXTINF:-1 tvg-id="cinemax.tvpi" tvg-name="Cinemax (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cinemax.webp" group-title="🎬 Cine y Series Premium (TVpI)",Cinemax (TVpI)
+https://regionales.saohgdassregions.com/playlist/55/index.m3u8?token=09216bacf5ed44c35eca7ed0051e5bcd97070f96-10f0fc0c54bd5e1ab1db6145c4bb8c2e-1795469557-1795447957
 #EXTINF:-1 tvg-id="cinecanal.tvpi" tvg-name="Cinecanal (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/cinecanal.webp" group-title="🎬 Cine y Series Premium (TVpI)",Cinecanal (TVpI)
-https://regionales.saohgdassregions.com/playlist/59/index.m3u8?token=d3a408c408bde54a11d01d150392296d0e127eb7-f80fc8bbe7ad8afec61c9113f106f325-1795298757-1795277157
-#EXTINF:-1 tvg-id="studio-universal.tvpi" tvg-name="Studio Universal (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/studiouniversal.webp" group-title="🎬 Cine y Series Premium (TVpI)",Studio Universal (TVpI)
-https://regionales.saohgdassregions.com/playlist/64/index.m3u8?token=f39e0a630f17182b8798fa5d2aa5745646cfc916-9a0e42bfee54186d6cdf980024299fde-1795298757-1795277157
+https://regionales.saohgdassregions.com/playlist/59/index.m3u8?token=04d248b9582e4e6ac2881703e3481c285a92af63-6e12d695b5e7e85e545d8f6ba6a1c936-1795469557-1795447957
+#EXTINF:-1 tvg-id="axn.tvpi" tvg-name="AXN (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/axn.webp" group-title="🎬 Cine y Series Premium (TVpI)",AXN (TVpI)
+https://regionales.saohgdassregions.com/playlist/61/index.m3u8?token=7dfe14e9b95b4c23aca2b48adf26fd7ad2680b68-7269958565890fdda4df53ee8fe7debc-1795469557-1795447957
+#EXTINF:-1 tvg-id="fx.tvpi" tvg-name="FX (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/fx.webp" group-title="🎬 Cine y Series Premium (TVpI)",FX (TVpI)
+https://regionales.saohgdassregions.com/playlist/60/index.m3u8?token=3fef70a84698691986c49c4f2e74d02e64b41dfd-f98f0f814847727428787cd9606a4616-1795469557-1795447957
+#EXTINF:-1 tvg-id="amc.tvpi" tvg-name="AMC (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/amc.webp" group-title="🎬 Cine y Series Premium (TVpI)",AMC (TVpI)
+https://regionales.saohgdassregions.com/playlist/63/index.m3u8?token=71206dd86d14255949bf715a10100361c29b98cb-c3bd6037de33d017f49226737a66e5b9-1795469557-1795447957
 #EXTINF:-1 tvg-id="golden.tvpi" tvg-name="Golden (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/golden.webp" group-title="🎬 Cine y Series Premium (TVpI)",Golden (TVpI)
-https://regionales.saohgdassregions.com/playlist/67/index.m3u8?token=f33e93aeab3c11c9f6163e7eb5becaa4b2b0b6ab-084f6f5ad94d0bc365abc529ebc229f6-1795298758-1795277158
+https://regionales.saohgdassregions.com/playlist/67/index.m3u8?token=4a900e9501a41098a19f163d94e39ded33ca8a42-094c8fb31a9d05ae0dc77b38d2198751-1795469558-1795447958
+#EXTINF:-1 tvg-id="studio-universal.tvpi" tvg-name="Studio Universal (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/studiouniversal.webp" group-title="🎬 Cine y Series Premium (TVpI)",Studio Universal (TVpI)
+https://regionales.saohgdassregions.com/playlist/64/index.m3u8?token=835593a11eacca8707a49de7e7d1df11bed09924-2cb24654df69eb94bd96c2634d4fbff6-1795469558-1795447958
 #EXTINF:-1 tvg-id="golden-edge.tvpi" tvg-name="Golden Edge (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/goldenedge.webp" group-title="🎬 Cine y Series Premium (TVpI)",Golden Edge (TVpI)
-https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=dbdf080e6748dee6db0b4f05ca2f687a086a692e-989270ae75f5363ef850c1536bc8bf1e-1795298758-1795277158
+https://regionales.saohgdassregions.com/playlist/69/index.m3u8?token=cb049dcd6a26ed1e873e59520e7e3efc2d4ddebc-5184a3b48242990f32fe6793be5370a6-1795469558-1795447958
 #EXTINF:-1 tvg-id="canal-sony.tvpi" tvg-name="Canal Sony (TVpI)" tvg-logo="https://www.tvporinternet.org/imge/canalsony.webp" group-title="🎬 Cine y Series Premium (TVpI)",Canal Sony (TVpI)
-https://regionales.saohgdassregions.com/playlist/72/index.m3u8?token=f4a7888993745f6b63f5451d1df7ecf234e5619c-492bc245fbccf82272b6a558016c8c12-1795298758-1795277158
-#EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7 (TLO)" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="🇪🇸 España TDT (Teleonline)",Ana y los 7 (TLO)
-https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
-#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-name="Andromeda (TLO)" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="🇪🇸 España TDT (Teleonline)",Andromeda (TLO)
-https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
+https://regionales.saohgdassregions.com/playlist/72/index.m3u8?token=f93b2b1db1ac29e5e53ffddb87c9933ee4b22a02-efa23e4f59203d64b45ebbc330a5660d-1795469558-1795447958
 #EXTINF:-1 tvg-id="AzCorazon.mx@SD" tvg-name="Az Corazon (720p) (TLO)" tvg-logo="https://i.imgur.com/KIpSdQC.png" group-title="🇪🇸 España TDT (Teleonline)",Az Corazon (720p) (TLO)
 http://200.115.120.1:8000/play/ca020/index.m3u8
 #EXTINF:-1 tvg-id="BBCDrama.uk@Spain" tvg-name="BBC Drama (1080p) (TLO)" tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="🇪🇸 España TDT (Teleonline)",BBC Drama (1080p) (TLO)
 https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Anaylos7.us@Spain" tvg-name="Ana y los 7 (TLO)" tvg-logo="https://i.imgur.com/X5g6gXS.png" group-title="🇪🇸 España TDT (Teleonline)",Ana y los 7 (TLO)
+https://jmp2.uk/plu-5f1acce7f17797000718f9be.m3u8
+#EXTINF:-1 tvg-id="Andromeda.us@Spain" tvg-name="Andromeda (TLO)" tvg-logo="https://i.imgur.com/6ot2lmd.png" group-title="🇪🇸 España TDT (Teleonline)",Andromeda (TLO)
+https://jmp2.uk/plu-6850335b5965a2fd49f7e36d.m3u8
 #EXTINF:-1 tvg-id="BomCine.es@SD" tvg-name="Bom Cine (576p) (TLO)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/960px-Logo-bom.svg.png" group-title="🇪🇸 España TDT (Teleonline)",Bom Cine (576p) (TLO)
 https://cdn78-at.azotosolutions.com/cdnedge39/Canale3/master.m3u8
-#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki (1080p) (TLO)" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="🇪🇸 España TDT (Teleonline)",Cine Friki (1080p) (TLO)
-https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-id="CineWestern.es@SD" tvg-name="Cine Western (Spain) (1080p) (TLO)" tvg-logo="https://i.imgur.com/2UROzSc.png" group-title="🇪🇸 España TDT (Teleonline)",Cine Western (Spain) (1080p) (TLO)
 https://d2nq34q0i1r3la.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-awohw8g217ho8/CineWestern_ES.m3u8
+#EXTINF:-1 tvg-id="CineFriki.es@SD" tvg-name="Cine Friki (1080p) (TLO)" tvg-logo="https://i.imgur.com/b3Ospym.png" group-title="🇪🇸 España TDT (Teleonline)",Cine Friki (1080p) (TLO)
+https://d2mr4fu91mjx9m.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rb0tx75ojbc5u/CineFriki_ES.m3u8
 #EXTINF:-1 tvg-id="CurroJimenez.us@Spain" tvg-name="Curro Jimenez (TLO)" tvg-logo="https://i.imgur.com/e3biTY5.png" group-title="🇪🇸 España TDT (Teleonline)",Curro Jimenez (TLO)
 https://jmp2.uk/plu-5f1acd36779de70007a680d1.m3u8
-#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" tvg-name="Empenos a lo bestia (TLO)" tvg-logo="https://i.imgur.com/EOttSdW.png" group-title="🇪🇸 España TDT (Teleonline)",Empenos a lo bestia (TLO)
-https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 tvg-id="ElComisario.us@Spain" tvg-name="El Comisario (TLO)" tvg-logo="https://i.imgur.com/XYt8utn.png" group-title="🇪🇸 España TDT (Teleonline)",El Comisario (TLO)
 https://jmp2.uk/plu-60c343007bcabe0007242aa6.m3u8
 #EXTINF:-1 tvg-id="Elencantadordeperros.us@Spain" tvg-name="El encantador de perros (TLO)" tvg-logo="https://i.imgur.com/hYqjQ1n.png" group-title="🇪🇸 España TDT (Teleonline)",El encantador de perros (TLO)
 https://jmp2.uk/plu-60e45687313c5f0007bc8e94.m3u8
+#EXTINF:-1 tvg-id="Empenosalobestia.us@Spain" tvg-name="Empenos a lo bestia (TLO)" tvg-logo="https://i.imgur.com/EOttSdW.png" group-title="🇪🇸 España TDT (Teleonline)",Empenos a lo bestia (TLO)
+https://jmp2.uk/plu-60218baa464ef900073168c1.m3u8
 #EXTINF:-1 tvg-id="1980-channel" tvg-name="1980 Channel" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1f46cc4e5dc24413f02ca28ab170fa77.webp" group-title="🎬 Cine y Series",1980 Channel
 https://stmv2.painelvideocast.com.br/channel80/channel80/playlist.m3u8
 #EXTINF:-1 tvg-id="13-tv" tvg-name="13 TV en directo" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e5f5d4a433a6402346d4390128d7a518.webp" group-title="🎬 Cine y Series",13 TV en directo
